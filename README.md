@@ -1,29 +1,17 @@
 # README #
 
-Bibliografske XML datoteke za projekt Croatica et Tyrolensia. --- Bibliographic data for the Croatica et Tyrolensia project (TEI XML).
+Bibliografske XML datoteke za projekt Croatica et Tyrolensia / [Croatiae auctores Latini](https://croala.ffzg.unizg.hr/). --- Bibliographic data for the Croatica et Tyrolensia / Croatiae auctores Latini project.
 
-### What is this repository for? ###
+## What is this repository for? ##
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Croalabiblio collects information on Croatian Latin authors, works, and manifestations (according to the FRBR scheme). Information is encoded in TEI XML format.
 
-### How do I get set up? ###
+* Authors: [autori](autori) folder
+* Works: [djela](djela) folder
+* Manifestations: [manifestacije](manifestacije) folder
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Who do I talk to? ##
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* CroALa PI: [Neven Jovanović](https://orcid.org/0000-0002-9119-399X)
+* CroALa website (texts): [CroALa](https://croala.ffzg.unizg.hr/)
+* Croalabib contributors: [Ana Galjanić](https://www.bib.irb.hr/pregled/profil/23629), [Željka Salopek](https://orcid.org/0000-0003-1457-7081), [Nina Čengić](https://orcid.org/0000-0002-0438-6049)
