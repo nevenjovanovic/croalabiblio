@@ -10,6 +10,15 @@ Croalabiblio collects information on Croatian Latin authors, works, and manifest
 * Works: [djela](djela) folder
 * Manifestations: [manifestacije](manifestacije) folder
 
+## Status <2022-10-30 ned>
+
+* 2884 persons `person`
+* 1793 works `bibl[@type="opus"]`
+* 418 manuscript descriptions `msDesc`
+* 915 items of secondary sources (scholarly literature) `biblStruct`
+* 5950 printed manifestations `biblStruct`
+* 686 records of drama `bibl[@type="drama"]`
+
 ## Who do I talk to? ##
 
 * CroALa PI: [Neven Jovanović](https://orcid.org/0000-0002-9119-399X)
