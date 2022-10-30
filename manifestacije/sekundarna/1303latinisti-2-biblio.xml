@@ -1,0 +1,3860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bibliografija hrvatskih latinista iz Enciklopedije Jugoslavije, elektronska verzija</title>
+<author>Kruno Krstić</author>
+<respStmt><name>Ana Alar</name> <resp>korektura</resp></respStmt>
+  <respStmt>
+    <name xml:id="NJ">
+    <ref type="viaf" target="6913774">Neven Jovanović</ref>
+  </name>
+    <resp>XML formatiranje</resp>
+  </respStmt>
+  <respStmt>
+    <name xml:id="TR">
+      <ref type="viaf" target="186990776">Tamara Runjak</ref>
+    </name>
+    <resp>Revizija hrvatskih latinista</resp>
+  </respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008-05-03T12:52:00</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority/>
+</publicationStmt>
+<sourceDesc>
+<p>OCR tiskanog izdanja; XML automatski (Open Office) i ručno označavanje (Jovanović)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change>
+<name>User</name>
+<date>2008-05-03T12:52:00</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<listBibl ana="croala.sekundarna">
+<head>LIT.:</head>
+
+<biblStruct>
+  <analytic><author>Vice Adamović</author>
+  <title> O trešnjama grada Dubrovnika</title></analytic>
+  <monogr>
+    <title xml:lang="it"> Biblioteca storica della Dalmazia</title> 
+    <editor>(ured. G. Gelcich)</editor>
+    <imprint>
+      <pubPlace>Dubrovnik</pubPlace> <date>1883</date>
+    <biblScope ana="vol">ser. II, fasc. 3 (i.e. knj. 7)</biblScope>
+    </imprint>
+  </monogr>
+</biblStruct>
+
+<!-- ovoga dole izbaciti, nije hrv. latinist! -->
+  <!-- izbačen Apih, Herberstein -->
+  
+<biblStruct>
+<analytic>
+<author><ref type="person" target="http://viaf.org/viaf/168478329"></ref> Arnolfo Bacotich</author>
+<title xml:lang="it"> Benedetto Rogacci da Ragusa (1646-1719), teologo, grammatico e poeta</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">XIV</biblScope>
+<biblScope ana="pp">551-568</biblScope></imprint>
+</monogr>
+<ref type="person" target="rogac01">Rogačić, Benedikt</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Arnolfo Bacotich</author>
+<title xml:lang="it"> Della Stemmatografia del “sedicente” dalmata Paolo Ritter</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">XXIX</biblScope>
+<biblScope ana="pp">130-141</biblScope></imprint>
+</monogr>
+<ref type="person" target="vitezov01">Ritter-Vitezović, Pavao</ref>
+<ref type="work" target="vitezov01-p08-1701">Stemmatographia sive Armorum Illyricorum delineatio, descriptio
+et restitutio authore equite Paulo Ritter</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q528042">Dalmacija</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Arnolfo Bacotich</author>
+<title xml:lang="it"> Di due opuscoli a stampa poco conosciuti dell'abate Antonio Caramaneo Mattiasevi di Lissa (1658-1721)</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace><biblScope ana="vol">IV</biblScope>
+<biblScope ana="pp">229-235</biblScope></imprint>
+</monogr>
+<ref type="person" target="matij01">Matijašević Caramaneo, Antun</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q203767">Vis (otok)</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Florio Banfi</author>
+<title xml:lang="it"> Cristina di Svezia e Stefano Gradi di Ragusa</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">XXVI</biblScope>
+<biblScope ana="pp">363-394</biblScope></imprint></monogr>
+<ref type="person" target="http://viaf.org/viaf/4931803">Cristina di Svezia</ref>
+<ref type="person" target="gradi01">Gradić, Stjepan</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Florio Banfi</author>
+<title xml:lang="it"> Giunio de'Gradi da Ragusa e la sua amicizia con Giovanni de Varadino</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">XXVI</biblScope>
+<biblScope ana="pp">273-280</biblScope></imprint></monogr>
+<ref type="person" target="gradic.junije.01">Gradić, Junije (Marinov)</ref>
+<ref type="person" target="http://viaf.org/viaf/8127841">Johannes Pannonius</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Florio Banfi</author>
+<title xml:lang="it"> Marino Ghetaldi da Ragusa e Tommaso Segeth da Edimburgo</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">XXVI</biblScope>
+<biblScope ana="pp">323-345</biblScope></imprint>
+</monogr>
+<ref type="person" target="getaldi02">Getaldić, Marin</ref>
+<ref type="person" target="http://viaf.org/viaf/165059541">Segeth, Tommaso</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- izraditi eventualno natuknicu za: Paulus de Hungaria -->
+<biblStruct>
+<analytic>
+<author>Florio Banfi</author>
+<title xml:lang="it"> Paolo Dalmata detto Ongaro a proposito dei Codici Borghes. 261 e Palat. Lat. 461 della Biblioteca Vaticana</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">XXVII</biblScope>
+<biblScope ana="pp">43-61, 133-150</biblScope></imprint>
+</monogr>
+<ref type="person" target="http://viaf.org/viaf/258689577">Paulus de Hungaria, 13. st.</ref>
+<!-- v. Krasić, St. Fr. Paulus Hungarus seu, ut alii volunt, Dalmata O.P., Prilozi za istraživanje hrvatske filozofske baštine, Vol.4. No.7-8 Prosinac 1978., str. 131-156. -->
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Janko Barlè</author>
+<title> Predstave kod zagrebačkih Isusovaca</title>
+</analytic>
+<monogr>
+<title> Vijenac</title> <imprint><pubPlace>Zagreb</pubPlace><date>1897</date>
+<biblScope ana="pp">23 (listak)</biblScope></imprint>
+</monogr>
+<note>isusovci</note>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Janko Barlè</author>
+<title> Nešto o životu Josipa Mikoczya</title>
+</analytic>
+<monogr>
+<title> Prosvjeta (Zagreb)</title> <imprint>
+<pubPlace>Zagreb</pubPlace><date>1907</date>
+  <biblScope ana="vol"> br. 10</biblScope><biblScope ana="pp">318-319</biblScope></imprint>
+</monogr>
+<ref type="person" target="mikocz01">Mikoczy, Josip</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Janko Barlè</author>
+<title> Zagrebški škof Nikolaj Selnički</title>
+</analytic>
+<monogr>
+<title> Izvestja Muzejskega društva za Kranjsko</title>
+  <imprint><pubPlace>Ljubljana</pubPlace><date>1893</date><biblScope ana="vol">III, seš. 1</biblScope></imprint>
+</monogr>
+<ref type="person" target="step01">Stepanić Selnički, Nikola</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<!-- nema u toj natuknici baš o hrv. latinistima!? -->
+  <!-- maknuto: Bartoli -->
+
+
+<biblStruct>
+<monogr>
+<author ref="bas02">Đuro Bašić</author>
+<title> Elogia Jesuitarum sa uvodom i napomenama Dr. D. Pavlovića</title>
+<imprint> <pubPlace>Zagreb</pubPlace> <date>1933</date></imprint>
+</monogr>
+<ref type="person" target="bas02">Bašić, Đuro</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+<ref type="work" target="bas02-p01-xxxx">Elogia Jesuitarum Ragusinorum</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Mijo Vjenceslav Batinić</author>
+  <title> Djelovanje Franjevaca u Bosni i Hercegovini</title>
+<imprint>
+  <pubPlace>Zagreb</pubPlace> 
+  <date>1881-1887</date><biblScope ana="vol">3 sv.</biblScope></imprint>
+</monogr>
+<note>franjevci</note>
+<ref type="place" target="http://www.wikidata.org/wiki/Q225">Bosna i Hercegovina</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladimir Bazala</author>
+<title> Dubrovčanin dr. Luka Stulić (Stulli)</title>
+</analytic>
+<monogr>
+<title> Republika</title> <imprint>
+  <pubPlace>Zagreb</pubPlace><publisher>Društvo hrvatskih književnika</publisher><date>1953</date>
+  <biblScope ana="vol">br. 7-8</biblScope><biblScope ana="pp">703-709</biblScope>
+</imprint>
+</monogr>
+<ref type="person" target="stulli01">Stulli, Luka</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- ovoga dole izbaciti, nije hrv. latinist! izbačen M L Rasp in šola -->
+
+
+<biblStruct>
+<monogr><author>Josip Bersa</author>
+<title> Dubrovačke slike i prilike</title>
+<imprint> <publisher>Matica hrvatska</publisher>
+  <pubPlace>Zagreb</pubPlace>
+  <date>1941</date>
+</imprint>
+  </monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Carlo Federico Bianchi</author>
+<title xml:lang="it"> Nicolò de Matafari, arcivescovo di Zara ed i suoi scritti</title>
+<imprint><pubPlace>Zadar</pubPlace> <date>1881</date></imprint>
+</monogr>
+<ref type="person" target="matafarisd1e1140">Matafaris, Nicolaus de</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3370">Zadar</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>E. Bianchi</author>
+<title xml:lang="it"> Ruggero Giuseppe Boscovich</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope>XXIII</biblScope><biblScope>83-95</biblScope></imprint>
+</monogr>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>V. Bogišić</author>
+<title> Dvije riječi o Stjepanu Gradiću i njegovim pismima Dubrovačkoj republici</title>
+</analytic>
+<monogr>
+<title> “Dubrovnik”</title>
+  <imprint><pubPlace>Split</pubPlace> <date>1867</date>
+    <biblScope>303-321</biblScope></imprint>
+</monogr>
+<ref type="person" target="gradi01">Gradić, Stjepan</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author><ref type="person" target="http://viaf.org/viaf/42779640"></ref> Ivan Bojničić</author>
+<title> Hrvatski misionar XVII vijeka</title>
+</analytic>
+<monogr>
+<title> Vjesnik Kr. državnog arkiva u Zagrebu</title> 
+<imprint><pubPlace>Zagreb</pubPlace><date>1925</date>
+<biblScope ana="vol">N. s. 1</biblScope>
+<biblScope ana="pp">97-114</biblScope></imprint>
+</monogr>
+</biblStruct>
+
+<!-- nema veze s latinizmom, nego s glazbom -->
+<biblStruct>
+<analytic>
+<author>Ivan Bošković</author>
+<title> Tri priloga životopisu braće Bošković</title>
+</analytic>
+<monogr>
+<title> Mogućnosti</title> 
+<imprint><pubPlace>Split</pubPlace><publisher> Književni krug</publisher><date>1961</date>
+<biblScope ana="vol">God. VIII, br. 4</biblScope><biblScope ana="pp">335-340</biblScope></imprint>
+</monogr>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+<ref type="person" target="bosk01">Bošković, Baro</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- Ribarović, Bartul ne postoji u Croala, treba ga dodati -->
+<biblStruct>
+<analytic>
+<author>Juraj Božitković</author>
+<title> Život i filozofski rad fra Bartula Ribarovića (1724-1781)</title>
+</analytic>
+<monogr>
+<title> Ljetopis JAZU</title> <imprint><biblScope>39</biblScope><biblScope>112-118</biblScope>
+<date>1924-25</date></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=4971&amp;page=117">dizbi HAZU</ref></relatedItem>
+<ref type="person"> Ribarović, Bartul</ref>
+</biblStruct>
+
+<!-- taj Drašković nije nijedan od onih koje imamo u bazi; v. HBL -->
+<biblStruct>
+<analytic>
+<author>Mirko Breyer</author>
+<title> Grof-republikanac Juraj Drašković</title>
+</analytic>
+<monogr>
+<title> Hrvatska revija</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1928</date>
+<biblScope ana="vol">god. 1, 1/2</biblScope><biblScope ana="pp">131-136</biblScope></imprint>
+</monogr>
+<ref type="person">Drašković, Juraj V</ref>
+</biblStruct>
+
+<!-- ovoga dole izbaciti, nije hrv. latinizam! izbačen Breznik / Kastelčev -->
+
+<!-- ovoga dole izbaciti, nije hrv. latinizam! -->
+  <!-- maknut Breznik -->
+
+<biblStruct>
+<analytic>
+<author>Vitaliano Brunelli</author>
+<title xml:lang="it"> Contributo alla storia delle accademie zaratine</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Scintille (Zadar)</title>
+<imprint><pubPlace>Zadar</pubPlace><date>1889</date>
+<biblScope ana="vol">br. 25</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3370">Zadar</ref>
+</biblStruct>
+
+<!-- treba dodati natuknicu za autora i djelo i povezati: Valerio de Ponte, Historia Ecclesiae Jadrensis -->
+<biblStruct>
+<analytic>
+<author>Vitaliano Brunelli</author>
+<title xml:lang="it"> Valerio de Ponte, Historia Ecclesiae Jadrensis</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Rivista Dalmatica</title> <imprint><pubPlace>Zadar</pubPlace> <date>1907</date>
+<biblScope ana="vol">god. VI, vol. I, n. s.</biblScope>
+<biblScope ana="pp">101-133, 191-232</biblScope></imprint>
+</monogr>
+<ref type="person" target="http://viaf.org/viaf/305548606">Ponte, Valerio</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3370">Zadar</ref>
+<ref type="work">Historia Ecclesiae Jadrensis</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vitaliano Brunelli</author>
+<title xml:lang="it"> Giovanni Lucio</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Rivista Dalmatica</title>
+<imprint><pubPlace>Zadar</pubPlace> <date>1899</date>
+<biblScope ana="vol">god. I, fasc. 1-2</biblScope>
+<biblScope ana="pp">5-24, 119-139</biblScope></imprint>
+</monogr>
+<ref type="person" target="lucic02">Lučić, Ivan</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vitaliano Brunelli</author>
+<title xml:lang="it"> Il ”Memoriale” di Paolo de Paolo, patrizio zaratino</title>
+</analytic>
+<monogr>
+<title> Il Dalmata</title>
+<imprint><pubPlace>Zadar</pubPlace> <date>1911</date>
+<biblScope ana="vol">br. 4, 5, 8</biblScope></imprint>
+</monogr>
+<ref type="person" target="paul01">Paulus de Paulo</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3370">Zadar</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vitaliano Brunelli</author>
+<title xml:lang="it"> Le fonti dell'Illirico sacro</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Cronaca dalmatica</title>
+<imprint><pubPlace>Zadar</pubPlace> <date>1888</date>
+<biblScope ana="vol">I, br. 8 i d.</biblScope></imprint>
+</monogr></biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Bučar</author>
+<title> Reformacija među Hrvatima po Istri</title>
+</analytic>
+<monogr>
+<title> Vjesnik Kr. hrvatsko-slavonsko-dalmatinskoga zemaljskoga arkiva</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1917</date>
+<biblScope ana="vol">XIX</biblScope>
+<biblScope ana="pp">169-186</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q143297">Istra</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Bučar</author>
+<title> Petar Pavao Vergerije i hrvatska protestantska književnost</title>
+</analytic>
+<monogr>
+<title> Prosvjeta</title>
+<imprint><pubPlace>Zagreb</pubPlace> <date>1900</date>
+<biblScope ana="vol">br. 6, 7</biblScope>
+<biblScope ana="pp">183-186, 219-222</biblScope></imprint>
+</monogr>
+<ref type="person" target="verger01">Vergerije, Petar Pavao</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Bučar</author>
+<title> Prilozi protestantizmu u Hrvatskoj iz nadbiskupskog arhiva u Zagrebu</title>
+</analytic>
+<monogr>
+<title> Vjesnik Kr. zem. arhiva</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1904</date>
+<biblScope ana="vol">VI</biblScope>
+<biblScope ana="pp">192-220</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Bučar</author>
+<title> Jedan hrvatski misionar u Californiji</title>
+</analytic>
+<monogr>
+<title> Vijenac</title> 
+<imprint><pubPlace>Zagreb</pubPlace><date>1924</date>
+<biblScope ana="vol">br. 9</biblScope><biblScope ana="pp">295-296</biblScope></imprint>
+</monogr>
+<ref type="person" target="konscakd1e891">Konšćak, Ferdinand</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>M. Budisavljević</author>
+<title> Ocjena Palmotićeva epicedija o smrti Mihajla Gradića</title>
+</analytic>
+<monogr>
+<title> Školski vjesnik</title>
+<imprint><pubPlace>Sarajevo</pubPlace><date>1901</date></imprint>
+</monogr>
+<ref type="person" target="palmot01">Palmotić, Junije</ref>
+<ref type="person" >Gradić, Mihajlo</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>P. Butorac</author>
+<title> Josip Marinović (1741-1801)</title>
+</analytic>
+<monogr>
+<title> Glasnik Narodnog univerziteta Boke Kotorske</title>
+<imprint><pubPlace>Kotor</pubPlace><date>15.12.1935</date>
+<biblScope ana="vol">God. II, br. 4-6</biblScope><biblScope ana="pp">10</biblScope></imprint>
+</monogr>
+<ref type="person" target="marinovicd1e1103">Marinović, Josip</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>L. Calvi</author>
+<title xml:lang="it"> Riflessi della cultura italiana tra gli Sloveni</title>
+</analytic>
+<monogr>
+<title> “Convivium”</title>
+<imprint><date>1931</date></imprint>
+</monogr></biblStruct>
+
+<biblStruct>
+<monogr>
+<author>T. Chersa</author>
+<title xml:lang="it"> Della vita e delle opere di Giorgio Ferich</title>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1824</date></imprint>
+</monogr>
+<ref type="person" target="feric01">Ferić, Đuro</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam!  maknut čebulj-->
+
+
+<biblStruct>
+<analytic>
+<author>M. Čutić</author>
+<title> Novi podaci za životopis Franje Glavinića</title>
+</analytic>
+<monogr>
+<title> Jadranski zbornik</title>
+<imprint><pubPlace>Rijeka</pubPlace><date>1958</date>
+<biblScope ana="vol">III</biblScope>
+<biblScope ana="pp">399-405</biblScope></imprint>
+</monogr>
+<ref type="person" target="glavinicd1e549">Glavinić, Franjo</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Jean Dayre</author>
+<title> O dubrovačkoj književnosti</title>
+</analytic>
+<monogr>
+<title> Kolo Matice hrvatske</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1935</date>
+<biblScope ana="vol">XVI</biblScope><biblScope ana="pp">79-94</biblScope>
+</imprint></monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>M. Deanović</author>
+<title> Đ. Matijašević o prilikama u Dubrovniku na početku XVIII v.</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1932</date>
+<biblScope ana="vol">11</biblScope><biblScope ana="pp">145-160</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=100&amp;page=150">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>L. D. Concini</author>
+<title xml:lang="it"> Dell'attivita scientifica e della vita di Giorgio Baglivi di Ragusa</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">XXV</biblScope> <biblScope ana="pp">123-138</biblScope>
+</imprint></monogr>
+<ref type="person" target="baglivid1e66">Baglivi, Đuro</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- dodati djelo u bazu djela i povezati -->
+<biblStruct>
+<analytic>
+<author>Miroslava Despot</author>
+<title> O neobjelodanjenom rukopisu Josipa Mikoczyja: “Notitiae historicae de civitate Fluminensi”</title>
+</analytic>
+<monogr>
+<title> Anali Historijskog instituta JAZU u Dubrovniku</title>
+<imprint>
+<pubPlace>Dubrovnik</pubPlace><pubPlace>Zagreb</pubPlace><date>1959</date>
+<biblScope ana="vol"> VI-VII</biblScope><biblScope ana="pp">309-314</biblScope></imprint>
+</monogr>
+<ref type="person" target="mikocz01">Mikoczy, Josip</ref>
+<ref type="work">Notitiae historicae de civitate Fluminensi</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>E. Di Carlo</author>
+<title xml:lang="it"> Bartolomeo Boscovich</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace><biblScope ana="vol">XIII</biblScope>
+<biblScope ana="pp">219-222</biblScope></imprint>
+</monogr>
+<ref type="person" target="bosk01">Bošković, Baro</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>E. Di Carlo</author>
+<title xml:lang="it"> Il martirologio poetico di Niccolo Brautti</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace><biblScope ana="vol">XIV</biblScope>
+<biblScope ana="pp">433-440</biblScope></imprint>
+</monogr>
+<ref type="person" target="braut01">Brautić, Nikola</ref>
+<ref type="work" target="braut01-c01-1630">Martyrologium poeticum sanctorum totius Italiae et eorum qui in
+martyrologio Romano continentur</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>B. Drechsler</author>
+<title> Slavonska književnost u XVIII vijeku</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1907</date></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q681964">Slavonija</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Habdelićev “Syllabus”</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">7</biblScope><biblScope ana="pp">101-105</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1752&amp;page=104">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="habdelicd1e620">Habdelić, Juraj</ref>
+<ref type="work" target="tisakd1e7082">Syllabus vocabulorum Grammaticae Emmanuelis Alvari in
+Illyricam sive Croatis et Slavonibus vernaculam
+conversorum, cum appendice generum et declinationum
+/auctore Georgio Habdelich, Francisco Sussnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Hrvatske preradbe Gregelyevih “Institutiones Grammaticae”</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1908</date>
+<biblScope ana="vol">172</biblScope><biblScope ana="pp">1-100</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1020&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="marijanovicd1e1095">Marijanović, Stjepan</ref>
+<ref type="work" target="opusid22016936">Institutiones grammaticae Latinae idiomate Illyrico propositae ad usum juventutis provinciae Bosnae Argentinae compilatae</ref>
+<ref type="person" target="matic01">Matić, Ambroz</ref>
+<ref type="work" target="tisakd1e186169">Knjixica rucsna s upravam kotistnim i uveshtbaniem lasnim
+za mladiche latinski jezik usceche u bosanski izgovor</ref>
+<ref type="person" target="rozicd1e1621">Rožić, Antun</ref>
+<ref type="work" target="opusid22059905">Pervi temelyi diachkoga jezika za pochetnike vu domorodnom jeziku</ref>
+<ref type="person" target="hrgovicd1e674">Hrgović, Hinko</ref>
+<ref type="work" target="opusid21984500">Početni temelji latinskoga jezika za naroda ilirskoga novake</ref>
+<ref type="person" target="mazuranicd1e1166">Mažuranić, Antun</ref>
+<ref type="work" target="opusid22021595">Temelji ilirskoga i latinskoga jezika. Za početnike</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Izvori Belostenčeva “Gazophylacium latinoillyricum”</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1923</date>
+<biblScope ana="vol">227</biblScope><biblScope ana="pp">80-109</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=861&amp;page=83">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="belost01">Belostenec, Ivan</ref>
+<ref type="work" target="belost01-p01-1740">Gazophylacium seu Latino-Illyricorum onomatum aerarium</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Jambrešićev “Lexicon Latinum”</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1905</date>
+<biblScope ana="vol">162</biblScope><biblScope ana="pp">192-234</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1013&amp;page=195">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="jambres01">Jambrešić, Andrija</ref>
+<ref type="work" target="jambres01-p01-1742">Lexicon Latinum interpretatione Illyrica, Germanica et
+Hungarica locuples. Digestum ab Andrea Jambressich</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Kercselichiana</title>
+</analytic>
+<monogr>
+<title> Ljetopis JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1918</date>
+<biblScope ana="vol">32/2</biblScope><biblScope ana="pp">23-30</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=4978&amp;page=26">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="krcel01">Krčelić, Baltazar Adam</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Korespondencija Adama Alojzija Baričevića</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1932</date>
+<biblScope ana="vol">243</biblScope><biblScope ana="pp">128-178</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=932&amp;page=131">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="baric01">Baričević, Adam Alojzije</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> O književnom i naučnom radu Adama Alojzija Baričevića (1756-1806)</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1921</date>
+<biblScope ana="vol">224</biblScope><biblScope ana="pp">75-97</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=594&amp;page=78">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="baric01">Baričević, Adam Alojzije</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Pisma Josipa Pavlovića-Lučića pisana Matiji Petru Katančiću</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1920</date>
+<biblScope ana="vol">9</biblScope><biblScope ana="pp">238-243</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1298&amp;page=243">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="paul01">Pavlović-Lučić, Ivan Josip</ref>
+<ref type="person" target="katanc01">Katančić, Matija Petar</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Martin Sabolović</title>
+</analytic>
+<monogr>
+<title> Narodna starina</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1923</date>
+<biblScope ana="vol">knj. 2, sv. 6</biblScope><biblScope ana="pp">269-270</biblScope></imprint>
+</monogr>
+<ref type="person" target="sabolov01">Sabolović, Martin</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Prilozi ka biografiji Jurja Habdelića</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">7</biblScope><biblScope ana="pp">95-100</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1752&amp;page=98">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="habdelicd1e620">Habdelić, Juraj</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Prilozi za povijest kulture u Hrvatskoj u XVIII. stoljeću</title>
+</analytic>
+<monogr>
+<title> Narodna starina</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1928</date>
+<biblScope ana="vol">knj. 7</biblScope><biblScope ana="pp">13-20</biblScope></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vladoje Dukat</author>
+<title> Prinosi za biografiju Andrije Jambrešića</title>
+</analytic>
+<monogr>
+<title> Ljetopis JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1920</date>
+<biblScope ana="vol">34</biblScope><biblScope ana="pp">113-115</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=4966&amp;page=116">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="jambres01">Jambrešić, Andrija</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>V. Dvořák</author>
+<title> Boškovićev rad na polju fizike</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1887-8</date>
+<biblScope ana="vol">87, 88, 90</biblScope><biblScope ana="pp">470-542</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1489&amp;page=478">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Karlo Eterović</author>
+<title> Fra Andrija Kačić Miošić na temelju novih istraživanja</title>
+<imprint><pubPlace>Dubrovnik</pubPlace> <date>1922</date>
+</imprint>
+</monogr>
+<ref type="person" target="kacic01">Kačić Miošić, Andrija</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author xml:lang="it">D. Fabianich</author>
+<author xml:lang="hr">Fabijanić, Donat</author>
+<title xml:lang="it"> Storia dei fratri minori dai primordi della loro istituzione in Dalmazia e Bossina fino ai giorni nostri</title>
+<imprint><pubPlace>Zadar</pubPlace> <date>1863-1864</date>
+<biblScope ana="vol">2 sv.</biblScope></imprint>
+</monogr>
+<note>franjevci</note>
+<ref type="place" target="http://www.wikidata.org/wiki/Q528042">Dalmacija</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q188736">Bosna</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Fancev</author>
+<title> Dokumenti za naše podrijetlo hrvatskoga preporoda (1790-1832) Uvod</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1933</date>
+<biblScope ana="vol">12</biblScope><biblScope ana="pp">VII-XLVI, 1-320</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1301&amp;page=4">dizbi HAZU</ref></relatedItem>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Fancev</author>
+<title> Građa za povijest školskog i književnog rada isusovačkoga kolegija u Zagrebu (1606-1772)</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1934</date>
+<biblScope ana="vol">37</biblScope><biblScope ana="pp">1-176</biblScope>
+</imprint>
+</monogr>
+<note>isusovci</note>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1435&amp;page=6">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Fancev</author>
+<title> Parnica Blaža Škrinjarića</title>
+</analytic>
+<monogr>
+<title> Vjesnik Kr. hrvatsko-slavonsko-dalmatinskoga zemaljskoga arhiva</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1911</date>
+<biblScope ana="vol">XIII</biblScope><biblScope ana="pp">1-14</biblScope>
+</imprint></monogr>
+<ref type="person" target="skrinja01">Škrinjarić, Blaž</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Fancev</author>
+<title> Isusovci, slavonska knjiga XVIII. stoljeća</title>
+</analytic>
+<monogr>
+<title> Jugoslavenska njiva</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1922</date>
+<biblScope ana="vol">br. 3, 5, 6</biblScope>
+</imprint></monogr>
+<note>isusovci</note>
+<ref type="place" target="http://www.wikidata.org/wiki/Q681964">Slavonija</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Fancev</author>
+<title> O autorstvu i postanju rječnika “Lexicon latinum”, Zagrabiae 1742. Prilog historiji naše leksikografije</title>
+</analytic>
+<monogr>
+<title> Južnoslovenski filolog</title>
+<imprint><pubPlace>Beograd</pubPlace><date>1922/23</date>
+<biblScope ana="vol">III</biblScope><biblScope to="pp">11-25</biblScope>
+</imprint></monogr>
+<ref type="person" target="jambres01">Jambrešić, Andrija</ref>
+<ref type="work" target="jambres01-p01-1742">Lexicon Latinum interpretatione Illyrica, Germanica et
+Hungarica locuples. Digestum ab Andrea Jambressich</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Fancev</author>
+<title> Ilirstvo u Hrvatskom preporodu</title>
+</analytic>
+<monogr>
+<title> Ljetopis JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1937</date>
+<biblScope ana="vol">49</biblScope><biblScope ana="pp">130-157</biblScope>
+</imprint>
+</monogr>
+<note>Iliri, Hrvatski narodni preporod</note>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=2601&amp;page=135">dizbi HAZU</ref></relatedItem>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Franjo Fancev</author>
+<title> Sitni prilozi za povijest hrvatske književnosti. Iz latinske i hrvatske poezije Tita Brezovačkoga</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1933</date>
+<biblScope ana="vol">11</biblScope><biblScope ana="pp">232-253</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1300&amp;page=237">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="brez01">Brezovački, Tito</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Euzebije Fermendžin</author>
+<title> O. Rafo Levaković i Vlasi u Hrvatskoj g. 1641</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1888</date>
+<biblScope ana="vol">20</biblScope><biblScope ana="pp">22-32</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1742&amp;page=25">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="levak01">Levaković, Rafael</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>A. Filippi</author>
+<title xml:lang="it"> Voci ed echi nelle satire latino di Giunio Resti</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> La Rivista Dalmatica</title>
+<imprint><pubPlace>Zadar</pubPlace><date>1927</date>
+<biblScope ana="vol">god. IX, fasc. I</biblScope>
+</imprint>
+</monogr>
+<ref type="person" target="rasti01">Rastić, Džono</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Josip Forko</author>
+<title> Crtice iz slavonske književnosti u XVIII. stoljeću</title>
+</analytic>
+<monogr>
+<title> Izvještaj gimnazije u Osijeku za god. 1884-1888</title>
+<imprint><pubPlace>Osijek</pubPlace></imprint>
+</monogr>
+
+<ref type="place" target="http://www.wikidata.org/wiki/Q681964">Slavonija</ref>
+  <relatedItem>
+    <biblStruct>
+      <monogr>
+        <author>Forko, Josip</author>
+        <title>Crtice iz slavonske književnosti 18. stoljeća</title>
+      
+        <imprint><pubPlace>Vinkovci</pubPlace><date>1994</date>
+          <note>pretisak</note></imprint>
+      </monogr>
+    </biblStruct>
+  </relatedItem>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Josip Forko</author>
+<title> Kako je P. Emerik Pavić u prošlom stoljeću na latinski jezik prevodio pjesme slavnoga fra Andrije Kačića</title>
+</analytic>
+<monogr>
+<title> Izvještaj realke u Osijeku</title>
+<imprint><pubPlace>Osijek</pubPlace><date>1889</date></imprint>
+</monogr>
+<ref type="person" target="pavicd1e1394">Pavić, Emerik</ref>
+<ref type="person" target="kacic01">Kačić Miošić, Andrija</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>G. Franceschi</author>
+<title xml:lang="it"> Delle opera poetiche di Giunio Resti</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> La Dalmazia</title>
+<imprint><pubPlace>Zadar</pubPlace><date>1845</date>
+<biblScope ana="vol">God. 1, br. 26, 27</biblScope>
+</imprint>
+</monogr>
+<ref type="person" target="rasti01">Rastić, Džono</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>E. Gelcich</author>
+<title xml:lang="ger"> Eine Studie über die Entdeckung der analytischen Geometrie mit Berücksichtigung eines Werkes des Marino Ghetaldi Patrizier Ragusäer aus dem Jahre 1630</title>
+</analytic>
+<monogr>
+<title xml:lang="ger"> Abhandlungen zur Geschichte der Mathematik</title>
+<imprint><date>1882</date>
+<biblScope ana="vol">IV</biblScope><biblScope>191-231</biblScope></imprint>
+</monogr>
+<ref type="person" target="getaldi02">Getaldić, Marin</ref>
+<ref type="work" target="tisakd1e55221" >De resolutione et compositione mathematica libri quinque</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>G. Giannini</author>
+<title xml:lang="it"> Elenco degli acritti a stampa di M. Faustino Gagliuffi</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">III</biblScope>
+<biblScope ana="pp">119-122</biblScope></imprint>
+</monogr>
+<ref type="person" target="galjuf02">Galjuf, Marko Faustin</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>G. Giannini</author>
+<title xml:lang="it"> Un insigne latinista raguseo ingiustamente dimenticato: Marco Faustino Gagliuffi</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">III</biblScope>
+<biblScope ana="pp">11-30</biblScope></imprint></monogr>
+<ref type="person" target="galjuf02">Galjuf, Marko Faustin</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>I. Goleniščev-Kutuzov</author>
+<title> Književni i naučni rad F. M. Appendinija</title>
+</analytic>
+<monogr>
+<title> “Dubrovnik : mjesečna ilustrovana revija”</title>
+<editor>urednik Jorjo Tadić</editor>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1929</date>
+<biblScope ana="vol">Knj. 1</biblScope></imprint>
+</monogr>
+<ref type="person" target="app01">Appendini, Franjo Marija</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Veljko Gortan</author>
+<title> Dubrovnik u Đurđevićevoj zbirci latinskih pjesama</title>
+</analytic>
+<monogr>
+<title> Živa antika</title>
+<imprint><pubPlace>Skopje</pubPlace><date>1954</date>
+<biblScope ana="vol">god. 4, sv. 1</biblScope><biblScope ana="pp">188-191</biblScope></imprint>
+</monogr>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Veljko Gortan</author>
+<title> Hrvatski latinisti</title>
+</analytic>
+<monogr>
+<title> Narodni list</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>29. i 30. XI, 1952</date></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Veljko Gortan</author>
+<title> “Iter ad antrum Bethlemiticum” Ignjata Đurđevića</title>
+</analytic>
+<monogr>
+<title> Živa antika</title>
+<imprint><pubPlace>Skopje</pubPlace><date>1951</date><biblScope>I</biblScope></imprint>
+</monogr>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="work" target="djurdjev02-c03-1703.opus.0.9486744674015185">Iter ad antrum Bethlemiticum</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Veljko Gortan</author>
+<title> B. A. Krčelić, Annuae</title>
+</analytic>
+<monogr>
+<title> Hrvatski latinisti JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1952</date><biblScope>knj. 3</biblScope></imprint>
+</monogr>
+<ref type="person" target="krcel01">Krčelić, Baltazar Adam</ref>
+<ref type="work" target="krcel01-p07-1767">Annuae sive Historia ab anno inclusive1748 et subsequis 1767 ad posteritatis notitiam</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+  <author ref="djurdjev02">Đurđević, Ignjat</author>
+<title xml:lang="hr">Latinske pjesni razlike</title>
+<title xml:lang="it">Poetici lusus varii</title>
+<editor>Veljko Gortan</editor>
+<editor>Nikola Šop</editor>
+<imprint><pubPlace>Zagreb</pubPlace>
+<publisher>Jugoslavenska akademija znanosti i umjetnosti</publisher><date>1956</date>
+<biblScope ana="series">Hrvatski latinisti</biblScope>
+<biblScope ana="vol">knj. 4</biblScope></imprint>
+</monogr>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="work" target="djurdjevicpjesni1956">Latinske pjesni razlike</ref>
+</biblStruct>
+
+<!-- ovoga dole izbaciti, nije hrv. latinist! Grafenauer -->
+
+
+<biblStruct>
+<analytic>
+<author>Mirko Dražen Grmek</author>
+<title> Inauguralne disertacije hrvatskih, srpskih i slovenačkih liječnika</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1951</date>
+<biblScope ana="vol">43</biblScope><biblScope ana="pp">97-258</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1440&amp;page=94">dizbi HAZU</ref></relatedItem>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>J. Gruden</author>
+<title> Peter Vergerij in njegov stik s slovenakimi deželami. Arhivalni doneski</title>
+</analytic>
+<monogr>
+<title> Izvestja Muzejakega društva za Kranjsko</title>
+<imprint><date>1909</date>
+<biblScope ana="vol">XIX</biblScope><biblScope ana="pp">142-152</biblScope></imprint>
+</monogr>
+<ref type="person" target="verger01">Vergerije, Petar Pavao</ref>
+</biblStruct>
+
+<!-- nije hrv. latinizam! Gruden -->
+
+
+<!-- radi se o raznim rukopisima Historia salonitana -->
+<biblStruct>
+<analytic>
+<author>S. Gunjača</author>
+<title> Historia salonitana maior</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1951</date>
+<biblScope ana="vol">283</biblScope><biblScope ana="pp">175-245</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=623&amp;page=178">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="toma01">Toma Arhiđakon</ref>
+<ref type="work" target="toma01-p01-12xx">Historia seu Chronica Salonitanorum pontificum atque Spalatensium a S. Domnio usque ad Rogerium</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Josip Hamm</author>
+<title> Etymologicon Illyricum</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1942-1943</date>
+<biblScope ana="vol">knj. LI., sv. 1-2</biblScope><biblScope ana="pp">12-36</biblScope>
+</imprint></monogr>
+<ref type="person" target="katanc01">Katančić, Matija Petar</ref>
+<ref type="work" target="katanc01-p08-xxxx">Etymologicon Illyricum</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Josip Hamm</author>
+<title> Matija Petar Katančić, njegova djela i njegov dijalekt</title>
+<title>(Disertacija)</title><imprint><publisher>Filozofski fakultet
+u Zagrebu</publisher><pubPlace>Zagreb</pubPlace><date>1934</date>
+</imprint></monogr>
+<ref type="person" target="katanc01">Katančić, Matija Petar</ref>
+</biblStruct>
+
+<!-- treba dodati natuknicu: Josipović, Ivan u bazu autora! -->
+<biblStruct>
+<analytic>
+<author>Karlo Horvat</author>
+<title> Zapisci od 1752-1759 Ivana Josipovića, župnika križevačkoga</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1913</date>
+<biblScope ana="vol">34</biblScope><biblScope ana="pp">305-365</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1746&amp;page=306">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="http://viaf.org/viaf/305666018">Josipović, Ivan</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>H. Th. Horwitz</author>
+<title xml:lang="ger"> Über Fausto Veranzio und sein Werk “Machinae Novae” </title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Annali di Storia delle Scienze</title> 
+<imprint><date>1927</date></imprint></monogr>
+<ref type="person" target="vranc02">Vrančić, Faust</ref>
+<ref type="work" target="vranc02-p04-1595">Machinae novae Fausti Verantii Siceni</ref>
+</biblStruct> 
+
+<biblStruct>
+<analytic>
+<author>Đuro Körbler</author> 
+<title>Dubrovčanin Marko Faustin Galjuf (Gagliuffi), posljednji naš znatniji latinist (1756-1834)</title></analytic> 
+<monogr>
+<title>Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">194</biblScope><biblScope ana="pp">182-249</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=814&amp;page=185">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="galjuf02">Galjuf, Marko Faustin</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+
+<biblStruct>
+<analytic>
+<title>Ivan Filip Vezdin</title> </analytic>
+<monogr>
+<title>Danica horvatska, slavonska i dalmatinska</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1845</date>
+<biblScope ana="vol">God. XI, br. 46</biblScope><biblScope ana="pp">181-183</biblScope></imprint>
+</monogr>
+<ref type="person" target="vezdind1e1860">Vezdin, Ivan Filip</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>U. Inchiostri</author>
+<title xml:lang="it"> Di Nicolò Matafari e del suo “Thesaurus pontificum”, in relazione con la cultura giuridica in Zara nel secolo XIV</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">VII</biblScope>
+<biblScope ana="pp">63-85, 117-126, 159-174, 211-220, 263-277</biblScope></imprint>
+</monogr>
+<ref type="person" target="matafarisd1e1140">Matafaris, Nicolaus de</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3370">Zadar</ref>
+<ref type="work" target="opusid22020777">Tractatus sacrorum conciliorum tam generalium quam provincialium et episcopalium ... Item Thesaurus pontificalis seu Manuale personarum ecclesiasticarum ... Etiam Tractatulus in quo detestatur beneficiorum pluralitas secundum iura positiva : et sanctorum doctorum opinionem.Nicolai ... archiep. Iadrensis.</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Ljudevit Ivančan</author>
+<title> Bečki kolegij zagrebačke nadbiskupije</title>
+</analytic>
+<monogr>
+<title> Bogoslovska smotra</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Katolički bogoslovni fakultet Sveučilišta u Zagrebu</publisher><date>1930</date>
+<biblScope ana="vol">XVII, br. 3 i 4</biblScope><biblScope ana="pp">320-339; 465-468</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>F. Iveković</author>
+<title> Dva pisma Hrvata P. Ivana Ratkaya isusovca</title>
+</analytic>
+<monogr>
+<title> Katolički list</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Nadbiskupija zagrebačka</publisher><date>1906</date>
+<biblScope ana="vol">God. 57, br. 38, 39</biblScope><biblScope ana="pp">441-444, 453-457</biblScope></imprint>
+</monogr>
+<ref type="person" target="rattkay02">Ivan Rattkay</ref>
+</biblStruct>
+
+<biblStruct>
+  <analytic>
+    <author>Vatroslav Jagić</author>
+    <title> Život i rad Jurja Križanića</title>
+  </analytic>
+<monogr><title>Djela JAZU </title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>JAZU</publisher><date>1917</date>
+<biblScope>knj. 28</biblScope></imprint>
+</monogr>
+<ref type="person" target="krizan01">Križanić, Juraj</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Julijan Jelenić</author>
+<title> Bio-Bibliografija franjevaca Bosne Srebreničke</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1925</date>
+<biblScope ana="vol">I</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q693537">Franjevačka provincija Bosna Srebrena</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Julijan Jelenić</author>
+<title> Spomenici kulturnoga rada bosanskih Franjevaca (1437-1878)</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title><imprint><pubPlace>Zagreb</pubPlace><date>1918</date>
+<biblScope ana="vol">36</biblScope><biblScope ana="pp">81-162</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1434&amp;page=84">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q693537">Franjevačka provincija Bosna Srebrena</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Risto Jeremić i Jorjo Tadić</author>
+<title> Prilozi za istoriju zdravstvene kulture staroga Dubrovnika</title>
+<imprint><pubPlace>Beograd</pubPlace><date>1939</date><biblScope ana="vol">II</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+ </biblStruct>
+
+<biblStruct><analytic>
+<author>Josip Jernej</author>
+<title> Oko izdavanja Mikaljina rječnika</title>
+</analytic>
+<monogr>
+<title> Zbornik radova Filozofskog fakulteta u Zagrebu</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1955</date></imprint>
+</monogr>
+<ref type="person" target="mikaljad1e1190">Mikalja, Jakov</ref>
+<ref type="work" target="opusid22023262">Blago jezika slovinskoga illi Slovnik u komu isgovarajuse rjeci slovinske latinski i diacki.Thesaurus linguae Illyricae sive dictionarium Illyriricum in quo verba Illyrica Italice et latine redduntur. Labore p. Jacobi Micali soc. Jesu : collectum</ref>
+</biblStruct>
+
+<!-- dodati djelo u bazu djela i povezati! -->
+<biblStruct>
+<analytic>
+<author>Ljudevit Jonke</author>
+<title> “Dikcionar” Adama Patačića</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1949</date>
+<biblScope ana="vol">275</biblScope><biblScope ana="pp">71-175</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=615&amp;page=75">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="patacicd1e1379">Patačić, Adam</ref>
+<ref type="work">Dictionarium latino-illyricum et germanicum</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic><author>Šime Jurić</author>
+<title> Dopisivanje Petra Stankovića s braćom Appendinijima</title>
+</analytic>
+<monogr>
+<title> Anali Historijskog instituta JAZU u Dubrovniku</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1952</date>
+<biblScope ana="vol">sv. 1</biblScope><biblScope ana="pp">417-422</biblScope></imprint>
+</monogr>
+<ref type="person" target="app01">Appendini, Franjo Marija</ref>
+<ref type="person" target="app02">Appendini, Urban</ref>
+<ref type="person" target="http://viaf.org/viaf/34380129">Stanković, Petar</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Ljubo Karaman</author>
+<title> Natpis đakona Dobra iz vremena narodne hrvatske dinastije</title>
+<imprint><pubPlace>Split</pubPlace><date>1931</date></imprint></monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>P. Kasandrić</author>
+<title> F. Appendini i njegove književne krađe</title></analytic>
+<monogr>
+<title> Iskra</title>
+<imprint><pubPlace>Zadar</pubPlace><date>1881</date></imprint></monogr>
+<ref type="person" target="app01">Appendini, Franjo Marija</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Stjepan Kastropil</author>
+<title> Đuro Hidža i jedna njegova autografska zbirka neobjavljenih stihova</title>
+</analytic>
+<monogr>
+<title> Zadarska revija</title><imprint><pubPlace>Zadar</pubPlace><date>1960</date>
+<biblScope ana="vol">God. 9, sv. IV; V</biblScope><biblScope ana="pp">253-268; 359-365</biblScope>
+</imprint></monogr>
+<ref type="person" target="hidza01">Hidža, Đuro</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ivan Kasumović</author>
+<title> Dva originalna naša fabulista. 1. Đuro Ferić. 2. Urban Appendini</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1915</date>
+<biblScope ana="vol">206</biblScope><biblScope ana="pp">1-24</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=580&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="feric01">Ferić, Đuro</ref>
+<ref type="person" target="app02">Appendini, Urban</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ivan Kasumović</author>
+<title> Dvije poslanice Gjure Ferića. I. Poslanica Juliju Bajamontiju. II. Poslanica Mihajlu Denisu</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1902</date><biblScope ana="vol">knj. X</biblScope>
+<biblScope ana="pp">451-458; 573-577</biblScope>
+</imprint></monogr>
+<ref type="person" target="feric01">Ferić, Đuro</ref>
+<ref type="person" target="http://viaf.org/viaf/10658478">Bajamonti, Julije</ref>
+<ref type="person" target="http://viaf.org/viaf/32028043">Denis, Michael</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ivan Kasumović</author>
+<title> Ferićeva Perijegeza i rimski pjesnici</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1900</date><biblScope ana="vol">knj. VIII</biblScope>
+<biblScope ana="pp">257-289</biblScope></imprint></monogr>
+<ref type="person" target="feric01">Ferić, Đuro</ref>
+<ref type="work" target="feric01-p02-1803">Periegesis orae Rhacusinae duobus libris comprehensa</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Ivan Kasumović</author>
+<title> O latinskom prijevodu nekijeh naših narodnijeh pjesama</title>
+</analytic>
+<monogr>
+<title> Školski vjesnik</title>
+<imprint><pubPlace>Sarajevo</pubPlace><date>1900</date></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author ref="kazna02">Ivan August Kaznačić</author>
+<title> Gjuro Hidja</title>
+</analytic>
+<monogr>
+<title> Slovinac</title>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1882</date>
+<biblScope ana="vol">God. V, br. 4</biblScope><biblScope ana="pp">62-63</biblScope></imprint>
+</monogr>
+<ref type="person" target="hidza01">Hidža, Đuro</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author ref="kazna02">Ivan August Kaznačić</author>
+<title> Juraj Ferić</title>
+</analytic>
+<monogr>
+<title> Zora dalmatinska</title>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1845</date>
+<biblScope ana="vol">God. II, br. 25, 27</biblScope><biblScope ana="pp">193-195; 209-211</biblScope></imprint>
+</monogr>
+<ref type="person" target="feric01">Ferić, Đuro</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author ref="kazna02">Ivan August Kaznačić</author>
+<title> Nešto o dru Gjuru Hidji</title>
+</analytic>
+<monogr>
+<title> Izvještaj gimnazije u Dubrovniku za god. 1872</title>
+  <imprint>
+    <date>1872</date>
+  </imprint>
+</monogr>
+<ref type="person" target="hidza01">Hidža, Đuro</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Kidrič -->
+
+
+<biblStruct><analytic>
+<author>Vjekoslav Klaić</author>
+<title> Obrana Pavla Rittera Vitezovića od g. 1710</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1915</date>
+<biblScope ana="vol">8</biblScope><biblScope ana="pp">375-394</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1753&amp;page=380">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="vitezov01">Ritter-Vitezović, Pavao</ref>
+</biblStruct>
+
+<!-- izraditi natuknicu za autora i djelo i povezati! -->
+<biblStruct><analytic>
+<author>Vjekoslav Klaić</author>
+<title> Ocjena odlomka iz “Kronologije ili ljetopisa” Ivana arciđakona</title>
+</analytic>
+<monogr>
+<title>Izvjestje o Kraljevskoj velikoj gimnaziji u Zagrebu</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1873/1874</date>
+<biblScope ana="pp">3-22</biblScope></imprint>
+</monogr>
+<ref type="person" target="http://hbl.lzmk.hr/clanak.aspx?id=101">Ivan arhiđakon Gorički (HBL)</ref>
+<ref type="work">Kronika</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Vjekoslav Klaić</author>
+<title> Tomo Kovačević, povjesničar hrvatski (1664-1724)</title>
+</analytic>
+<monogr>
+<title> Bogoslovska smotra</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Katolički bogoslovni fakultet Sveučilišta u Zagrebu</publisher>
+<date>1925</date><biblScope ana="pp">69-91</biblScope></imprint>
+</monogr>
+<ref type="person" target="kovacevicd1e898">Kovačević, Toma</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr><author>Vjekoslav Klaić</author>
+<title> Život i djela Pavla Rittera Vitezovića</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1914</date></imprint>
+</monogr>
+<ref type="person" target="vitezov01">Ritter-Vitezović, Pavao</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Petar Kolendić</author>
+<title> Appendinijeve “Notizie biografiche intorno ad alcuni scrittori illirico-slavi”</title>
+</analytic>
+<monogr>
+<title> Zbornik istorije književnosti. Odelenje literature i jezika</title>
+<imprint><pubPlace>Beograd</pubPlace><publisher> SANU</publisher><date>1960</date>
+<biblScope ana="vol">knj. 1</biblScope></imprint>
+</monogr>
+<ref type="person" target="app01">Appendini, Franjo Marija</ref>
+<ref type="work" target="app01-p08-1802">Notizie istorico-critiche sulle antichita, storia e letteratura
+de Ragusei</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic><author>Petar Kolendić</author>
+<title> Biografska dela Ignjata Đurđevića</title>
+</analytic>
+<monogr>
+<title> Zbornik za istoriju, jezik i književnost srpskog naroda. Odelenje II.</title>
+<imprint><pubPlace>Beograd</pubPlace><publisher> SANU</publisher><date>1935</date>
+<biblScope ana="vol">knj. VII</biblScope></imprint>
+</monogr>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic><author>Petar Kolendić</author>
+<title> Grizićev izvještaj o dubrovačkim književnicima prvih godina XVIII vijeka</title>
+</analytic>
+<monogr>
+<title> Srđ</title>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1906</date>
+<biblScope ana="vol">God. V, br. 15</biblScope><biblScope ana="vol">727-734</biblScope></imprint>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1907</date>
+<biblScope ana="vol">God. VI, br. 3</biblScope><biblScope ana="vol">106-109</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> Dubrovačka republika i zapadne evropske države. Veze Dubrovnika s Napuljem, Sicilijom, Francuskom i Španjolskom</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1916</date>
+<biblScope ana="vol">214</biblScope><biblScope ana="pp">165-252</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=585&amp;page=168">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> Dubrovčanin Marko Faustić Galjuf (Gagliuffi), posljednji naš znatniji latinist (1765-1834)</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">194</biblScope><biblScope ana="pp">182-249</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=814&amp;page=185">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="galjuf02">Galjuf, Marko Faustin</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- izraditi natuknicu: Bianchi, Petar -->
+<biblStruct>
+<analytic>
+<author>Đuro Körbler</author>
+<title> Dubrovčanin Petar Bianchi i nećak mu Didak Dubravica-Arboscelli. Prilog za povijest hrvatskoga latinizma u XVIII vijeku</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1913</date>
+<biblScope ana="vol">196</biblScope><biblScope ana="pp">1-52</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=895&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="http://viaf.org/viaf/305606752">Bianchi, Petar</ref>
+<ref type="person" target="dubrav01">Dubravica Arboscelli, Didak</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- izraditi natuknicu za djelo! -->
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> Ignjat Đorđić prethodnik Wolfov u Homerovu pitanju</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1911</date>
+<biblScope ana="vol">186</biblScope><biblScope ana="pp">1-34</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1034&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="work">Antiquitates Illyricae</ref>
+</biblStruct>
+
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> Latinska pjesma Ignata Đorđevića, u kojoj slavi pobjede Eugena Savojskoga nad Turcima 1716 i 1717 godine</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1907</date>
+<biblScope ana="vol">5</biblScope><biblScope ana="pp">1-40</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1296&amp;page=12">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Đuro Körbler</author>
+<title> Latinske pjesme Junija Palmotića</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">7</biblScope><biblScope ana="pp">367-392</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1752&amp;page=370">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="palmot01">Palmotić, Junije</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> O Kunićevu i Zamanjinu latinskom prijevodu Teokritovih pjesama</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1906</date>
+<biblScope ana="vol">164</biblScope><biblScope ana="pp">157-266</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1015&amp;page=160">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kunic02">Kunić, Rajmund</ref>
+<ref type="person" target="zama01">Zamanja, Brno</ref>
+<ref type="work" target="kunic02-c16-1785">Idyllia ex Theocrito, Latine a R. Cunichio</ref>
+<ref type="work" target="zama01-c27-1788">Theocriti, Bionis et Moschi Idyllia omnia. A Bernardo Zamagna
+Rhacusino Latinis versibus expressa</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> Pjesme Luka Miha de Bona, vlastelina dubrovačkoga</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1920</date>
+<biblScope ana="vol">9</biblScope><biblScope ana="pp">147-186</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1298&amp;page=152">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bunic03">Bunić, Luko Mihov</ref>
+<ref type="work" target="bunic03-c01-17xx">Pjesme</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> Vićentije Petrović Dubrovčanin 1677-1754</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1911</date>
+<biblScope ana="vol">186</biblScope><biblScope ana="pp">185-304</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1034&amp;page=188">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="petrov02">Petrović, Vice</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> Život i književni rad biskupa Nikole Brautića Lopuđanina (1566-1632)</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">192</biblScope><biblScope ana="pp">1-90</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1040&amp;page=5">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="braut01">Brautić, Nikola</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1124698">Lopud</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Đuro Körbler</author>
+<title> “Navis aĕria”. Latinska pjesma Brne Đamanjića o plovljenju zrakom</title>
+</analytic>
+<monogr>
+<title> Hrvatska prosvjeta</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Kolo hrvatskih književnika</publisher><date>1916</date>
+<biblScope ana="vol">4-6</biblScope>
+<biblScope ana="pp">113-119</biblScope></imprint>
+</monogr>
+<ref type="person" target="zama01">Zamanja, Brno</ref>
+<ref type="work" target="zama01-c14-1768">Navis aeria</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Kos -->
+
+
+
+<biblStruct>
+<monogr>
+<author>I. Kostrenčić</author>
+<title> Urkundliche Beiträge zur Geschichte der protestantischen Literatur der Südslaven</title>
+<imprint><pubPlace>Beč</pubPlace><date>1874</date></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Božidar Kovačević</author>
+<title> Posljednji Dubrovčanin</title>
+</analytic>
+<monogr>
+<title> Književnost</title>
+<imprint><pubPlace>Beograd</pubPlace><publisher>Prosveta</publisher><date>1950</date>
+<biblScope ana="vol">br. 7-8</biblScope>
+  <biblScope ana="pp">69-100</biblScope>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Oton Kučera</author>
+<title> O Marinu Getaldiću, patriciju dubrovačkom znamenitom matematiku i fiziku na početku XVII vijeka</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1893</date>
+<biblScope ana="vol">117/1</biblScope><biblScope ana="pp">20-60</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=778&amp;page=23">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="getaldi02">Getaldić, Marin</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- izraditi natuknice za autora i djelo i povezati! -->
+<biblStruct><analytic>
+<author>Ivan Kukuljević</author>
+<title> Chronicon breve Regni Croatiae Joannis Tomasich minoritae</title>
+</analytic>
+<monogr>
+<title> Arkiv za povjestnicu jugoslavensku</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1868</date>
+<biblScope ana="vol">IX</biblScope><biblScope ana="pp">3-34</biblScope></imprint>
+</monogr>
+<ref type="person">Tomašić, Ivan</ref>
+<ref type="work">Chronicon breve Regni Croatiae</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ivan Kukuljević</author>
+<title> Mikoci Josip, Povjest banovah kraljevine Hrvatske, Dalmacije i Slavonije do XIV vieka</title>
+</analytic>
+<monogr>
+<title> Arkiv za povjestnicu jugoslavensku</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1872</date>
+<biblScope ana="vol">XI</biblScope></imprint>
+</monogr>
+<ref type="person" target="mikocz01">Mikoczy, Josip</ref>
+<ref type="work" target="mikocz01-p03-17xx">Banorum Dalmatiae, Croatiae et Slavoniae ad saeculum XIV usque perducta series</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>F. Kulišić</author>
+<title> Dubrovačka “Accademia della lingua slava” u Rimu</title>
+</analytic>
+<monogr>
+<title> “Dubrovnik”</title>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1907</date></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q220">Rim</ref>
+</biblStruct>
+
+<biblStruct>
+  <analytic>
+<author>J. Goleniščev Kutuzov</author>
+<title> Književni i naučni rad F. M. Appendinija</title>
+</analytic>
+<monogr>
+<title> “Dubrovnik : mjesečna ilustrovana revija”</title>
+<editor>urednik Jorjo Tadić</editor>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1929</date>
+<biblScope ana="vol">Knj. 1</biblScope></imprint>
+</monogr>
+<ref type="person" target="app01">Appendini, Franjo Marija</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Emilij Laszowski</author>
+<title> Dnevnik baruna Baltazara Patačića od god. 1687 do 1690</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1895</date>
+<biblScope ana="vol">27</biblScope><biblScope ana="pp">194-207</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1739&amp;page=197">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="patac01">Patačić, Baltazar</ref>
+<ref type="work" target="patac01-p03-1698">Diarium</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>L. Léger</author>
+<title> Georges d'Esclavonie</title>
+</analytic>
+<monogr>
+<title> Jagićev zbornik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1908</date>
+<biblScope ana="vol">27</biblScope><biblScope ana="pp">112-119</biblScope>
+</imprint>
+</monogr>
+<ref type="person" target="juraj01">Juraj iz Slavonije</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Radoslav Lopašić</author>
+<title> Pavao Ritter Vitezović</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1897</date>
+<biblScope ana="vol">1</biblScope><biblScope ana="pp">39-55</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1750&amp;page=46">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="vitezov01">Ritter-Vitezović, Pavao</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Camilla Lucerna</author>
+<title> Dva nepoznata hrvatska humanista</title>
+</analytic>
+<monogr>
+<title> Kolo Matice hrvatske</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1928</date>
+<biblScope ana="vol">IX</biblScope><biblScope ana="pp">133-137</biblScope>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Camilla Lucerna</author>
+<title> F. X. Marcovich i I. Despotovich, dva humanista iz Hrvatske</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1914</date>
+<biblScope ana="vol">XXIII</biblScope><biblScope ana="pp">63-64</biblScope>
+</imprint></monogr>
+<ref type="person" target="markovicd1e1110">Marković, Franjo Ksaver</ref>
+<ref type="person" target="despot01">Despotović, Ivan</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Lukman -->
+
+
+<biblStruct><analytic>
+<author>F. Luzzato</author>
+<title> Scrittori dalmati di politica agraria nel secolo XVIII</title>
+</analytic>
+<monogr>
+<title> Archivio storico per la Dalmazia</title>
+<imprint><pubPlace>Rim</pubPlace>
+<biblScope ana="vol">V</biblScope>
+<biblScope ana="pp">267-277</biblScope></imprint>
+<imprint>
+<biblScope ana="vol">VI</biblScope>
+<biblScope ana="pp">325-337</biblScope>
+</imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q528042">Dalmacija</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<title> Pjesme Petra Hektorovića i Hanibala Lucića</title>
+  <editor>Šime Ljubić i Franjo Rački</editor>
+  <imprint><pubPlace>Zagreb</pubPlace><date>1874</date>
+    <biblScope ana="vol">knj. 6</biblScope></imprint>
+</monogr>
+  
+<series>
+  <title> Stari pisci JAZU</title>
+</series>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1209&amp;page=1">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="hektor01">Hektorović, Petar</ref>
+<ref type="person" target="http://viaf.org/viaf/46798354">Lucić, Hanibal</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Mahkota -->
+
+
+<biblStruct><analytic>
+<author>Franjo Maixner</author>
+<title> Život i rad Rajmunda Kunića</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1889</date>
+<biblScope ana="vol">96</biblScope><biblScope ana="pp">110-166</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1149&amp;page=113">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kunic02">Kunić, Rajmund</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Rudolf Maixner</author>
+<title> O Akademiji Miha Sorkočevića</title>
+</analytic>
+<monogr>
+<title> Građa za povijest književnosti hrvatske</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1952</date>
+<biblScope ana="vol">23</biblScope><biblScope ana="pp">57-67</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1310&amp;page=55">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="sorko02">Sorkočević, Miho</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Rudolf Maixner</author>
+<title> Književni dodiri i veze Antuna Sorga Sorkočevića</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1959</date>
+<biblScope ana="vol">304</biblScope><biblScope ana="pp">5-36</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=644&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="sorko02">Sorkočević, Miho</ref>
+<ref type="person" target="http://viaf.org/viaf/42263209">Sorkočević, Antun</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Juraj Majcen</author>
+<title> Uvod u izdana Boškovićeva djela “Sectionum conicarum elementa”</title>
+</analytic>
+<monogr>
+<title> Ljetopis JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1921-1922</date>
+<biblScope ana="vol">36</biblScope><biblScope ana="pp">86</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=4968&amp;page=89">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+<ref type="work" target="bosk02-p35-1754">Elementorum universae matheseos...</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Juraj Majcen</author>
+<title> Matematički rad Boškovićev. 2 dio. Sectionum conicarum elementa. (Boškovićeva teorija krivulja 2. reda)</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1921</date>
+<biblScope ana="vol">225</biblScope><biblScope ana="pp">1-231</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=595&amp;page=2">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+<ref type="work" target="bosk02-p35-1754">Elementorum universae matheseos...</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic><author>Juraj Majcen</author>
+<title> Spis Marina Getaldića Dubrovčanina o paraboli i paraboličkim zrcalima (g.<hi> </hi>1603)</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1920</date>
+<biblScope ana="vol">223</biblScope><biblScope ana="pp">1-43</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=593&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="getaldi02">Getaldić, Marin</ref>
+<ref type="work" target="tisakd1e55308">Nonnullae propositiones de parabola, nunc primum inventae
+et in lucem editae</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Niko Majnarić</author>
+<title> Prilog za poznavanje Kunićeva prijevoda Ilijade</title>
+</analytic>
+<monogr>
+<title> Hoffillerov zbornik (Vjesnik hrvatskoga arheološkoga društva</title>
+<imprint><date>1939-1940</date>
+<biblScope ana="vol">N. S., sv. XVIII-XXI</biblScope><biblScope ana="pp">167-178</biblScope>
+</imprint>
+</monogr>
+<ref type="person" target="kunic02">Kunić, Rajmund</ref>
+<ref type="work" target="kunic02-c13-1776">Ilias. Latinis versibus expressa a Raymondo Cunichio Ragusino</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>V. Makušev</author>
+<title> Изслъдования объисторическихъ памятникахъ и бытописателяхъ Дуброввика</title>
+<imprint><pubPlace>Petrograd</pubPlace><date>1867</date></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>J. Marchiori</author>
+<title> Note al Vocabolario di tre nobilissimi linguaggi italiano, illirico e latino del 1704 di G. Tanzlingher Zanotti</title>
+</analytic>
+<monogr>
+<title> Memorie della Accademia Patavina di SS. AA., Classe di Scienze morali, Lettere ed Arti</title>
+<imprint><pubPlace>Padova</pubPlace><date>1959</date></imprint>
+</monogr>
+<ref type="person" target="http://viaf.org/viaf/305517400">Tanzlinger Zanotti, Ivan</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Marković</author>
+<title> Filosofijski rad Rugjera Boškovića</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1887-1888</date>
+<biblScope ana="vol">87, 88, 90</biblScope><biblScope ana="pp">543-716</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1489&amp;page=551">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Željko Marković</author>
+<title> Ruđe Bošković</title>
+</analytic>
+<monogr>
+<title> Almanah “Bošković” za 1950</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Hrvatsko prirodoslovno društvo</publisher><date>1950</date></imprint>
+</monogr>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>F. Martinović</author>
+<title> Život i pjesme Franje Sebastijanovića</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1904</date>
+<biblScope ana="vol">knj. 12</biblScope><biblScope ana="pp">310-322, 442-457</biblScope>
+</imprint></monogr>
+<ref type="person" target="sebast01">Sebastijanović, Franjo</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author ref="kacic01">Kačić Miošić, Andrija</author>
+  <editor>Tomo Matić</editor>
+<title> Djela Andrije Kačića Miošića. Knjiga I.: Razgovor ugodni</title>
+  <imprint><pubPlace>Zagreb</pubPlace><date>1942</date></imprint>
+</monogr>
+<series>
+<title> Stari pisci JAZU</title>
+<biblScope ana="vol">27</biblScope>
+</series>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1234&amp;page=2">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kacic01">Kačić Miošić, Andrija</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author ref="kanizlicd1e796">Kanižlić, Antun</author>
+<author ref="katanc01">Katančić, Matija Petar</author>
+  <editor>Tomo Matić</editor>
+<title> Pjesme Antuna Kanižlića, Antuna Ivanošića i Matije Petra Katančića</title>
+  <imprint><pubPlace>Zagreb</pubPlace><date>1940</date></imprint>
+</monogr>
+<series>
+<title> Stari pisci JAZU</title>
+<biblScope ana="vol">26</biblScope>
+</series>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1233&amp;page=1">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kanizlicd1e796">Kanižlić, Antun</ref>
+<ref type="person" target="katanc01">Katančić, Matija Petar</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Tomo Matić</author>
+<title> Josip Keresturi i njegovi pogledi na političke prilike poslije smrti Josipa II.</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1941</date>
+<biblScope ana="vol">270/1</biblScope><biblScope ana="pp">149-188</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1493&amp;page=151">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kerestu01">Keresturi, Josip</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic><author>Tomo Matić</author>
+<title> Katančićev “De poësi Illyrica libellus ad leges aestheticae exactus”</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1945</date>
+<biblScope ana="vol">280/1</biblScope><biblScope ana="pp">148-186</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=5198&amp;page=151">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="katanc01">Katančić, Matija Petar</ref>
+<ref type="work" target="katanc01-p10-1817">De poesi Illyrica libellus ad leges aestheticae exactus cum Rosaleide Kanižlićii emendata</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Tomo Matić</author>
+<title> Matija Petar Katančić, hrvatski učenjak i pjesnik</title>
+</analytic>
+<monogr>
+<title> Osječki zbornik</title>
+<imprint><pubPlace>Osijek</pubPlace><publisher>Muzej Slavonije</publisher><date>1948</date>
+<biblScope ana="vol">II-III</biblScope></imprint>
+</monogr>
+<ref type="person" target="katanc01">Katančić, Matija Petar</ref>
+</biblStruct>
+
+<!-- izraditi natuknicu za autora i djelo i povezati! -->
+<biblStruct><analytic>
+<author>Tomo Matić</author>
+<title> Prva redakcija Tanclingerova rječnika</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1953</date>
+<biblScope ana="vol">293</biblScope><biblScope ana="pp">253-279</biblScope>
+</imprint>
+
+</monogr>
+  <relatedItem>
+    <ref type="internet" target="http://dizbi.hazu.hr/?vdoc=632&amp;page=251">dizbi HAZU</ref>
+  </relatedItem>
+<ref type="person" target="http://viaf.org/viaf/305517400">Tanzlinger Zanotti, Ivan</ref>
+<ref type="work">Vocabolario di tre nobilissimi linguaggi, italiano, illirico e latino</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Tomo Matić</author>
+<title> Vitezovićev “Lexicon latino-illyricum”</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1955</date>
+<biblScope ana="vol">303</biblScope><biblScope ana="pp">5-49</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=643&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="vitezov01">Ritter-Vitezović, Pavao</ref>
+<ref type="work" target="vitezov01-p14-xxxx">Lexicon Latino-Illyricum</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Tomo Matić</author>
+<title> Latinska autobiografija Nikole Plantića</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1939</date>
+<biblScope ana="vol">br. 9</biblScope><biblScope ana="pp">130-132</biblScope></imprint>
+</monogr>
+<ref type="person" target="http://viaf.org/viaf/305481413">Plantić, Nikola</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Petar Matković</author>
+<title> Descriptio peregrinationis Georgii Huszthii</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1881</date>
+<biblScope ana="vol">13</biblScope><biblScope ana="pp">1-38</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1724&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="hus01">Hus, Juraj</ref>
+<ref type="work" target="hus01-p01-1790">Descriptio peregrinationis Georgii Huszthii</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Petar Matković</author>
+<title> Gjuro Hus, Hrvat iz Rasinje, glasovit putnik XVI. vieka</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1881</date>
+<biblScope ana="vol">55</biblScope><biblScope ana="pp">116-184</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1122&amp;page=119">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="hus01">Hus, Juraj</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vladimir Mažuranić</author>
+<title> Hrvatski pravno-povjestni izvori i naša lijepa književnost</title>
+</analytic>
+<monogr>
+<title> Ljetopis JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1911-12</date>
+<biblScope ana="vol">26</biblScope><biblScope ana="pp">81-146</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=4963&amp;page=84">dizbi HAZU</ref></relatedItem>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Matija Mesić</author>
+<title> Korespondencija Krčelićeva i nješto građe iz njegove velike pravde</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1876</date>
+<biblScope ana="vol">8</biblScope><biblScope ana="pp">93-242</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1747&amp;page=96">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="krcel01">Krčelić, Baltazar Adam</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Matija Mesić</author>
+<title> O Krčeliću i njegovih Annuah</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1875</date>
+<biblScope ana="vol">32</biblScope><biblScope ana="pp">1-82</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1074&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="krcel01">Krčelić, Baltazar Adam</ref>
+<ref type="work" target="krcel01-p07-1767">Annuae sive Historia ab anno inclusive1748 et subsequis 1767 ad posteritatis notitiam</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ivan Milčetić</author>
+<title> Dr. Julije Bajamonti i njegova djela</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">192</biblScope><biblScope ana="pp">97-250</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1040&amp;page=101">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="http://viaf.org/viaf/10658478">Bajamonti, Julije</ref>
+</biblStruct>
+
+<!-- treba izraditi natuknicu za: Ferkić, Mate -->
+<biblStruct><analytic>
+<author>Joso Milošević</author>
+<title> Život i djela Fra Mate Ferkića, iz Krka, konventualnog franjevca (1583-1669)</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1906</date>
+<biblScope ana="vol">164</biblScope><biblScope ana="pp">1-36</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1015&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="http://viaf.org/viaf/163672401">Ferkić, Mate</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q6059">Krk</ref>
+</biblStruct>
+
+<biblStruct><monogr>
+<author>Mijo Mirković</author>
+<title> Matija Vlačić - Ilirik</title>
+  <imprint>
+    <pubPlace>Zagreb</pubPlace><date>1960</date>
+  </imprint>
+</monogr>
+<series>
+<title> Djela JAZU</title>
+<biblScope ana="vol">50</biblScope>
+</series>
+<ref type="person" target="vlaci01">Vlačić Ilirik, Matija</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Pavo Mitrović</author>
+<title> Četiri nepoznata dubrovačka rječnika</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1909</date>
+<biblScope ana="vol">knj. 17, sv. 7</biblScope><biblScope ana="pp">522-539</biblScope>
+</imprint></monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>J. M. Morduhovič</author>
+<title> Iz rukopisnogo nasledstva J. Križaniča</title>
+</analytic>
+<monogr>
+<title> Istoričeskij arhiv</title>
+<imprint><pubPlace>Moskva</pubPlace><date>1958</date><biblScope ana="vol">br. I</biblScope></imprint>
+</monogr>
+<ref type="person" target="krizan01">Križanić, Juraj</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>P. Moscatello</author>
+<title> Glasoviti dubrovački humanisti: Rajmund Kunić i Bernard Zamanja</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1939-40</date>
+<biblScope ana="vol">XLVIII/, br. 3</biblScope><biblScope ana="pp">6-13</biblScope>
+</imprint></monogr>
+<ref type="person" target="kunic02">Kunić, Rajmund</ref>
+<ref type="person" target="zama01">Zamanja, Brno</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>V. Mošin</author>
+<author>V. Štefanić i S. Mencinger</author>
+<title>Ljetopis popa Dukljanina</title>
+</analytic>
+<monogr>
+<title> Hist. knjižn. Mat. hrv.</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1950</date></imprint>
+</monogr>
+<ref type="person" target="popdukl01">Pop Dukljanin</ref>
+<ref type="work" target="popdukl01-p01-11xx">Libellus Gothorum / Regnum Sclavorum</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic><author>Žarko Muljačić</author>
+<title> Dva priloga povijesti dubrovačkih akademija</title>
+</analytic>
+<monogr>
+<title> Radovi instituta JAZU u Zadru</title>
+<imprint><pubPlace>Zadar</pubPlace><date>1959</date>
+<biblScope ana="vol">4-5</biblScope><biblScope ana="pp">329-340</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Matija Murko</author>
+<title xml:lang="ger"> Die Bedeutung der Reformation und Gegenreformation für das geistige Leben der Südslaven</title>
+<imprint><pubPlace>Prag</pubPlace><date>1927</date></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Matija Murko</author>
+<title> O prethodnicima ilirizma</title>
+</analytic>
+<monogr>
+<title> Nova Evropa</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1921</date>
+<biblScope ana="vol">knj. II</biblScope><biblScope ana="pp">83-90</biblScope></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>F. Nagy</author>
+<title> Prilozi za biografiju Anselma Banduri</title>
+</analytic>
+<monogr>
+<title> Prilozi P. Popovića</title>
+<imprint><pubPlace>Beograd</pubPlace><biblScope ana="vol">IX</biblScope></imprint>
+</monogr>
+<ref type="person" target="bandurid1e72">Banduri, Anselmo</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>I. Navratil</author>
+<title> Janez Filip Vezdin</title>
+</analytic>
+<monogr>
+<title> Glasnik za literaturo in umetnost</title>
+<imprint><pubPlace>Celovec</pubPlace><date>1858</date>
+<biblScope ana="vol">zv. I, št. 3</biblScope></imprint>
+</monogr>
+<ref type="person" target="vezdind1e1860">Vezdin, Ivan Filip</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Nadko Nodilo</author>
+<title> Prvi ljetopisci i davna historiografija dubrovačka</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1883</date>
+<biblScope ana="vol">65</biblScope><biblScope ana="pp">92-128</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1127&amp;page=95">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>G. Novak</author>
+<title> Kultura u Dubrovniku oko 1775 god.</title>
+</analytic>
+<monogr>
+<title> Prilozi P. Popovića</title>
+<imprint><pubPlace>Beograd</pubPlace><biblScope ana="vol">II</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>G. Novak</author>
+<title> Splitski nadbiskup Lovro</title>
+</analytic>
+<monogr>
+<title> Novo doba (Split)</title>
+<imprint><date>24. XII 1928</date></imprint>
+</monogr>
+<ref type="person" target="http://viaf.org/viaf/305608138">Lovro Dalmatinac</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>A. Nuić</author>
+<title> Patriotsko i religiozno obilježje Šitovićeve latinske gramatike</title>
+</analytic>
+<monogr>
+<title> Stopama otaca : almanah hercegovačke franjevačke omladine</title>
+<imprint><pubPlace>Mostar</pubPlace>
+<publisher>Zbor Franjevačke bogoslovne mladeži "Bakula"</publisher><date>1938-39</date>
+<biblScope ana="vol">god. 5</biblScope></imprint>
+</monogr>
+<ref type="person" target="sitovicd1e2044">Šitović, Lovro</ref>
+<ref type="work" target="opusid22066372">Grammatica Latino-Illyrica</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>M. Ogrizović</author>
+<title> Kako je Emerik Pavić preveo Kačićev “Razgovor ugodni”</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1904</date>
+<biblScope ana="vol">knj. XII</biblScope><biblScope ana="pp">457-473; 581-610</biblScope>
+</imprint></monogr>
+<ref type="person" target="kacic01">Kačić Miošić, Andrija</ref>
+<ref type="person" target="pavicd1e1394">Pavić, Emerik</ref>
+<ref type="work" target="kacicpavic1764descriptio">Descriptio soluta et rythmica regum, banorum caeterorumque heroum Slavinorum seu Illyricorum</ref>
+</biblStruct>
+
+<!-- treba izraditi natuknicu za autora i djelo! -->
+<biblStruct>
+<analytic>
+<author>Aleksej A. Olesnicki</author>
+<title> K historiji krbavskog razboja. “Skayn-basa” i “Carniliae woywoda” u kronici Tomašićevoj</title>
+</analytic>
+<monogr>
+<title> Hrvatska revija</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1934</date>
+<biblScope ana="vol">God. VII, br. 1</biblScope><biblScope ana="pp">32-34</biblScope></imprint>
+</monogr>
+<ref type="person">Tomašić, Ivan</ref>
+<ref type="work">Brevis chronologia Croatiae</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>M. Pantić</author>
+<title> Sebastijan Slade (Dolči), dubrovački biograf XVIII veka</title>
+</analytic>
+<monogr>
+<title> Posebna izdanja SANU</title>
+<imprint><pubPlace>Beograd</pubPlace><publisher>SANU</publisher><date>1957</date><biblScope>288</biblScope></imprint>
+</monogr>
+<ref type="person" target="dolci01">Dolci Slade, Sebastijan</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><monogr>
+<author>Matija Pavić</author>
+<title> Arijanstvo u Panoniji Srijemskoj</title>
+<imprint><pubPlace>Đakovo</pubPlace><date>1891</date></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Matija Pavić</author>
+<title> Književna slika Slavonije u XVIII. vijeku</title>
+</analytic>
+<monogr>
+<title> Glasnik biskupija bosanske i srijemske</title>
+<imprint><pubPlace>Đakovo</pubPlace><publisher>Biskupski ordinarijat</publisher><date>1889</date>
+<biblScope ana="vol">XVII</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q681964">Slavonija</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>D. Pavlović</author>
+<title> Arhivska građa o životu Marina Getaldića</title>
+</analytic>
+<monogr>
+<title> Zbornik radova SANU Instituta za proučavanje književnosti</title>
+<imprint><pubPlace>Beograd</pubPlace><date>1957</date></imprint>
+</monogr>
+<ref type="person" target="getaldi02">Getaldić, Marin</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>D. Pavlović</author>
+<title> Đorđe Bašić, dubrovački biograf XVIII veka</title>
+</analytic>
+<monogr>
+<title>Biblioteka Priloga br. 1</title>
+<imprint><pubPlace>Beograd</pubPlace><date>1921</date></imprint>
+</monogr>
+<ref type="person" target="bas02">Bašić, Đuro</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>L. Picanyol</author>
+<title xml:lang="it"> Un insigne latinista: Marco Faustino Gagliuffi</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> “Parva Bibliotheca Calasanctiana”</title>
+<imprint><pubPlace>Rim</pubPlace><date>1934</date><biblScope ana="vol">br. 11</biblScope></imprint>
+</monogr>
+<ref type="person" target="galjuf02">Galjuf, Marko Faustin</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Paul Pierling</author>
+<title> Izvještaji Spljećanina Mate Karamana o Rusiji</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1883</date>
+<biblScope ana="vol">15</biblScope><biblScope ana="pp">95-113</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1730&amp;page=98">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="karamand1e802">Karaman, Matija</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1663">Split</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Paul Pierling</author>
+<title> Novi izvori o L. Komuloviću</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1884</date>
+<biblScope ana="vol">16</biblScope><biblScope ana="pp">209-251</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1729&amp;page=212">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="http://viaf.org/viaf/65110401">Komulović, Aleksandar</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Bare Poparić</author>
+<title> Pisma Ivana Lučića Trogiranina</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1905</date>
+<biblScope ana="vol">31</biblScope><biblScope ana="pp">276-320</biblScope></imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1431&amp;page=279">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="lucic02">Lučić, Ivan</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q189161">Trogir</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Pavle Popović</author>
+<title> Dubrovačka biografija, I. Ignjat Đorđić</title>
+</analytic>
+<monogr>
+<title> Godišnjica Nikole Čupića</title>
+<imprint><date>1903</date><biblScope ana="vol">XXII</biblScope><biblScope ana="pp">147-230</biblScope>
+</imprint>
+</monogr>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Pavle Popović</author>
+<title> Franjevci u našoj književnosti, nauci i umetnosti</title>
+</analytic>
+<monogr>
+<title> Srpski književni glasnik</title>
+<imprint><pubPlace>Beograd</pubPlace><date>1927</date>
+<biblScope ana="vol">knj. 20</biblScope><biblScope ana="pp">21-25</biblScope></imprint>
+</monogr>
+<note>franjevci</note>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Pavle Popović</author>
+<title> Ignatii Georgii Vitae et carmina nonnullorum illustrium civium Ragusinorum</title>
+</analytic>
+<monogr>
+<title> Zbornik za istoriju, jezik i književnost srp. naroda, Odelenje II.</title> 
+<imprint><pubPlace>Beograd</pubPlace><publisher> SANU</publisher><date>1905</date>
+<biblScope ana="vol">knj. II</biblScope><biblScope ana="pp">1-80</biblScope></imprint>
+</monogr>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic><author>Pavle Popović</author>
+<title> O radu na dubrovačkoj biografiji (uvod u Kolendićeva Biografska dela Ignjata Đurđevića)</title>
+</analytic>
+<monogr>
+  <imprint><pubPlace>Beograd</pubPlace><publisher> SANU</publisher><date>1935</date>
+  </imprint>
+</monogr>
+  <series>
+      <title> Zbornik za istoriju, jezik i književnost srpskog naroda. Odelenje II.</title>
+      <biblScope ana="vol">knj. VII</biblScope>
+  </series>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam Prijatelj -->
+
+
+<biblStruct><analytic>
+<author>Dragutin Prohaska</author>
+<title> Ignjat Đorđić i Antun Kanižlić, Studija o baroku u našoj književnosti</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1909</date>
+<biblScope ana="vol">178</biblScope><biblScope ana="pp">115-224</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1026&amp;page=120">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="person" target="kanizlicd1e796">Kanižlić, Antun</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Rački</author>
+<title> Franjo Glavinić</title>
+</analytic>
+<monogr>
+<title> Vijenac</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1892</date>
+<biblScope ana="vol">God. XXIV, br. 1</biblScope><biblScope ana="pp">6-10</biblScope></imprint>
+</monogr>
+<ref type="person" target="glavinicd1e549">Glavinić, Franjo</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Rački</author>
+<title> Iztraživanja u pismarah i knjižnicah dalmatinskih</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1874</date>
+<biblScope ana="vol">26</biblScope><biblScope ana="pp">153-188</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1061&amp;page=156">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q528042">Dalmacija</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Rački</author>
+<title> Matija Petar Katančić</title>
+</analytic>
+<monogr>
+<title> Vijenac</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1881</date>
+<biblScope ana="vol">God. XIII, br. 15, 16, 17</biblScope><biblScope ana="pp">236-239, 248-250, 265-267</biblScope></imprint>
+</monogr>
+<ref type="person" target="katanc01">Katančić, Matija Petar</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Rački</author>
+<title> Notae Joannis Lucii</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1881</date>
+<biblScope ana="vol">13</biblScope><biblScope ana="pp">211-268</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1724&amp;page=214">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="lucic02">Lučić, Ivan</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Rački</author>
+<title> Povjestnik Ivan Lučić, Trogiranin</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1879</date>
+<biblScope ana="vol">49</biblScope><biblScope ana="pp">65-102</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=756&amp;page=68">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="lucic02">Lučić, Ivan</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q189161">Trogir</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Rački</author>
+<title> Rugjer Josip Bošković. Životopisna crta</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1887-8</date>
+<biblScope ana="vol">87, 88, 90</biblScope><biblScope ana="pp">1-100</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1489&amp;page=9">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author ref="toma01">Toma Arhiđakon</author>
+<title> Thomas Archidiaconus: Historia Salonitana</title>
+<title> Historia Salonitana</title>
+<editor>Franjo Rački</editor>
+  <imprint><pubPlace>Zagreb</pubPlace><publisher>JAZU</publisher><date>1894</date></imprint>
+</monogr>
+<series>
+<title> Monumenta spectantia historiam Slavorum meridionalium. Scriptores, vol. 3</title>
+<biblScope ana="vol">26</biblScope>
+</series>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1885&amp;page=1">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="toma01">Toma Arhiđakon</ref>
+<ref type="work" target="toma01-p01-12xx">Historia seu Chronica Salonitanorum pontificum atque Spalatensium a S. Domnio usque ad Rogerium</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Franjo Rački</author>
+<title> Toma archidjakon spljetski</title>
+</analytic>
+<monogr>
+<title> Književnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1864</date>
+<biblScope ana="vol">God. 1, sv. 1</biblScope><biblScope ana="pp">358-388</biblScope></imprint>
+</monogr>
+<ref type="person" target="toma01">Toma Arhiđakon</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1663">Split</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Radics -->
+
+
+
+<biblStruct><analytic>
+<author>Nikola Radojčić</author>
+<title> O dva rukopisa Ivana Tomka Mrnavića</title>
+</analytic>
+<monogr>
+<title> Zbornik Matice srpske za književnost i jezik</title>
+<imprint><pubPlace>Novi Sad</pubPlace><date>1954</date>
+<biblScope ana="vol">I</biblScope><biblScope ana="pp">34-37</biblScope></imprint>
+</monogr>
+<ref type="person" target="mrnav01">Mrnavić, Ivan Tomko</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Nikola Radojčić</author>
+<title> Istorija Srbije Franja Ksavera barona Pejačevića</title>
+</analytic>
+<monogr>
+<title> Razprave ZDHV</title>
+<imprint><date>1930</date><biblScope ana="pp">253- 304</biblScope></imprint>
+</monogr>
+<ref type="person" target="pejacevicd1e1411">Pejačević, Franjo Ksaver</ref>
+<ref type="work" target="opusid22042535">Historia Serviae seu Colloquia XIII de statu regni et religionis Serviae ab exordio ad finem, sive a saeculo VII ad XV. Auctore Franc. Xav. e. 1. b. de Pejacsevich ..., piis sumptibus ... Mathaei Franc. Kerticza</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>L. Rava</author>
+<title xml:lang="it"> II cittadino Gagliuffi, raguseo, presidente del Tribunato della Republica Romana nel 1798</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> “Nuova Antologia”</title>
+<imprint><pubPlace>Rim</pubPlace><date>16. V 1919</date></imprint></monogr>
+<ref type="person" target="galjuf02">Galjuf, Marko Faustin</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milan Rešetar</author>
+<title> Djela Ińacija Gorģi (Igńata Đorđića)</title>
+<title>knj. 1: Pjesni razlike i Uzdasi Mandalijene pokornice </title>
+</analytic>
+<monogr>
+<title> Stari pisci JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1918</date>
+<biblScope ana="vol">sv. 24, knj. I</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1225&amp;page=1">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="work" target="djurdjev02-c02-1728">Magdalidos illyricae. Liber primus / ab autore Ignatio Georgio ; latine redditus ad Jacobum Facciolatum.</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milan Rešetar</author>
+<title xml:lang="ger"> Micaglia und sein Wörterbuch</title>
+</analytic>
+<monogr>
+<title xml:lang="ger"> Archiv für slavische Philologie</title>
+<imprint><date>1912</date></imprint>
+</monogr>
+<ref type="person" target="mikaljad1e1190">Mikalja, Jakov</ref>
+<ref type="work" target="opusid22023262">Blago jezika slovinskoga illi Slovnik u komu isgovarajuse rjeci slovinske latinski i diacki.Thesaurus linguae Illyricae sive dictionarium Illyriricum in quo verba Illyrica Italice et latine redduntur. Labore p. Jacobi Micali soc. Jesu : collectum</ref>
+</biblStruct>
+
+<!-- izraditi natuknicu za: Matijašević (Mattei), Đuro i povezati! -->
+<biblStruct><analytic>
+<author>Milan Rešetar</author>
+<title> Pisma Igńata Đurdevića (Đorđića) i Dum Đura Matijaševića (Mattei)</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1932</date>
+<biblScope ana="vol">11</biblScope><biblScope ana="pp">124-144</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1300&amp;page=129">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+<ref type="person">Matijašević (Mattei), Đuro</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milan Rešetar</author>
+<title> Sitniji prilozi. 3. Nekoliko latinskih i talijanskih pjesama Ińacija Gorģi (Igńata Đorđića)</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1920</date>
+<biblScope ana="vol">9</biblScope><biblScope ana="pp">67-72</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1298&amp;page=72">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="djurdjev02">Đurđević, Ignjat</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Richter -->
+
+<biblStruct><analytic>
+<author>R. Rogošić</author>
+<title> Književni rad hrvatskih franjevaca do XIX. vijeka</title>
+</analytic>
+<monogr>
+<title> Nova revija</title><imprint><pubPlace>Makarska</pubPlace><date>1926</date>
+<biblScope ana="vol">God. V</biblScope></imprint>
+</monogr>
+<note>franjevci</note>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>G. Rosan</author>
+<title> Vita del P. Benedetto Rogacci della Compagnia di Gesù</title>
+<imprint><pubPlace>Padova</pubPlace><date>1931</date></imprint>
+</monogr>
+<ref type="person" target="rogac01">Rogačić, Benedikt</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Rupel -->
+
+
+<!-- izbaciti, nije hrv. latinizam! Rus -->
+
+<biblStruct><analytic>
+<author>G. Sabalich</author>
+<title xml:lang="it"> Le accademie zaratine</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> Rivista Dalmatica</title>
+<imprint><pubPlace>Zadar</pubPlace> <date>1901</date>
+<biblScope ana="vol">sv. 4 i 5</biblScope></imprint>
+<imprint><date>1902</date><biblScope ana="vol">sv. 1</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3370">Zadar</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>E. Schatzmayr</author>
+<title xml:lang="ger"> Johannes Baptist Goineo und zeitgenossische Anhänger der Reformation in Istrien und Triest</title>
+</analytic>
+<monogr>
+<title xml:lang="ger"> Jahrbuch der Gesellschaft für die Geschichte des Protestantismus in Österreich</title>
+<imprint><date>1893</date><biblScope ana="vol">14</biblScope></imprint>
+</monogr>
+<ref type="person" target="http://viaf.org/viaf/37731573">Goynaeus, Johannes Baptista</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q143297">Istra</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Niko Selak</author>
+<title> Život i djela Gjura (Armena) Baglivia, Dubrovčanina, profesora anatomije i teoretične medicine na rimskom arhiliceju “Sapienza”</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1891</date>
+<biblScope ana="vol">107</biblScope><biblScope ana="pp">1-80</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=973&amp;page=6">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="baglivid1e66">Baglivi, Đuro</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+  <monogr>
+<author>Petar Skok</author>
+<title> Pojave vulgarno-latinskoga jezika na natpisima rimske provincije Dalmacije</title>
+    <imprint><pubPlace>Zagreb</pubPlace><publisher>JAZU</publisher><date>1915</date></imprint>
+</monogr>
+<series>
+<title> Djela JAZU</title>
+<biblScope ana="vol">25</biblScope>
+</series>
+<ref type="place" target="http://www.wikidata.org/wiki/Q528042">Dalmacija</ref>
+</biblStruct>
+
+<biblStruct><monogr>
+<author ref="krcel01">Krčelić, Baltazar Adam</author>
+<title> Životopis Baltazara Adama Krčelića. Krčelićeva djela</title>
+<editor>Tadija Smičiklas</editor>
+  <imprint><pubPlace>Zagreb</pubPlace><publisher>JAZU</publisher><date>1901</date></imprint>
+</monogr>
+<series>
+<title> Monumenta spectantia historiam Slavorum meridionalium. Scriptores, vol. 4</title>
+<biblScope ana="vol">30</biblScope>
+</series>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1339&amp;page=2">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="krcel01">Krčelić, Baltazar Adam</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>A. Sodnik</author>
+<title> Vpliv Boškovićeve filozofije v naših domaćih filozofskih tekstih XVIII. stoletja</title>
+</analytic>
+<monogr>
+<title> Rasprave SAZU, filozof.-filol.-hist. razred</title>
+<imprint><date>1943</date><biblScope ana="vol">I</biblScope></imprint>
+</monogr>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Sodnik -->
+
+
+<!-- izbaciti, nije hrv. latinizam! Steska -->
+
+
+<!-- izbaciti, nije hrv. latinizam! Steska -->
+
+
+<!-- izbaciti, nije hrv. latinizam! Steska -->
+
+<biblStruct><analytic>
+<author>Ernest Stipanić</author>
+<title> Neki prilozi boljem poznavanju studiskog puta Marina Getaldića po Zapadnoj Evropi</title>
+</analytic>
+<monogr>
+<title>Nastava matematike i fizike u srednjoj školi</title>
+<imprint><pubPlace>Beograd</pubPlace><date>1958</date>
+<biblScope ana="vol">God. 7, br. 4</biblScope><biblScope ana="pp">234-245</biblScope></imprint></monogr>
+<ref type="person" target="getaldi02">Getaldić, Marin</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Marijan Stojković</author>
+<title> Bartuo Kašić D. I. Pažanin (1575-1650)</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1919</date>
+<biblScope ana="vol">220</biblScope><biblScope ana="pp">170-263</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=592&amp;page=173">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kasic01">Kašić, Bartol</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q209784">Pag</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Marijan Stojković</author>
+<title> Karakteristika života i djelovanja Bartula Kašića iz Paga (1575-1650)</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1913-1914</date>
+<biblScope ana="vol">knj. XXII, br. 1</biblScope><biblScope ana="pp">1-9</biblScope>
+</imprint></monogr>
+<ref type="person" target="kasic01">Kašić, Bartol</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q209784">Pag</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Marijan Stojković</author>
+<title> Rimska papinska protivureformacija u južnoslovjenskim zemljama</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1913-1914</date>
+<biblScope ana="vol">knj. XXII, br. 3</biblScope><biblScope ana="pp">1-9</biblScope>
+</imprint></monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>K. Stošić</author>
+<title> Rukopisni kodeksi samostana sv. Frane u Šibeniku</title>
+</analytic>
+<monogr>
+<title> Croatia sacra</title><imprint><publisher>Hrvatska bogoslovska akademija</publisher><pubPlace>Zagreb</pubPlace><date>1933</date>
+<biblScope ana="vol">br. 5</biblScope><biblScope ana="pp">18-61</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3549">Šibenik</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Ivan Strohal</author>
+<title> Pravna povijest dalmatinskih gradova</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>JAZU</publisher><date>1913</date></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q528042">Dalmacija</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Ivan Strohal</author>
+<title> Statuti primorskih gradova i općina. Bibliografički nacrt JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>JAZU</publisher><date>1911</date></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Kerubin Šegvić</author>
+<title> Toma Splićanin, državnik i pisac, 1200 do 1268</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1927</date></imprint>
+</monogr>
+<ref type="person" target="toma01">Toma Arhiđakon</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Ferdo Šišić</author>
+<title> Priručnik izvora hrvatske historije</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1914</date></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ferdo Šišić</author>
+<title> Letopis popa Dukljanina</title>
+</analytic>
+<monogr>
+<title> Posebna izdanja SANU</title>
+<imprint><publisher>SANU</publisher><pubPlace>Beograd-Zagreb</pubPlace><date>1928</date>
+<biblScope ana="vol">knj. LXVII</biblScope></imprint>
+</monogr>
+<ref type="person" target="popdukl01">Pop Dukljanin</ref>
+<ref type="work" target="popdukl01-p01-11xx">Libellus Gothorum / Regnum Sclavorum</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ferdo Šišić</author>
+<title> Gjuro barun Rattkay de Nagytábor. O 250-godišnjici njegova djela “Memoria regum et banorum”</title>
+</analytic>
+<monogr>
+<title> Narodne novine</title>
+<imprint><date>1902</date></imprint>
+</monogr>
+<ref type="person" target="rattkay01">Rattkay, Juraj</ref>
+  <ref type="work" target="rattkay01-p01-1652">Memoria regum et banorum</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Ferdo Šišić</author>
+<title> Memoriale Pauli patritii Jadrensis (1371-1408)</title>
+</analytic>
+<monogr>
+<title> Vjesnik Hrv. zem. arkiva</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1904</date>
+<biblScope ana="vol">VI</biblScope><biblScope ana="pp">1-59</biblScope></imprint>
+</monogr>
+<ref type="person" target="paul01">Pavao Pavlović</ref>
+<ref type="work" target="paulo-p-memoriale">Memoriale, versio electronica</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q3370">Zadar</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ferdo Šišić</author>
+<title> Miha Madijev de Barbazanis</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1903</date>
+<biblScope ana="vol">153</biblScope><biblScope ana="pp">1-46</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1005&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="madij01">Madijev de Barbazanis, Miha</ref>
+</biblStruct>
+
+<!-- izraditi natuknicu za djelo: Scriptores Interamniae i povezati! -->
+<biblStruct><analytic>
+<author>Milivoj Šrepel</author>
+<title> Jakošićev spis: Scriptores Interamniae</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1899</date>
+<biblScope ana="vol">2</biblScope><biblScope ana="pp">116-153</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1751&amp;page=122">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="jakosicd1e716">Jakošić, Josip</ref>
+<!-- fali djelo <ref type="work" target="">Scriptores Interamniae</ref> -->
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milivoj Šrepel</author>
+<title> Latinske pjesme Junija Palmotića</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1897</date>
+<biblScope ana="vol">1</biblScope><biblScope ana="pp">10-38</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1750&amp;page=17">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="palmot01">Palmotić, Junije</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milivoj Šrepel</author>
+<title> Latinski izvor i ocjena Kašićeve gramatike</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1890</date>
+<biblScope ana="vol">102</biblScope><biblScope ana="pp">172-201</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=970&amp;page=175">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kasic01">Kašić, Bartol</ref>
+<ref type="work" target="kasic01-p01-1604">Institutionum linguae Illyricae libri duo</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milivoj Šrepel</author>
+<title> O latinskoj poeziji Junija Restija</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1893</date>
+<biblScope ana="vol">114</biblScope><biblScope ana="pp">99-158</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=965&amp;page=102">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="rasti01">Rastić, Džono</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milivoj Šrepel</author>
+<title> Stay prema Lukreciju</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1895</date>
+<biblScope ana="vol">124</biblScope><biblScope ana="pp">189-228</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=985&amp;page=192">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="stay01">Stay, Benedikt</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Milivoj Šrepel</author>
+<title> Pjesni Junija Rastića</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1897</date>
+<biblScope ana="vol">1</biblScope><biblScope ana="pp">56-65</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1750&amp;page=63">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="rasti01">Rastić, Džono</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vjekoslav Štefanić</author>
+<title> Ilirski kolegij u Fermu</title>
+</analytic>
+<monogr>
+<title> Nastavni vjesnik</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1939-1940</date>
+<biblScope ana="vol">XLVIII, br. 3</biblScope><biblScope ana="pp">1-6</biblScope>
+</imprint></monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>I. Tacconi</author>
+<title xml:lang="it"> Riflessi filosofici nelle dottrine fisiche del Padre R. Boscovich</title>
+</analytic>
+<monogr>
+<title xml:lang="it"> La Rivista Dalmatica</title>
+<imprint><pubPlace>Zadar</pubPlace>
+<biblScope ana="vol">god. X, fasc. 2, 3, 4</biblScope><biblScope ana="vol">god. XI, fasc. 2, 3</biblScope></imprint>
+</monogr>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>A. Teja</author>
+<title xml:lang="it"> Il regime giuridico e la funzione degli statuti nelle città dalmate durante il Medioevo</title>
+<imprint><pubPlace>Zadar</pubPlace><date>1937</date></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q528042">Dalmacija</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ivan Tkalčić</author>
+<title> Ivan Arcidjakon gorički, domaći pisac u XIV. vieku</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1886</date>
+<biblScope ana="vol">79</biblScope><biblScope ana="pp">71-134</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=854&amp;page=74">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="toma01">Toma Arhiđakon</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Ivan Tkalčić</author>
+<title> O stanju više nastave u Hrvatskoj prije, a osobito za Pavlinah</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1888</date>
+<biblScope ana="vol">93</biblScope><biblScope ana="pp">78-104</biblScope>
+</imprint>
+</monogr>
+<note>pavlini</note>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1146&amp;page=81">dizbi HAZU</ref></relatedItem>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>J. E. Tomić</author>
+<title> Franjo Sebastianović, Požežanin, kanonik zagrebački i pjesnik latinski</title>
+</analytic>
+<monogr>
+<title> Narodne novine</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1897</date>
+<biblScope ana="vol">br. 142, 143</biblScope>
+</imprint></monogr>
+<ref type="person" target="sebast01">Sebastijanović, Franjo</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1013322">Požega</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>J. Tomljenović</author>
+<title> Hrvatski biskup Selnički i sveta stolica o Hrvatskoj</title>
+</analytic>
+<monogr>
+<title> Vienac</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Matica hrvatska</publisher><date>1893</date>
+<biblScope ana="vol">God. XXV, br. 2</biblScope><biblScope ana="pp">30-31</biblScope></imprint>
+</monogr>
+<ref type="person" target="step01">Stepanić Selnički, Nikola</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Josip Torbar</author>
+<title> Boškovićeva elementa materiae naprem današnjoj atomistici</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1869</date>
+<biblScope ana="vol">6</biblScope><biblScope ana="pp">20-46</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1123&amp;page=23">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Josip Torbar</author>
+<title> Roger Bošković i njegov rad na polju astronomije i meteorologije</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1887-1888</date>
+<biblScope ana="vol">87, 88, 90</biblScope><biblScope ana="pp">429-469</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1489&amp;page=437">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>J. Torbarina</author>
+<title> Raymond Kunić and English Literature</title>
+</analytic>
+<monogr>
+<title> Studia Romanica et Anglica</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1960</date>
+<biblScope ana="vol">br. 9</biblScope></imprint>
+</monogr>
+<ref type="person" target="kunic02">Kunić, Rajmund</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Branimir Truhelka</author>
+<title> Prvi uspjeh B. Staya</title>
+</analytic>
+<monogr>
+<title> Književnik (Zagreb)</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1928</date>
+<biblScope ana="vol">God. I, br. 9</biblScope><biblScope ana="pp">322-334</biblScope></imprint>
+</monogr>
+<ref type="person" target="stay01">Stay, Benedikt</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Branimir Truhelka</author>
+<title> Rudžer Josip Bošković. Ulomci biografije</title>
+</analytic>
+<monogr>
+<title> Građa za život i rad Ruđera Boškovića</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>JAZU</publisher><date>1950</date>
+<biblScope ana="vol">I</biblScope></imprint></monogr>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Branimir Truhelka</author>
+<title> Uz Boškovićevu biografiju</title>
+</analytic>
+<monogr>
+<title> Almanah “Bošković”</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Hrvatsko prirodoslovno društvo</publisher><date>1954</date></imprint>
+</monogr>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Šime Urlić</author>
+<title> Ivan Tanzlinger-Zanotti i njegove pjesme</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1907</date>
+<biblScope ana="vol">5</biblScope><biblScope ana="pp">41-76</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1296&amp;page=52">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="http://viaf.org/viaf/305517400">Tanzlinger Zanotti, Ivan</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Autobiografija Bartola Kašića</title>
+</analytic>
+<monogr>
+<title> Građa JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1940</date>
+<biblScope ana="vol">15</biblScope><biblScope ana="pp">1-144</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1304&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="kasic01">Kašić, Bartol</ref>
+<ref type="work" target="kasic01-p02-1650">Vita P. Bartholomaei Casii Dalmatae ab ipsomet conscripta</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Biografijski podaci o nekim piscima XVII stoljeća</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1933</date>
+<biblScope ana="vol">br. 3</biblScope><biblScope ana="pp">105-132</biblScope></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Le P. Barthélémy Kašić S. J., écrivain croate (1575-1650), Ètude bio-biographique</title>
+</analytic>
+<monogr>
+<title> Archivum historicum S. J.</title>
+<imprint><pubPlace>Rim</pubPlace><date>1937</date>
+<biblScope ana="vol">VI, sv. II</biblScope><biblScope ana="pp">216-258</biblScope>
+</imprint></monogr>
+<ref type="person" target="kasic01">Kašić, Bartol</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Illyricum sacrum i začetnik mu F. Riceputi</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1932</date>
+<biblScope ana="vol">br. 1</biblScope><biblScope ana="pp">10-79</biblScope></imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Leksikograf Jakov Mikalja S. J.</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1933</date>
+<biblScope ana="vol">br. 2</biblScope><biblScope ana="pp">1-43</biblScope></imprint>
+</monogr>
+<ref type="person" target="mikaljad1e1190">Mikalja, Jakov</ref>
+<ref type="work" target="opusid22023262">Blago jezika slovinskoga illi Slovnik u komu isgovarajuse rjeci slovinske latinski i diacki.Thesaurus linguae Illyricae sive dictionarium Illyriricum in quo verba Illyrica Italice et latine redduntur. Labore p. Jacobi Micali soc. Jesu : collectum</ref>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Miroslav Vanino</author>
+<title> Povijest filozofijske i teologijske nastave u Isusovačkoj akademiji u Zagrebu</title>
+<imprint><pubPlace>Zagreb</pubPlace><publisher>Hrv. bogoslovska akademija</publisher><date>1930</date></imprint>
+</monogr>
+<note>isusovci</note>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1435">Zagreb</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Prvi Hrvati Isusovci</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1934</date>
+<biblScope ana="vol">br. 4</biblScope><biblScope ana="pp">48-83</biblScope></imprint>
+</monogr>
+<note>isusovci</note>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Franjo Zdelar D. I. (1685-1745). Biografski podaci</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1938</date>
+<biblScope ana="vol">br. 8</biblScope><biblScope ana="pp">173-177</biblScope></imprint>
+</monogr>
+<ref type="person" target="zdela01">Zdelar, Franjo</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Ferdinand Konšćak i njegovo istraživanje Kalifornije</title>
+</analytic>
+<monogr>
+<title> Život</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1934</date>
+<biblScope ana="vol">God. XV, br. 2</biblScope><biblScope ana="pp">67-74</biblScope></imprint>
+</monogr>
+<ref type="person" target="konscakd1e891">Konšćak, Ferdinand</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Ferdinand Konšćak S. I. misionar i geograf Kalifornije (1703-1759)</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1933</date>
+<biblScope ana="vol">br. 2</biblScope><biblScope ana="pp">103-118</biblScope></imprint>
+</monogr>
+<ref type="person" target="konscakd1e891">Konšćak, Ferdinand</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Miroslav Vanino</author>
+<title> Franjo Ksaver Pejačević (1707-1780). Biografski podaci</title>
+</analytic>
+<monogr>
+<title> Vrela i prinosi</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1934</date>
+<biblScope ana="vol">br. 4</biblScope><biblScope ana="pp">96-97</biblScope></imprint>
+</monogr>
+<ref type="person" target="pejacevicd1e1411">Pejačević, Franjo Ksaver</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vladimir Varićak</author>
+<title> Boškovićeve bilješke o apsolutnom i relativnom kretanju</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">190</biblScope><biblScope ana="pp">30-43</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1038&amp;page=33">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vladimir Varićak</author>
+<title> G. V. Schiaparelli o Boškoviću</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1912</date>
+<biblScope ana="vol">190</biblScope><biblScope ana="pp">1-29</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1038&amp;page=4">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vladimir Varićak</author>
+<title> Istraživanja o Boškoviću u Beču</title>
+</analytic>
+<monogr>
+<title> Ljetopis JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1927/28</date>
+<biblScope ana="vol">41</biblScope><biblScope ana="pp">115-123</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=2632&amp;page=118">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1741">Beč</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vladimir Varićak</author>
+<title> Matematički rad Boškovićev</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1910</date>
+<biblScope ana="vol">181</biblScope><biblScope ana="pp">75-208</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1029&amp;page=78">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vladimir Varićak</author>
+<title> Prilozi za biografiju Rudža Boškovića</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1926</date>
+<biblScope ana="vol">232</biblScope><biblScope ana="pp"> 55-74</biblScope>
+</imprint>
+<imprint><pubPlace>Zagreb</pubPlace><date>1928</date>
+<biblScope ana="vol">234</biblScope><biblScope ana="pp"> 123-188</biblScope>
+</imprint>
+<imprint><pubPlace>Zagreb</pubPlace><date>1929</date>
+<biblScope ana="vol">236</biblScope><biblScope ana="pp">139-221</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=863&amp;page=60">dizbi HAZU</ref></relatedItem>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=601&amp;page=126">dizbi HAZU</ref></relatedItem>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=960&amp;page=148">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Vladimir Varićak</author>
+<title> U povodu državnog izdanja Boškovićeva djela “Theoria philosophiae naturalis”</title>
+</analytic>
+<monogr>
+<title> Rad JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1925</date>
+<biblScope ana="vol">230</biblScope><biblScope ana="pp">161-226</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=599&amp;page=166">dizbi HAZU</ref></relatedItem>
+<ref type="person" target="bosk02">Bošković, Ruđer</ref>
+<ref type="work" target="bosk02-p21-1758">Theoria philosophiae naturalis</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Vodusek -->
+
+
+<biblStruct><analytic>
+<author>Konstantin Vojnović</author>
+<title> Bibliografski pabirci iz dubrovačkijeh arkiva</title>
+</analytic>
+<monogr>
+<title> Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1895</date>
+<biblScope ana="vol">27</biblScope><biblScope ana="pp">208-215</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1739&amp;page=211">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct><analytic>
+<author>Konstantin Vojnović</author>
+<title> Prilozi k arhivalnijem pabircima dubrovačkijem. </title>
+</analytic>
+<monogr>
+  <title>Starine JAZU</title>
+<imprint><pubPlace>Zagreb</pubPlace><date>1896</date>
+<biblScope ana="vol">28</biblScope><biblScope ana="pp">1-96</biblScope>
+</imprint>
+</monogr>
+<relatedItem><ref type="internet" target="http://dizbi.hazu.hr/?vdoc=1429&amp;page=6">dizbi HAZU</ref></relatedItem>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<!-- izbaciti, nije hrv. latinizam! Vrtovčeva -->
+
+<biblStruct><analytic>
+<author>Antonije Vučetić</author>
+<title> Akademija “Dangubnijeh” (Otiosorum) i njen rad oko jednog riječnika u Dubrovniku</title>
+</analytic>
+<monogr>
+<title> Srđ</title>
+<imprint><pubPlace>Dubrovnik</pubPlace><date>1906</date>
+<biblScope ana="vol">God. V, br. 14</biblScope><biblScope ana="vol">681-692</biblScope></imprint>
+</monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+  <analytic>
+  <author>Antonije Vučetić i Petar Kolendić</author>
+    <title>Akademija dangubijeh i njen rad</title></analytic>
+  <monogr>
+    <title>Srđ</title>
+  <imprint><pubPlace>Dubrovnik</pubPlace><date>1906</date>
+  <biblScope ana="vol">God. V, br. 15</biblScope><biblScope ana="vol">727-732</biblScope></imprint>
+  </monogr>
+<ref type="place" target="http://www.wikidata.org/wiki/Q1722">Dubrovnik</ref>
+</biblStruct>
+
+<biblStruct>
+  <monogr>
+    <author>A. Zaninović</author>
+    <title> Pogled na apostolsko-znanstveni rad dominikanaca u hrvatskim zemljama</title>
+    <imprint><pubPlace>Zagreb</pubPlace><date>1917</date></imprint>
+   </monogr>
+<note>dominikanci</note>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+  <author>Nikola Žic</author>
+  <title> Govor Krsta Frankopana Papi Hadrijanu VI</title>
+</analytic>
+  <monogr>
+    <title> Obzor</title> 
+  <imprint><pubPlace>Zagreb</pubPlace><date>1924</date>
+      <biblScope ana="vol">br. 18-21</biblScope></imprint>
+  </monogr>
+<ref type="person" target="frankop02">Frankopan Brinjski, Krsto</ref>
+<ref type="person" target="http://viaf.org/viaf/305511345">Hadrianus VI, papa</ref>
+<ref type="work" target="frankop02-p01-1523">Oratio<add>et Memoriale</add>ad Adrianum Sextum, pont. mx.,
+Christophori de Frangepanibus ... MDXXIII septimo Kal. Julii</ref>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>Nikola Žic</author>
+  <title> Govor nadbiskupa Franje Frankopana pred carem Karlom V. na Državnome saboru u Regensburgu dne 9. lipnja 1541 za obranu Ugarske od Turaka</title>
+</analytic>
+  <monogr>
+    <title> Napredak</title> <imprint><date>1936</date> <biblScope ana="vol">br. 10.</biblScope></imprint> 
+  </monogr>
+<ref type="person" target="frankop01">Frankopan, Franjo</ref>
+<ref type="person" target="http://viaf.org/viaf/88598818">Karlo V</ref>
+<ref type="work" target="frankop01-p01-1541">Oratio revmi. in Christo patris d. Francisci comitis de
+Frangepanibus, archiepiscopi Colocen. et episcopi Agrien.,
+oratoris regni Hungariae, ad caesarem, electores et principes
+Germaniae</ref>
+</biblStruct>
+
+</listBibl>
+<p>K. Kć.</p>
+  <listBibl ana="croala.sekundarna" resp="#NJ">
+    <head>Dopune sekundarnoj bibliografiji hrvatskih latinista</head>
+    <bibl>
+      Jembrih, Alojz
+      Sisciensis victoria : (1717.) : hrvatska povijesna i rodoljubna drama na zagrebačkom Gradecu / Alojz Jembrih. // Kaj : časopis za kulturu i prosvjetu 27 (1994), 45, str. 77-96
+      <relatedItem ana="croala.opera" target="donat01-d01-1717">
+        <bibl>Donati, Sissiensis victoria</bibl>
+      </relatedItem>
+      <term>drama</term>
+    </bibl>
+    <bibl>
+      SISAČKA pobjeda 1593. : njezin odjek u hrvatskoj književnosti / priredio i uvodnu raspravu napisao Alojz Jembrih ; preveo Ivan Kosić. - Sisak : Matica hrvatska etc., 1993. - 234 str. : faks. ; 24 cm. - (Biblioteka Slovo, duh, misao)
+        <note>Sadrži faks. pretisak drame: Sissiensis victoria iz 1717. i hrv. prijevod drame; autorstvo je nesigurno, pripisuje se o. Ivanu Donatiju. - Str. 3-43: Hrvatsko gimnazijsko kazalište na Gradecu u Zagrebu i "Sissiensis victoria" iz 1717. / Alojz Jembrih. - Bibliografija: str. 44-49. - Sadrži i: Razgovor ugodni naroda slovinskog / Andrija Kačić Miošić. Kronika / Pavao Ritter Vitezović.</note>
+      <relatedItem ana="croala.opera" target="donat01-d01-1717">
+        <bibl>Donati, Sissiensis victoria</bibl>
+      </relatedItem>
+      <term>drama</term>
+    </bibl>
+  </listBibl>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,4499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elenchus MS in archivo HAZU, versio electronica</title>
+            <author><name xml:id="NJ">Neven Jovanović</name></author>
+            <author><name xml:id="LS">Luka Špoljarić</name></author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2014-01-23T19:16:15</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Ekscerpti iz kataloga arhiva HAZU.</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>2014-01-23T19:20:37</date>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc xml:id="hr-zg-hazud1e115">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 41</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epistolae</title>
+         <author/>
+         <note>6 svezaka</note>
+         <note ana="žanr">pismo</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e142">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 79</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Orationes, eclogae, epigrammata</title>
+         <author/>
+         <note/>
+         <note ana="žanr">razno</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e168">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 110</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Biographica et historica varia notata</title>
+         <author/>
+         <note/>
+         <note ana="žanr">građa</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e194">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 55</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Zagrabiensibus de rebus collectanea</title>
+         <author/>
+         <note/>
+         <note ana="žanr">građa</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e221">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>XV – 28 / II 23</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title/>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e245">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 9</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Miscellanea</title>
+         <author>Oreček?</author>
+         <note/>
+         <note ana="žanr">građa</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e272">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 28 (533)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Notata historica et poetica alphab. ... anonymi Ragusini</title>
+         <author/>
+         <note>Dubrovnik</note>
+         <note ana="žanr">građa</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e299">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 44 (101)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pjesme i sastavci...</title>
+         <author/>
+         <note/>
+         <note ana="žanr">razno</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVII. st. (oko 1629)</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e326">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 51 (131)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Bona Ioanes... Epigrammatum delectus</title>
+         <author/>
+         <note/>
+         <note ana="žanr">epigrami</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e352">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 52 (232)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Liber himnorum... s. Gregorio, Prudentio, Ambrosio, Sedulio et Ilario</title>
+         <author/>
+         <note/>
+         <note ana="žanr">himni</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XV. st.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e380">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 55 (138)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Carmina</title>
+         <author><ref target="gundul01">Gondola Franciscanus</ref></author>
+         <!-- provjeri identifikaciju -->
+         <note/>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1607</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e408">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 55 (599)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Orationes</title>
+         <author>Resti Junius Antonius</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e434">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 56 (512)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Chronologia Croatiae</title>
+         <author>Tomašić Ioannes</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e459">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 57 (241)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Litterae ad presbiteros Dalmatiae</title>
+         <author/>
+         <note/>
+         <note ana="žanr">pismo</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>knj 8, 82 str</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1376</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e487">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 65 (438)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Historia epitome de regno et natione Illyrica</title>
+         <author><ref target="beng01">Benger Nikolaus</ref></author>
+         <note/>
+         <note ana="žanr">historiografija</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e514">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I a 81</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Flores poetici de conservanda valetudine...</title>
+         <author/>
+         <note/>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e541">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 13</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Carmina</title>
+         <author><ref target="stay02">Stay Joannes Franciscus</ref></author>
+         <!-- provjeri identifikaciju -->
+         <note/>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII. st.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e569">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 24</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Prietvora Ovidovieh knj. I</title>
+         <author>Zlatarić Dinko Šimun</author>
+         <note>hrv</note>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e597">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 31</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title/>
+         <author>Gjorgjić, Niko Boranji?</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e622">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 51</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Carmina et elegiae</title>
+         <author><ref target="bosk01">Bošković Bartol</ref></author>
+         <note/>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>Elegiae</title>
+         <author><ref target="zama01">Zamagna Bernardus</ref></author>
+         <note/>
+         <note ana="žanr">elegije</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>Carmina</title>
+         <author><ref target="kunic02">Kunić Raymundus</ref></author>
+         <note/>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e704">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 53</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Ad patriam Cath. Bondiae epigramma</title>
+         <author><ref target="zama01">Zamagna Bernardus</ref></author>
+         <note/>
+         <note ana="žanr">epigram</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e731">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 81</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Carmina Ragusiorum encomiastica</title>
+         <author/>
+         <note>Dubrovnik</note>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e758">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 82</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Poesie varie</title>
+         <author>Friginus Andreas, nomine Felix de Esculo</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1472</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e785">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 100?</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>2) Život Joannesa Josephusa Paulovich Lucicha</title>
+         <author>Saveršnig Josephus</author>
+         <note/>
+         <note ana="žanr">životopis</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e812">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 114</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pjesni razlike</title>
+         <author>Rastić Gjon</author>
+         <note>hrv?</note>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1699</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e841">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I b 118</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pjesme istomačene na službu... majke i sestara</title>
+         <author><ref target="zama01">Zamanja Barno</ref></author>
+         <note>hrv?</note>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1770</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e871">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 5</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Eneida P. Virgila</title>
+         <author><ref target="djurdjev02">Đorđić Ignjat</ref></author>
+         <note>hrv?</note>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>Eneida II</title>
+         <author>Bobaljević Fran</author>
+         <note>hrv?</note>
+         <note ana="žanr">pjesme</note>
+         <note ana="ekscerpirao">OP</note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+         <msDesc xml:id="hr-zg-hazud1e927">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 26</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De vita et praeclaris facinoribus Joannis Hunyadi</title>
+         <author>Kacić Georgius</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e952">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 40</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Histor. Dalmatina</title>
+         <author><ref target="zavor01">Zavorei Dominicus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1603</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e978">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 44</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De rebus Dalmaticis libri octo</title>
+         <author><ref target="zavor01">Zavorei Dominicus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1003">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 56</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Traguriensis notata historica chronologica</title>
+         <author><ref target="lucic02">Lucius Joannes</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1029">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 58</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Chroniche di Ragusa</title>
+         <author>Resti Junius</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1455</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1055">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 59</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Annali</title>
+         <author>Resti Junius</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1080">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 60</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Bibliotheca Ragusina</title>
+         <author><ref target="crije03">Cerva Seraph.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>vol I-IV</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1106">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 61</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Prolegomena in s. metropolim Ragusinam</title>
+         <author><ref target="crije03">Cerva Seraph.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1131">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 62</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Metropolis Ragusina</title>
+         <author><ref target="crije03">Cerva Seraph.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>vol I-V</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1157">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 63</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Ragusina miscellanea </title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>(1-19)</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1183">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I c 64</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Prijevodi i pjesme</title>
+         <author><ref target="drazicd1e404">Dražić Ivan</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1720</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1209">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 22</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Histor. Salonitanorum pontificum atque Spalatensium</title>
+         <author><ref target="toma01">Thomas Spalat.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1234">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 30</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Croaticarum familiarum repertorium</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>(I-IV)</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1259">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 91</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Vita Marci Maruli Spalatensis</title>
+         <author><ref target="bozic01">Natalis Franciscus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1285">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 92</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Vita Antonii Verantii Strigonensis archiepiscopi et cardinalis ac per Hung. locumtenentis </title>
+         <author><ref target="vranc02">Faustus Verantius</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>NB apographum XVIII st</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>Posoni 1575</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1312">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 105</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epistolae archiep. dalmaticorum</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1337">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 110</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Catalogo dei libri poesie Illiriche</title>
+         <author><ref target="feric01">Ferich Giorg</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1362">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 111</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Nummorum qui in agro ad Sisciam reperti sunt a 1787 succincta explicatio</title>
+         <author><ref target="baric01">Barichevich Adamus Aloysius</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1387">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 119</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Sermones et poemata</title>
+         <author/>
+         <note>lat. germ. et croat.</note>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1412">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 136</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Poesiae variae</title>
+         <author><ref target="kazna01">Kaznačić Ant.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1437">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 139</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Elegia in Raimund Cunichium</title>
+         <author><ref target="galjuf02">Gagliufius Marcus Fastinus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1462">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 141</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Didaci Pyrrhi Lusitani Elegiarum libri tres ad D. Slatarichium</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1487">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 142</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>In funere Francisci Mariae Appendini</title>
+         <author><ref target="kazna01">Kaznačić Ant.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>(18. febr. 1837.)</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1513">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 143</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pjesme</title>
+         <author><ref target="kazna01">Kaznačić Ant.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>-1850</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1539">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 153</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Oratio in funere Joannis Alleti</title>
+         <author><ref target="stay03">Stay Christofori</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>(XVIII st.)</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1565">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 154</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Oratio in funere eius Rhacusini Mich. Martellini</title>
+         <author>Calichi</author><!-- Ark. Kalić? -->
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1590">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 155</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Vita Hieronymi Ferri Longian.</title>
+         <author><ref target="baric01">Barichevich </ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>(XVIII st.)</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1616">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 169</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Elencus chronologicus actorum partim originalium authenticorum, partim apographorum ex archivio Verantiano Draganichiano</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1641">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>I d 169a</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Scrutinium super actis ex chartophylacio Draganichiano olim Verantianis</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>(1797.)</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1666">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 7</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Vita Berislavi episcopi et bani</title>
+         <author><ref target="mrnav01">Marnavić Tomko</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1691">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 20</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Phares Liguraeque nobiliores oratoriae et poeticae et discriptiones ex optimis auctoribus</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>(1753.)</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1716">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 22</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Synopsis ... monasterii Lepoglavensis</title>
+         <author><ref target="beng01">Benger N.</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1741">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 29</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>1-10*</title>
+         <author><ref target="beng01">Benger</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1766">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 36</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Linguae Latinae de fatis commentariolum</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1791">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 40 (3)</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Ricardi Bernardini liberalis poemata et litterae</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1815">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 64</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Augustini Dati, Guarini Veroniensis ..., Georgii Sibenicensis</title>
+         <author/>
+         <note>(1-5)</note>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1840">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 65</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Lamentatio Segniae</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>Autographum misc. sed mancum.</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1866">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 81</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Oratio in festo s Stephani Hungarorum regis</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1769</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1891">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II a 86</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Brazziae insulae chronicon</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e1915">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 3</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>1</title>
+         <author><ref type="viaf" target="79076696">Sextus Rufus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>2 Epistola ad Stephan. Coloc.</title>
+         <author><ref target="nikolamodr01">Nicolaus ep. Modrusiensis</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>3, 4 Oratio Demost.</title>
+         <author><ref type="viaf" target="268302412">Demosthenes</ref></author>
+         <author><ref target="janpan01">(prev. Pannonius)</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>5 Pismo archiep. Coloc. </title>
+         <author><ref target="vitez01">Vitez</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>6. Pismo</title>
+         <author><ref target="vitez01">Vitez</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+      <msItem>
+         <title>i drugo</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+
+<msDesc xml:id="hr-zg-hazud1e2066">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 4</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Banisiorum quae concernunt, aliquae litterae pontificiae ac regiae</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2091">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 30</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Excerpta</title>
+         <author><ref target="fodrocid1e466">Fodroci Ladislaus (Poetae anonymi)</ref></author>
+         <author>Poetae anonymi</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2116">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 33</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Latinae linguae de fatis commentariolum</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2140">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 39</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epigrammata et versus metrice compositi</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2164">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 41</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epistolae</title>
+         <author><ref target="baric01">Baričević A. </ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>svesci I-VI</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1787</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2191">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 61</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Oratio in funere Mathaei Caraman archiepiscopi Jadrensis</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2215">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 60</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Solemnia installationis Ill. d. Nicolai Škrlec</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1782.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2241">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 70</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Apographum ex Joanne Lucio ... de comitibus Corbaviae qui fuerunt de genere Gusić</title>
+         <author><ref target="vitezov01">Ritter Vitezović</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2266">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 72</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Descriptio synoptica monasterii ord. S. Pauli</title>
+         <author><ref target="kristol01">Kristolovec Joannes</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>(Benger)</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2292">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 79</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Orationes, eclogae, epigrammata</title>
+         <author><ref target="baric01">Baričević Adamus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2317">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 87</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Poemation de fame, quam Proserpina per Cererem matrem suam Croatiae intulerant</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>(a. 1758. lat)</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2342">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 89</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Notata historica republicam Ragusanam quae concernunt</title>
+         <author>Giorgi Bernardo</author>
+         <note>(Ragusa)</note>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2368">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 98</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Lexicon latinum </title>
+         <author>Dianišević Steph</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1784</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2395">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 99</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Commentariolum de monumento Vetoniano</title>
+         <author>Dianišević Steph</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2420">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 104</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Oratio in funere Josephi Boscovich SJ</title>
+         <author><ref target="zama01">Zamagna Bernardus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2445">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 104?</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Oratio in adventu Gregorii Lazari, Ragusini archiepiscopi</title>
+         <author><ref target="kalic01">Kalić, Archangelus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2470">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 108</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Satyra in saeculi huius profanus homines qui potestatem sibi in res ecclesiasticas arrogant</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2494">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 110</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Biographica et historica varia notata</title>
+         <author><ref target="baric01">Baričević Adam</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2519">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 116</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Historicarum epistolar. fragmentum</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2545">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 134</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epistolae virorum doctorum ad Croatas</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2569">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 143</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Catalogus authorum ex religiosis ord. s. Pauli Eremitae</title>
+         <author><ref target="beng01">Benger Nicolaus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2594">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II b 162</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Jadrae civitatis descriptio et historia</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVII st.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2619">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II c 6</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Illyricorum congregatio s. Hieronymi de Urbe</title>
+         <author><ref target="pastricd1e1405">Paštrić...</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2644">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II c 30</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Ritratti d'illustri Dalmati e luogo dove si possono rinvenire</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2668">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II c 58</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Historiae</title>
+         <author><ref target="kovacevicd1e898">Kovačević Thomas</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2694">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II c 61</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epistolae ad varios</title>
+         <author>Joannes de Ravenna</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2719">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II c 81</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>(1-7) de Transylvania</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2743">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II c 83</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Carmina</title>
+         <author><ref target="bol05">Bolić Blasius</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2769">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 19</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Diarium Hieronimi de Zara et Corneli Dupplici de Schlepper oratorum regis Ferdinandi ad portam turcicam</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1533</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2794">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 55</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Historia Ragusii</title>
+         <author>Joannes de Ravenna</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2819">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 85</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Poemata et epigrammata latina et italica</title>
+         <author>Nikičević (Nicheo)</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2845">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 86</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Bosna captiva, sive regnum et interitus Stephani ultimi Bosnae regis</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2870">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 89</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Litterae missiles</title>
+         <author><ref target="busot01">Fidelis de Zara</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2895">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 92</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Atocion despotarum magnorumque ducum Serbiae</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1694</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2921">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 113</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Commentariolum de Nicolas Turčić</title>
+         <author><ref target="baric01">Baričević Adam</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2946">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 115</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Zagrabiensi pro academica juventute orationes variae</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>nr. 4</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2971">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 117</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Miscellanea, Carmina latina et italica, Fragmina tractatuum profanorum</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e2996">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 137</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Documenta biographica</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3021">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 147</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epistolarum metricarum liber I</title>
+         <author><ref target="vitezov01">Ritter Vitezović, Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="dopuna">
+            <persName>Jovanović</persName>
+         </note>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>
+         <quote>
+            <p>Najranije latinske poslanice u stihu, koje je pisao kao dvadesetpetogodišnjak, Vitezović je sabrao u Epistolarum metricarum liber primus i Epistolarum metricarum liber secundus koji se čuvaju pod signaturnom oznakom II d 147 u Arhivu HAZU-a. Naslovljene su na razne patrone i osobe s kojima je bio u prijateljskim odnosima ili nastojao pridobiti njihovu naklonost, a tu je i nekoliko mladenačkih literarnih poslanica djevojkama pod pseudonimima. Poslanice su numerirane, ali je numeracija nepouzdana. Čitav je rukopis ispisan na kvalitetnom papiru (nešto grublje teksture, tako da vlakna formiraju kvadratičasti raster), bez vodenih žigova ili drugih posebnih znakova. Listovi su bili uvezani šivanjem, a osim nekoliko odvojenih, većina ih se i dalje drži zajedno, premda užetu nema traga. Rukopis je dimenzija 21 x 32 cm, gusto ispisan, ali čitljiv, i nema mnogo naknadnih intervencija. Tinta na nekim listovima djelomično probija, što ne utječe ozbiljnije na čitljivost. Na dnu većine stranica autor je ostavio recolecta u obliku prva tri slova početnoga retka sljedeće stranice.</p> 
+            <p>Zbirka nema posebne korice, već je uložena u presavijeni list papira, a na naslovnici stoje samo dvije (iste) oznake signature rukopisa, jedna olovkom i druga tintom. Nakon naslovnice slijedi prazna nepaginirana stranica, a nakon nje prva stranica Vitezovićevog rukopisa s naslovom "Eq. Pav. Ritter / Epistolarum metricarum / liber primus", paginirana brojkom 1. Ona i sve ostale stranice paginirane su istom smećkastocrnom tintom i rukopisom kao i ostatak teksta, tako da je jasno da je riječ o autorovoj ruci. Izuzetak su stranice 35 i 36, koje nisu ispisane te su naknadno paginirane olovkom. Na stranici 34 olovkom je, također naknadno, ispravljena paginacija budući da je autor pogrešno napisao 32. Na stranici 26 počinje "Eq. Pav. Ritter / Epistolarum metricarum / liber secundus". Međutim, na str. 27 nalaze se samo dva stiha kojima se završava poslanica s prethodne stranice, a nakon prazne 28., na 29. stranici dočekuje nas Vitezovićevom rukom numerirana četvrta poslanica, što nepogrešivo upućuje na to da je prazan prostor bio predviđen za naknadno prepisivanje, do čega nikada nije došlo. Tako su, dakle, od ukupno 38 stranica koje čine rukopis, u cijelosti ili djelomično ispisane njih 32.</p> 
+            <p>Na dnu prve stranice stoji veliko slovo A (istom bojom tinte i istim rukopisom), što je vjerojatno oznaka arka, ali drugdje nema takvih oznaka. U rukopisu ima ponešto autorovih korekcija, kao i nešto marginalija koje je olovkom dodala druga ruka, jamačno Vjekoslava Klaića, historiografa kojemu dugujemo Vitezovićevu biografiju, i koji je uz ostale tragove svojeg rada na poslanicama ostavio datacije uz pojedina pisma. Tek je iz tih marginalnih bilježaka razvidno da poslanice potječu iz 1676. – 1677., budući da ih autor nije datirao.1 Nema nikakvih tragova koji bi nas uputili kada je Vitezović sastavio ovu zbirku.</p>
+         </quote>
+         <bibl>Moretti 2014</bibl>
+      </p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3046">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 176</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Tractatus de comitibus Corbaviae qui fuerunt de genere Gusić</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3071">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 190</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Carmina varia latina</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3095">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 212</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Chronotaxis monasterium ordinis fratrum Eremitarum s Pauli in Provinciis Istrai et Chroatae</title>
+         <author><ref target="beng01">Benger Nicolaus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3120">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>II d 229</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>An eloquentia plus utilitatis quam detrimenti foro causisque publicis adferat </title>
+         <author>Gvozdanović Athanas</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3146">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 22</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Adversaria varia pertinentia: 1) ad jurisprudentiam naturalem 2) ad jurisprudentiam ecclesiasticam 3) ad historiam Croatiae 4) ad litteras humaniores 5) epigrammata varia</title>
+         <author><ref target="kalafat01">Kalafatić Vincentius</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1783</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3172">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 51</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Commentarium de defensione Corsolensi a classe Turcica</title>
+         <author><ref target="rosan01">Rosaneus Antonius</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1571</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3198">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 67</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>2) Gazophilacium quo antiquitates romanae, graecae, phoenicae, aegipticae continentur; 3) Graecarum et latinarum praesumen.</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3222">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 68</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De gestis banorum</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3246">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 97</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Theses et axiomata in diverso genere objectorum ad vitam practicam spectantium</title>
+         <author><ref target="kirinicd1e846">Kirinić</ref></author><!-- ime? -->
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3271">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 115</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Slavoniae inferioris et superioris scriptores</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XIV-XIX st.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3297">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 126</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Protocollum privatum correspondentiarum etc. latine et galice scriptorum</title>
+         <author>Patačić com. Bartholom de Zajezda</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1784-1786</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3323">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 166</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Miscellanea historica</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3347">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 180</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Index patrum et doctorum in scriptis Jos. Taisspergar.</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3371">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>III d 194</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Miscellanea varia</title>
+         <author><ref target="vitezov01">Vitezović</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3396">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV a 63</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Poesie</title>
+         <author>Bajamonti Julije</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3421">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV a 68</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Rime </title>
+         <author><ref target="bruer01">Bruere Marco</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3448">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV a 107</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Rhetorica</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1719</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3473">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 5</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Michaeli Anton Litterae missae Joachimo Cačić, Antonio et Paulo Ivanišević</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3497">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 11</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Carmina</title>
+         <author>Pezenti Bernardus </author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1554</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3523">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 24</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Miscellanea historica Venetiis descripta</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3547">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 27</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Tractatus de amicitia</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3571">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 46</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Brattae insulae documenta diversa historica</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3596">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 57</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De antiquis Croatiae incolis; De nominationes montium, fluviorum, civitatunque et aliorum locorum per Illyricum </title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3621">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 72</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Varia et perplura excerpta metric. et prosaica, sententiae variae tam sacrae quam profanae et alia diversa</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3646">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 87</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pjesme hrvatske; 48 Si quit Ragusidum</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3670">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 88</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Listovi</title>
+         <author>Sabljar Mato</author>
+         <author>Sabljar Mijo</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3695">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV b 89</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Litterae missiles</title>
+         <author>Drašković comites </author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1596-1733</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3721">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 3</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Miscellanea historica autographa</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3747">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 4</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Epistolae metricae</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>
+         <quote>
+            <p>Druga zbirka Vitezovićevih epistola koja se čuva u istome arhivu, ali pod oznakom IV c 4,1 znatno je većeg opsega. Autor je latinske metričke poslanice koje je pisao otprilike 25 godina nakon prethodnih, odnosno 1701., 1702. i 1703, razdijelio u tri knjige, po jednu za svako godište. Ni kod ove, kao ni kod prethodne zbirke, nema traga koji bi upućivao na vrijeme kompiliranja. Među poslanicama patronima i prijateljima, redom osobama na važnim državnim, vojnim i crkvenim položajima, ima i nešto poslanica koje je Vitezović primio i odlučio ih uvrstiti u zbirku. Većina poslanica i poneki odgovor numerirani su i datirani, a numeracija je i ovdje nepouzdana.</p> 
+            <p>Na naslovnici je napis „Eq. Pauli Ritter / epistolae metricae“, koji, sudeći prema rukopisu, pripada Vitezoviću. Nakon naslovnice je olovkom paginirana prazna stranica, a na trećoj počinje prva knjiga poslanica, koja nosi naslov gotovo identičan naslovu prethodnog rukopisa, a glasi: "Eq. Pav. Ritter / Epistolarum / metricarum / liber...". Autor je ostavio praznim mjesto nakon riječi liber u sva tri godišta zbirke, što bi moglo upućivati da je planirao sastaviti još zbirki i numerirati ih tek kada se utvrdi koje će biti po redu.2 Negdje na polovici 89. stranice započinje druga knjiga poslanica, identičnog naslova. Na desnoj margini olovkom je dopisana godina 1702., što je također vjerojatno učinio Klaić. Na stranici 178 počinje godište 1703, koje nosi isti naslov, a na desnoj se margini također nalazi godište dodano olovkom. Sva su tri naslova pisana tintom crvenkastije nijanse. Vitezović je datirao većinu poslanica ne samo datumom nego i godinom, pa je iz njihova redoslijeda jasno da se je držao kronološkog principa pri njihovom nizanju. </p>
+            <p>Rukopis IV c 4 istih je dimenzija kao i prethodni, dakle 21 x 32 cm, na sličnom tipu papira i ispisan istom vrstom tinte smećkastocrne boje. Nekoć je imao korice, ali su uklonjene. I on je u dobrom stanju, listovi se postojano drže zajedno i tek je malo obilježen vlagom, čiji se tragovi svode na blaga oštećenja rubova i mjestimične točkaste mrlje po papiru, a tek rijetko tragovi vlage prodiru i po 2 cm od (uglavnom donjeg i desnog) ruba papira. Paginacija je izvedena olovkom, što upućuje na to da je naknadna. Folijacije nema. I u ovome rukopisu ima praznih stranica: primjerice, stranica 59 vjerojatno je ostala prazna greškom jer se poslanica koja je na prethodnoj 58. stranici nastavlja na 60. bez razloga. Prazne stranice od 175. do 177. vjerojatno su namjerno takve jer na 174. završava godište 1702, a nije nevjerojatno da je Vitezović na taj način ostavio prostora da na njih dopiše još koju epistolu iz te godine. Treća knjiga poslanica završava sa stranici 187. Stranice od 188. do 261. paginirane su, također olovkom, ali su prazne. Na dnu ispisanih stranica nalaze se recolecta kao i u prethodnoj zbirci.</p>
+            <p>Rukopis je u cijeloj zbirci uredan i čitljiv, a vidljivi su tragovi korekcija tijekom pisanja, ali i ponešto naknadnih prepravljanja. Na potonje katkad jasno upućuje druga nijansa tinte, koja je na takvim mjestima tamnija i gušća ili svjetlija i tanja od one kojom je stih napisan. Čini se da je Vitezović želeći dotjerati zbirku na nekoliko mjestima uklonio stranicu kojom nije bio zadovoljan. Takvo što vidimo primjerice kod tragova stranice koja je trebala biti prva u posljednjem arku (str. 186) i nakon koje slijedi stranica ispisana svjetlijom tintom. Upravo na temelju svjetlije tinte moguće je pretpostaviti da je stranicu istrgnuo ili izrezao nakon što je pisao neko vrijeme pa je tinta kojom je nastavio prepisivati na sljedeću već bila za nijansu istrošenija i zato svjetlija. Zanimljivo je rješenje za naknadni popravak Vitezović primijenio na str. 184 zalijepivši na nju komadić papira koji je prethodno pripadao kalendaru, na koji je s unutarnje strane ispisao pet dodatnih stihova. Taj je komadić zalijepljen na lijevoj margini tako da se, kad se odigne, može pročitati dodani tekst. Na istoj je stranici učinjena još jedna dopuna doljepljivanjem komada papira. Međutim, za razliku od prethodnog, taj je ljepilom prilijepljen sa svih strana tako da tekst pod njime nije dostupan. </p>
+            <p>Osim kod dodavanja teksta, stari je kalendar, možda i jedan od onih koje je Vitezović tiskao u svojoj tiskari, korišten i da bi se izradio uvez, odnosno korice rukopisa IV c 4, a o kojima svjedoče i tragovi od nekoliko slojeva papira na mjestu gdje uže povezuje arke. Bibliotečna bilješka na fasciklu u kojemu se čuva rukopis IV c 4 kaže: "Stare korice ovog rukopisa prenesene (Vitezovićev kalendar) na br. VIII-241". Uvidom u VIII-241 potvrđeno je da se pod tom signaturom nalazi ono što je nekada doista činilo korice rukopisa ove zbirke – Vitezovićev tiskani kalendar iz 1697. godine. Na tome fasciklu piše: "Dnevnik i meszecznik letta 1697 (štamp.) / Izvađeno iz korica rukopisa IV c 4 u restauratorskom zavodu Jugoslavenske Akademije god. 1952." Dakle, svezak kalendara, čije su stranice ispisane hrvatskim tekstom (uz pokoju stranicu latinskog), pretvoren je u korice za rukopis. Na njegovim stranicama zadržali su se tragovi ljepila, koji su najprisutniji na dvama fragmentima neispisanog papira. Na jednome od fragmenata cijela je poleđina premazana ljepilom, a na drugom dio, pa se vidi da je dijelom prekrivao hrbat, a dijelom prelazio na prednju ili stražnju stranu korica omatajući tako rukopis do ruba stranice. I drugi komadić koji je dijelom bio u hrptu uveza premazan je ljepilom, a dijelom se nastavljao na lice ili naličje knjige. Još dva papirna komada i jedan otrgnuti komadić s latinskim tiskanim tekstom također nose tragove ljepila, a po njihovu obliku vidi se da su bili slijepljeni u hrbat.</p>
+         </quote>
+         <bibl>Moretti 2014</bibl>
+      </p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3772">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 14</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Lexicon historium Illyrici</title>
+         <author><ref target="glavinad1e547">Glavina Venant</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3797">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 19</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Croaticorum scriptorum brevis connotata</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3821">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 26</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Erudita adversaria seu vitae ac sermones virorum eruditorum item protestationes, repraesentationes diaetales et miscellanea quaedam historica</title>
+         <author><ref target="mravinecd1e1257">Mravinec Adamus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3846">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 29</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Excerpta perplura e libris theologicis historicis encyclopedicis et aliis</title>
+         <author><ref target="sabolov01">Sobolović Martinus</ref></author>
+         <!-- Sabolović? -->
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3871">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV c 55</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Zagrabiensibus de rebus collectanea</title>
+         <author><ref target="baric01">Baričević Adam Alojzije</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3897">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 42</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Saturae et epigrammata</title>
+         <author>Pasquilla</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3922">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 51</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Litterae missiles diversorum virorum illustrium</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XV-XIX st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3947">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 74</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Oratio de origine successibusque Slavorum Phari habita MDXXV</title>
+         <author><ref target="pribojev01">Priboevius Vincentius</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3972">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 85</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Korespondencija</title>
+         <author><ref target="vitezov01">Ritter Vitezović Paulus</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e3997">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 88</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Compositiones scholasticae</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1779</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4022">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 90</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Latinski školski rukopis</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4048">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 91</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Sententiae ac exima dicta variis collecta</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4072">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 92</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Libri dictatorum </title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>(gramatika lat., diktati lat. etc)</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4097">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 95</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De arte rhetorica</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4121">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 102</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De tropis </title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1722</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4146">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>IV d 105</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Collectio legum ortographicarum ex variis codicibus juxta lingarum varietatem a Jo. Andreae Juliani excerpta</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>post an. 1766</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4171">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>V 21</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Fragment pjesme</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>Inc. lucis adhuc leb. autem vicina nocte</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>Dubrovnik XV st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4198">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>V 22</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Fragment</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>Inc. mea sed non tua. Respondit Electra dicens exiit frater meus</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>Iz mojstira Porta na Krku XIV st.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4224">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VII 33</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Hekuba</title>
+         <author>Marin Držić</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>56 stihova</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4250">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VII 37</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Talijanske i latinske pjesme</title>
+         <author>Simon Giaxa</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII. st.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4276">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VII 97</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De arte poetica</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>anno 1577 Senis</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4301">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VII 107</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Artis oratoriae</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>Liber IV</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>anno 1735</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4327">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VII 119</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Stilističke vježbe na tal i lat jeziku</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1807</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4353">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VII 153</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De arte dicendi bene libri quinque</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4378">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 37</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Scripta Simeonis Dadich</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1823</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4403">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 71</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pismo <ref target="vitezov01">Ritteru Vitezoviću</ref></title>
+         <author>Domijanić Adamus Sigismundus</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1710</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4429">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 78</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>De litterarum meritis in republicam et religionem</title>
+         <author><ref target="wohlgemuthd1e1935">Wohlgemuth Philip</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>Oratio habita in Academia Zagrabiensi 1774</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4455">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 94</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Cyclopes Styriaci rebelles a Croatis ad officium redacti, latinske pjesme</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4480">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 95</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Poemation de Cyclobibus in Superiori Styria rebellibus per Croatas ad officium reductis, latinska pjesma</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>o pruskom generalu Winterfeldu</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1758</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4507">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 96</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Elegia pro audito ... adventu Illustrissimi dni Josephi Urmengi</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4532">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 133</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Lucae Antonii de Sorgo Rhacusini Carmini</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p>(ex bibliotheca Casnacich)</p>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XIX st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4558">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 167</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Miscellanea (7 - razne školske vježbe, skripte Francisce Ferk, Bruna Emerika Markovića i sl.</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XVIII-XIX st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4583">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 191</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>3) Epitafij Rajmundu Kuniću</title>
+         <author><ref target="baric01">Baričević Adam</ref></author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>1795</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4609">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 192</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Prijepisi dubrovačkih pjesnika latinista</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>XIX-XX st</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4634">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 207</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Conscripta quaedam notatu et memoria digna ab anno 1599</title>
+         <author>Petar Keglević</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4660">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 208</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Vita Antonii Verantii archiepiscopi Strigoniensis</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4684">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 209</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pismo <ref target="baric01">A. Baričeviću</ref> o hrvatskim piscima iz isusovačkog reda</title>
+         <author>M. Paintner</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate>25.10.1802.</origDate>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4710">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 209?</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Pjesma Ad clarissimum virum Adamum Barichevich</title>
+         <author>Franciscus Dolci</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4735">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 265</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Laudatio in funere Patritii Josephi Čobernić Makarskensis Ecclesiae in Dalmatia Praepositi die X. Novembris 1852.</title>
+         <author/>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+<msDesc xml:id="hr-zg-hazud1e4759">
+   <msIdentifier>
+      <placeName>Zagreb</placeName>
+      <institution>Arhiv HAZU</institution>
+      <idno>VIII 268</idno>
+   </msIdentifier>
+   <msContents>
+      <msItem>
+         <title>Memento mori, pjesma</title>
+         <author>Anonim</author>
+         <note/>
+         <note ana="žanr"/>
+         <note ana="ekscerpirao"/>
+         <note ana="razno"/>
+      </msItem>
+   </msContents>
+   <physDesc>
+      <p/>
+   </physDesc>
+   <history>
+      <origin>
+         <origDate/>
+      </origin>
+   </history>
+</msDesc>
+
+      </body>
+   </text>
+</TEI>

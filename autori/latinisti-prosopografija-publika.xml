@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prosopografija publike hrvatskih latinista, elektronska verzija</title>
+                <author>Neven Jovanović</author>
+                <respStmt>
+                    <resp>Editionem electronicam curavit</resp>
+                    <name>Neven Jovanović</name>
+
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>Ožujak 2014.</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Rad nastao u okviru znanstvenog projekta Croatica et Tyrolensia,
+                    (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>Ožujka
+                2014.</date>
+            </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Građa prikupljena tijekom drugih istraživanja.</p>
+            </sourceDesc>
+
+        </fileDesc>
+        
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2015/03/13</date>
+                Proba.
+            </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2014-03-13</date>
+                Početak izrade.
+            </change>
+            
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <front>
+            <docAuthor>Neven Jovanović</docAuthor>
+            <docTitle>
+                <titlePart>Prosopografija publike hrvatskih latinista</titlePart>
+            </docTitle>
+            <docDate>Ožujak 2014.</docDate>
+        </front>
+        <body>
+            <div type="prosopographia">
+            <!-- dodaci -->
+                
+                <listPerson type="croala.publika" xml:base="urn:cite:croala:publika">
+                    <person xml:id="croala-extra.flaminioma-v22151393">
+                        <persName xml:lang="ita">Flaminio, Marco Antonio</persName>
+                        <birth when="1498">1498</birth>
+                        <death when="1550">1550</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/22151393">VIAF: 22151393</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q351485">Wikidata: Q351485</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="flaminioma-v22151393">CroALa: flaminioma-v22151393</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.nascimbenen-v27418910">
+                        <persName xml:lang="ita">Nascimbeni, Nascimbene</persName>
+                        <floruit when="1564">1564</floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/27418910">VIAF: 27418910</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="nascimbenen-v27418910">CroALa: nascimbenen-v27418910</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.beroaldof-v51797072">
+                        <persName xml:lang="ita">Beroaldo, Filippo, sr.</persName>
+                        <birth when="1453">1453</birth>
+                        <death when="1505">1505</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/51797072">VIAF: 51797072</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q3071870">Wikidata: Q3071870</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="beroaldof-v51797072">CroALa: beroaldof-v51797072</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.filelfogm-v9926370">
+                        <persName xml:lang="ita">Filelfo, Giovanni Mario</persName>
+                        <birth when="1426">
+                            1426.
+                            <placeName>Pera (Beyoğlu)</placeName>
+                        </birth>
+                        <death when="1480">1480</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/9926370">VIAF: 9926370</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q3763362">Wikidata: Q3763362</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="filelfogm-v9926370">CroALa: filelfogm-v9926370</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.vergeriopp-v51846674">
+                        <persName xml:lang="ita">Vergerio, Pietro Paolo</persName>
+                        <birth when="1370">
+                            1370.
+                            <placeName>Capodistria</placeName>
+                        </birth>
+                        <death when="1444">1444</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/51846674">VIAF: 51846674</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q737756">Wikidata: Q737756</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="vergeriopp-v51846674">CroALa: vergeriopp-v51846674</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.dediversisp-v88124423">
+                        <persName xml:lang="lat">Philippus de Diversis de Quartigianis</persName>
+                        <birth>
+                            <placeName>Lucca</placeName>
+                        </birth>
+                        <floruit when="1440">c. 1440</floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/88124423">VIAF: 88124423</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q16115086">Wikidata: Q16115086</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="dediversisp-v88124423">CroALa: dediversisp-v88124423</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.goineogb-v430159474310627662353">
+                        <persName xml:lang="ita">Goineo, Giovanni Battista</persName>
+                        <birth>
+                            <placeName>Pirano</placeName>
+                        </birth>
+                        <birth when="1515">c. 1515</birth>
+                        <death when="1557">c. 1557</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/430159474310627662353">VIAF: 430159474310627662353</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q55228383">Wikidata: Q55228383</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="goineogb-v430159474310627662353">CroALa: goineogb-v430159474310627662353</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.clariod-v316427594">
+                        <persName xml:lang="ita">Clario, Daniele</persName>
+                        <persName xml:lang="lat">Clarius, Daniel</persName>
+                        <birth>
+                            <placeName>Parma</placeName>
+                        </birth>
+                        <floruit>1500</floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="https://viaf.org/viaf/316427594">VIAF: 316427594</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="clariod-v316427594">CroALa: clariod-v316427594</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q21542922">Wikidata: Q21542922</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.nardinuscelin-v105148933757754302446">
+                        <persName xml:lang="ita">Celinese, Nardino</persName>
+                        <persName xml:lang="lat">Celineus, Nardinus</persName>
+                        <birth>
+                            <placeName>Maniaco, Friuli</placeName>
+                        </birth>
+                        <floruit>1513</floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/105148933757754302446">VIAF: 105148933757754302446</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="nardinuscelin-v105148933757754302446">CroALa: nardinuscelin-v105148933757754302446</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.ciriacoanc-v120696433">
+                        <persName>
+                            Ciriaco de'Pizzicolli d'Ancona
+                        </persName>
+                        <birth when="1391">1391</birth>
+                        <death when="1452">1452</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/120696433">VIAF: 120696433</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="ciriacoanc-v120696433">CroALa: ciriacoanc-v120696433</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q558074">Wikidata: Q558074</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.conversinig-v71412514">
+                        <persName>
+                            Giovanni Conversini da Ravenna
+                        </persName>
+                        <birth when="1343">1343</birth>
+                        <death when="1408">1408</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/71412514">VIAF: 71412514</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="conversinig-v71412514">CroALa: conversinig-v71412514</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q328150">Wikidata: Q328150</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.forestigf-v59178285">
+                        <persName>
+                            Forèsti, Giacomo Filippo
+                        </persName>
+                        <birth when="1434">1434</birth>
+                        <death when="1520">1520</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/59178285">VIAF: 2616752</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="forestigf-v59178285">CroALa: forestigf-v59178285</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q3805875">Wikidata: Q3805875</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala-extra.flaminioga-v2616752">
+                        <persName>
+                            Flaminio, Giovanni Antonio
+                        </persName>
+                        <birth when="1464">1464?</birth>
+                        <death when="1536">1536</death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/2616752">VIAF: 2616752</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.schard-v59158070">
+                        <persName>
+                            <ref>Schard, Simon</ref>
+                        </persName>
+                        <birth period="15xx_2_third"><date when="1535">1535</date></birth>
+                        <floruit period="15xx_2_third">
+                            <date period="15xx_2_third">1560</date></floruit>
+                        <death period="15xx_3_third"><date when="1573">1573</date></death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="59158070">VIAF: 59158070</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.roccabonella.nic.01">
+                        <persName>Roccabonella, Niccolò</persName>
+                        <birth>
+                            <date>1386</date>
+                            <placeName>Conegliano</placeName>
+                        </birth>
+                        <death>
+                            <date>1459</date>
+                        </death>
+                        <occupation>liječnik</occupation>
+                        <event>
+                            <p>
+                                <placeName>Zadar</placeName>
+                                <date>1449-1453</date>
+                                <quote>
+                                    Per quel che riguarda, infine, la data ante quem, sempre Mariani Canova, supportata dagli appunti manoscritti di Giuseppe Praga, profondo conoscitore dell'archivio di Zara 10, propose il 1448, in quanto nel proemio, di certo composto a opera conclusa, non c'è traccia di un’importante esperienza lavorativa di Nicolò Roccabonella: il servizio come medico condotto prestato nella città croata tra il 1449 e il 1453.
+                                </quote>
+                                <bibl>Francesca Pitacco
+                                    Un prestito mai rifuso: la vicenda del Liber de simplicibus di Benedetto Rini
+                                    in 
+                                    L. BOREAN – S. MASON (a cura di), Figure di collezionisti a Venezia tra Cinque e Seicento, Forum, Udine 2002, pp. 11 – 23
+                                </bibl>
+                            </p>
+                        </event>
+                        <event>
+                            <p>
+                                <quote>Unmittelbar vom 'Erbario Carrarese' hängt Codex Latinus 59
+                                    (2548) der Biblioteca Marciana in Venedig ab. Dieser nach seinem
+                                    Urheber, dem Arzt Nicolo Roccabonella (1386-1459) benannte Kodex
+                                    wurde vor 1449 verfaßt und illustriert. Im Gegensatz zum
+                                    prachtvollen 'Erbario Carrarese' diente der 'Codex Roccabonella'
+                                    dem als Arzt zu Zara (heute Jugoslawien) wirkenden Sohn
+                                    Roccabonellas als Gebrauchsschrift. <note>Der Charakter des
+                                        Codex Latinus VI, 59 (=2548) (Biblioteca Marciana, Venedig)
+                                        als einer Gebrauchsschrift gibt sich beispielsweise auf fol.
+                                        80r-v (Mistel), 182r (Wermuth) oder 368r (Malve) zu
+                                        erkennen; vgl. BAUMANN (1974), 126-128 sowie CAPELLETTI
+                                        (1988), 61-66 u. dies. (1989), 89-93. </note>
+                                </quote>
+                            </p>
+                            <bibl>Gostl, Igor. Liber de simplicibus, prvi hrvatski rukopisni,
+                                višejezični, terminološki i slikovni rječnik? / Igor Gostl. U:
+                                Filologija : časopis Razreda za filološke znanosti Hrvatske
+                                akademije znanosti i umjetnosti. Knj. 24/25(1995). - str.
+                                151-156.</bibl>
+                        </event>
+                        <event>
+                            <p>
+                                <quote> ... findet sich, vollständig durchgeführt, erstmals im
+                                    venezianischen sog.Codex Rinio (= Ro). Mit seinen 458 Kapiteln,
+                                    die größtenteils von dem venezianischen Maler Andreas Amadio
+                                    illustriert wurden, ist Ro ein für den damaligen Stand der
+                                    Kenntnisse soweit vollständiges pharmazeutisches Wörterbuch1.
+                                    Der Autor, der Arzt Nikolaus Roccabonella von Conegliano
+                                    (1386-1459), stellt hier die (in seiner Intention) griechischen,
+                                    arabischen, lateinischen sowie deutschen und slawischen Namen
+                                    der einzelnen Heilmittel zusam- men und versieht sie mit
+                                    Hinweisen auf die medizinische Literatur. (...) Den Forschungen
+                                    von M. Minio verdanken wir genauere Auskunft über diesen
+                                    bedeutenden Vertreter eines großen Ärztegeschlechtes 2. Aus dem
+                                    Vorwort geht, da es offenbar kurz vorher abgeschlossen worden
+                                    war, nicht hervor, daß Roccabonella (dessen Sohn Jakob ebenfalls
+                                    Arzt in Venedig war), nachdem er sein Leben lang an dem
+                                    Wörterbuch gearbeitet hatte, 1449 nach Zara übersiedelte, wo der
+                                    Schwiegervater seines Jüngern Sohnes Ludwig Administrator
+                                    (collaterale) der venezianischen Garnison war, und dort unter
+                                    Mitarbeit eines fachkundigen Johannes filius Hermanni Renardi
+                                    von Aschaffenburg, der vorerst als Söldner gedient hatte und in
+                                    der Folge (1439) einen Handel mit Heilpflanzen eröffnete, sein
+                                    Werk nochmals durchging, bis er 1453, nach dem tragischen Tode
+                                    Ludwigs, nach Venedig zurückkehrte. Dieser Überarbeitung gehören
+                                    jene Nachträge an, die E. de Toni in seiner Ausgabe der Hand von
+                                    Glossatoren zuschreibt, im besondern die deutschen und
+                                    slawischen Namen3. </quote>
+                            </p>
+                            <bibl>
+                                ETTORE DE TONI, II libro dei semplici di Benedetto Rinio, „Memorie d. Pontif. Accad. Romana dei Nuovi Lincei", Ser.II,V,1919, S. 171-279; VII, 1924, S. 275-398; VIII,
+                                1925, S. 123-264. 
+                                Die Nomenklatur ist auf Grund einer botanischen
+                                Diagnose kommentiert.
+                                
+                            </bibl>
+                            <bibl>M. Minio, Il quattrocentesco codice „Rinio" integralmente rivendicato al medico Nicolo Roccabonella, ,,Atti dei Ist. Ven.di Sc., Lettere ed Arti", Cl.di Sc.morali e Lettere, CXI, 1952-53, S. 49-64.
+                            </bibl>
+                        </event>
+                    </person>
+                    <person xml:id="croala.publika.szalagyi.01">
+                        <persName>
+                            <ref>Szalágyi István</ref>
+                        </persName>
+                        <birth period="17xx_2_third"><date when="1739">1739</date></birth>
+                        <floruit period="17xx_2_third">
+                            <date period="17xx_2_third">1760</date></floruit>
+                        <death period="17xx_3_third"><date when="1796">1796</date></death>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="305599915">VIAF: 305599915</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.assirelli.01">
+                        <persName>
+                            Asirelli, Pierfilippo
+                        </persName>
+                    </person>
+                    <person xml:id="croala.publika.malinius.01">
+                        <persName>
+                            Malinius Sandecensis, Gasparus
+                        </persName>
+                    </person>
+                    <person xml:id="croala.publika.keglevic.simun.01">
+                        <persName>Keglević, Šimun</persName>
+                        <floruit period="15xx_2_third">
+                            <date period="15xx_2_third">1550</date></floruit>
+                        <death period="15xx_3_third">
+                            <date period="15xx_3_third">1579</date></death>
+                        <event>
+                            <desc>
+                                <quote>
+                                    Ivanov sin, ban PETAR, znatno je proširio obiteljske posjede i njihovo središte premjestio u današnje Hrvatsko zagorje (Krapina, Kostel i Lobor u Varaždinskoj županiji, Blinje u Zagrebačkoj, Bijela Stijena u Križevačkoj). Dioba posjeda Krapine i Kostela s Mihovilom Imreffyjem 1525. dovela je do stoljetnoga sukoba Keglevićâ s njegovim nasljednicima Székelyima. Petar je imao sinove Jurja (u. 1553), Ivana (u. prije 1547), Franju (u. 1558), Gašpara (u. 1552), Nikolu (spominje se 1539–57), Petra (u. 1566), Šimuna (u. 1578) i Matiju (spominje se 1539–84) te kćer Anu (spominje se 1525–46), a prema reljefu na nadgrobnom spomeniku u crkvi Blažene Djevice Marije u Pregradi, i Suzanu. Ana se udala za Gašpara Ernuszta, vlasnika Čakovca, Štrigove i čitavoga Međimurja te Đurđevca, Prodavića (Virja) i Koprivnice. Kako nisu imali potomaka, posjedi su nakon njegove smrti 1540. trebali pripasti kruni, no Petar ih je zaposjeo (u međuvremenu Anu dao udati za Ladislava Bánffyja), zbog čega ga je u rujnu 1546, sa sinovima Gašparom i Matijom i po kraljevu nalogu, zatočio ban Nikola Zrinski. Nakon predaje Čakovca i Štrigove, Gašpar i Matija oslobođeni su, a slobodno kretanje dopušteno je Jurju i Franji. Iduće godine sinovi su predali Đurđevac, Prodavić i Koprivnicu, a kralj im je u lipnju potvrdio sve posjede osim polovice posjeda Krapine, koju su 1548. otkupili od obitelji Székely. Malodobni je Franjo 1534. imenovan opatom Svete Marije u Topuskom, kojom je u početku u njegovo ime upravljao otac, potom on s braćom. God. 1557. imenovan je naslovnim bosanskim biskupom, a nakon njegove smrti opatija je vraćena kralju. Obrađen je kao glavni lik u Šenoinoj pripovijesti Opat i žetelica (Vienac, 1871, 5). Gašpar se spominje kao stolnik u službi češkoga kralja Maksimilijana Habsburgovca, s kojim je 1549–52. boravio u Španjolskoj na dvoru Karla V. Habsburgovca. Petar i Šimun zabilježeni su 1549. kao studenti na Bečkom sveučilištu, a 1550. na Padovanskome. Ondje se 1552. kao konzilijar ugarske nacije spominje i Nikola. God. 1557. kralj je Franji, Matiji, Nikoli, Petru i Šimunu potvrdio grad Kostel i polovicu svih posjeda Kostela i Krapine, a Matija i Petar kraljevom su darovnicom 1560. dobili i posjed Bužin u Varaždinskoj županiji. Matija, Petar i Šimun nazočili su 1563. krunidbi Maksimilijana II. Habsburgovca za hrvatsko-ugarskoga kralja u Požunu. U svibnju 1565. Petar je imenovan kapetanom u Győru i kraljevim povjerenikom na Hrvatskom saboru, a 1566. s Matijom je sudjelovao u obrani Kanizse, gdje je poginuo. Istodobno su se braća, osobito Matija, sve više sukobljivala s Lukom Székelyem i sinom mu Mihovilom; nasilja na krapinskim i kostelskim posjedima dovela su do međusobnih optužba pred Saborom. Sukob se zaoštrio za seljačke bune 1573, kad su Székelyi pljačkali posjede Keglevićâ i vjerojatno simpatizirali pobunjenike. Nakon gušenja bune Matija je organizirao banderij svojih službenika i seljaka (na čelu mu je bio i njegov brat Šimun), koji je opustošio posjede Székelya i drugih plemića oko Zaboka, Mirkovca i Gubaševa. U povodu tih događaja vodila se višegodišnja parnica, okončana Matijinom osudom 1579; presuda je izvršena 1581. oduzimanjem polovice krapinskih posjeda i razaranjem utvrđene kurije Šabac, nasuprot krapinskoj utvrdi. Nakon pada Bužima pod tursku vlast 1576. Matija je bio pod istragom, no zbog Maksimilijanove je smrti postupak obustavljen. God. 1579. sporio se sa Stjepanom Gregorijancem oko posjeda Bužin u Varaždinskoj županiji, 1582. u popisu je baruna koji se pozivaju na zajednički ugarsko-hrvatski sabor, a 1584. zabilježeno je da je završio gradnju utvrde Totuševine. Obiteljsku lozu jedini je od braće nastavio Šimun. On se istaknuo u protuturskim borbama 1569. kao kapetan banskih postrojba, a kraljevsku vojsku u Hrvatskoj i Slavoniji opskrbljivao je hranom sa svojih imanja. God. 1571. bio je prisjednik Banskoga stola u ime magnata, 1572. nuncij Hrvatskoga sabora pred kraljem i 1575–76. pred nadvojvodom Karlom, a 1574. nadzirao je utvrđivanje gradova u Slavonskoj krajini. Bio je kandidat za bana 1573. i 1574. Pokopan je u obiteljskoj grobnici u Pregradi, gdje je sačuvan dio nadgrobnoga spomenika što ga je podignula njegova udovica Magdalena Petheő de Gerse. Imali su kćer Anu, udajom koje je za Karla Székelya 1594. okončan sukob dviju obitelji, te sinove Ivana (u. 1619), Petra (u. 1602), Jurja (u. 1621) i Franju.
+                                </quote>
+                                <bibl><ref type="internet" target="http://hbl.lzmk.hr/clanak.aspx?id=198">HBL</ref></bibl>
+                            </desc>
+                        </event>
+                    </person>
+                    <person xml:id="croala.publika.dimitrovic.viaf88992353">
+                        <persName xml:lang="hr">Dimitrović, Nikola Jera</persName>
+                        <birth period="15xx_1_third">
+                            <date period="15xx_1_third">1510</date></birth>
+                        <floruit period="15xx_2_third">
+                            <date period="15xx_2_third">1540</date></floruit>
+                        <death period="15xx_2_third">
+                            <date period="15xx_2_third">1553</date></death>
+                        <occupation>pjesnik</occupation>
+                        <event>
+                            <desc>
+                                <quote>
+                                    DIMITROVIĆ, Nikola (Dmitrović, Dmitrić, Dimitri), pjesnik (Dubrovnik, oko 1510 — Kreta, 1553. ili 1555). Član je ugledne dubrovačke građanske obitelji, koja potječe iz Kotora, a pripadala je antuninima. Školu pohađao u rodnom gradu, ali je školovanje prekinuo zbog obiteljskih razloga 1527. Kao trgovac putovao je od Bosne do Ugarske, od Venecije do Genove te od Aleksandrije do Krete, gdje je i umro od kuge. U mladosti je pisao ljubavne pjesme, pa N. Nalješković u jednoj poslanici govori o njemu kao izvrsnom ljubavnom pjesniku, ali se te pjesme nisu sačuvale. Za života mu je objavljeno samo Sedam salam pokornjijeh kralja Davida (Mleci 1549; jedini sačuvani primjerak dobio je 1961. Milovan Đilas na poklon od britanskog državnika A. Bevana). Knjiga se sastoji od dva dijela: u prvom su prepjevi sedam pokajničkih psalama Davidovih, a u drugom četrnaest religioznih pjesama pod naslovom Razlike pjesni duhovne. Ostala djela sačuvana su u rukopisima, redovito mlađima, te je u njima često mijenjan jezik. To su stihovane Pričice izete iz Svetoga pisma i filozofa, zbirka kratkih dvanaesteračkih, razumljivo pisanih sentencija, moralno-didaktičnog sadržaja, uglavnom iz Biblije, ali i iz antičkih pisaca ili pak pučkog podrijetla. U dvanaestercima je i Tumačenje od Očenaša, oveća lirska parafraza svakoga pojedinog stiha Očenaša. Od pjesama svjetovnoga karaktera sačuvane su samo četiri poslanice prijatelju i pjesničkom uzoru Nalješkoviću, od kojih je jedna pisana hrvatsko-talijanskom makaronštinom. U prvim dvjema ima više šaljivih podataka o pjesnikovu životu i gradovima u kojima je boravio. Po svojoj religioznoj i moralno-didaktičnoj poeziji D. pripada istom krugu kao i P. Hektorović, Nalješković i M. Vetranović. Dimitrovićev jezik dosta je arhaičan s mnogo ikavizama. Kritičko izdanje njegova opusa u Starim piscima hrvatskim rađeno je prema mlađim, očito mijenjanim rukopisima. Iako ga je M. Kombol prosudio kao »okretna, ali i bezlična stihotvorca«, njegova je poezija zanimljiv prinos hrvatskoj renesansnoj poeziji, u prvom redu svojim žanrovskim osobitostima (stihovane sentencije, stihovana parafraza Očenaša) te ponekim humorističnim tonom u poslanicama. Nadgrobnice su mu ispjevali Nalješković i Vetranović.
+                                    
+                                    DJELA: Sedam salam pocorgnyeh craglia Davida. Po Nicoli Ierca Dmitrovicchia od Dubrofnica, Mleci, u tiskari N. Bascarinia 1549. — Pjesme Nikole Dimitrovića i Nikole Nalješkovića (Skupili V. Jagić i Đ. Daničić). Stari pisci hrvatski, 5. Zagreb 1873, 109–297. — Pričice izete iz Svetoga pisma i filozofa; Razlike pjesni duhovne (izbor u: Zbornik stihova XV. i XVI. stoljeća. Pet stoljeća hrvatske književnosti, 5. Zagreb 1968, 151–169).
+                                    
+                                    LIT.: Š. Ljubić: Dizionario biografico degli uomini illustri della Dalmazia. Vienna—Zara 1856, 105. — I. Kukuljević-Sakcinski: Pjesnici hrvatski XVI. vieka, 3. Zagreb 1867, 2–5. — V. Jagić: Nikola Jera Dimitrović (predgovor u: Pjesme Nikole Dimitrovića i Nikole Nalješkovića. Stari pisci hrvatski, 5. Zagreb 1873, str. I–IV). — K. Jireček: Beiträge zur ragusanischen Literaturgeschichte. Archiv für slavische Philologie (Berlin), 21(1899) 3/4, str. 477–478. — M. Medini: Povijest hrvatske književnosti u Dalmaciji i Dubrovniku. Zagreb 1902, 107–108. — M. Rešetar: Bibliografski prilozi II. 5. K dubrovačkijem izdanima XVI. vijeka. Građa za povijest književnosti hrvatske, 1920, 9, str. 42–63. — A. Gavrilović (G.): Tri trgovca dubrovačka. Trgovinski glasnik, 33(1923) 195, str. 2–3. — F. Fancev: Što od poezije Dubrovčanina Nikole Dimitrovića nije njegovo? Camilla Lucerna (zbornik). Graz 1938, 38–48. — R. Bogišić: Nikola Dimitrović (u: Zbornik stihova XV. i XVI. stoljeća. Pet stoljeća hrvatske književnosti, 5. Zagreb 1968, 145–147). — M. Pantić: »Sedam salam pokornjijeh kralja Davida« i njihov pesnik Nikola Dimitrović. Anali Filološkog fakulteta u Beogradu, 12(1976) str. 61–97. — Ž. Puratić: Rimski pjesnik Ovidije i neki hrvatski pjesnici 16–19. stoljeća (reminiscencije, imitacije, paralele). Živa antika, 29(1979) 2, str. 297–308. — S. P. Novak: Zašto se Euridika osvrnula. Zagreb 1981, 54–59. — M. Franičević: Povijest hrvatske renesansne književnosti. Zagreb 1983. — N. Kolumbić: Trogirski Vartal (predgovor u: P. Lucić, Vartal. Split 1990, 7–87).
+                                    
+                                    Dunja Fališevac (1993)
+                                    
+                                </quote>
+                                <bibl>HBL, D. Fališevac</bibl>
+                            </desc>
+                        </event>
+                    </person>
+                    <person xml:id="viaf39470442">
+                        <persName xml:lang="it" type="viaf" ref="39470442">Marullo, Michelle</persName>
+                        <floruit period="14xx_3_third">
+                            <date period="14xx_3_third">1453-1500</date>
+                        </floruit>
+                        <occupation>pjesnik</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="39470442">VIAF: 39470442</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q672824">Wikidata: Q672824</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="marullom-v39470442">CroALa: marullom-v39470442</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="barbis.jeronima.01">
+                        <persName xml:lang="hrv">de Barbis, Jeronima</persName>
+                        <floruit when="1520">
+                            <date when="1520" period="15xx_1_third">1520</date>
+                            <placeName type="geonames" ref="3199180">Hvar</placeName>
+                        </floruit>
+                        <occupation>supruga Jeronima Bartučevića</occupation>
+                    </person>
+                    <person xml:id="bartucevic.hortenzij.05">
+                        <persName xml:lang="hrv">Bartučević, Hortenzij</persName>
+                        <floruit when="1540">
+                            <date when="1540" period="15xx_2_third">1540</date>
+                            <placeName type="geonames" ref="3199180">Hvar</placeName>
+                        </floruit>
+                        <occupation>sin Jeronima Bartučevića</occupation>
+                    </person>
+                    <person xml:id="lucic.hanibal.01">
+                        <persName xml:lang="hrv">Lučić, Hanibal 1485-1553</persName>
+                        <floruit when="1515">
+                            <date when="1515" period="15xx_1_third">1515</date>
+                            <placeName type="geonames" ref="3199180">Hvar</placeName>
+                        </floruit>
+                        <occupation>pjesnik</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="46798354">VIAF: 46798354</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="pelegrinovic.miksa.01">
+                        <persName xml:lang="hrv">Pelegrinović, Mikša, ca 1500-1562</persName>
+                        <floruit when="1535">
+                            <date when="1535" period="15xx_2_third">1535</date>
+                            <placeName type="geonames" ref="3199180">Hvar</placeName>
+                        </floruit>
+                        <occupation>pjesnik</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="84257991">VIAF: 84257991</ref>
+                        </bibl>
+                    </person>
+                    <person ana="juric" xml:id="croala.publika.beccadelli.l.viaf88988256">
+                        <persName xml:lang="hrv">Beccadelli, Lodovico</persName>
+                        <!-- ne nalazim ga u croalabib db djela! -->
+                        <birth><placeName ref="3181928">Bologna</placeName>
+                            <date when="1501-01-29" period="15xx_1_third">29. I 1501</date></birth>
+                        <floruit period="15xx_2_third">15xx_2_third</floruit>
+                        <death><placeName ref="3169921">Prato</placeName>, 
+                            <date when="1572-10-16"  period="15xx_3_third">16. X 1572</date></death>
+                        <event><p><quote>BECCADELLI, Lodovico, dubrovački nadbiskup i pisac (Bologna, 29. I 1501 — Prato, 16. X 1572). Sin Pomponija i Prudencije, rođ. Mamellino, iz uglednih bolonjskih plemićkih obitelji. Studirao je pravo u Bologni, ali ga je prijateljstvo s Giovannijem della Casom odvelo na studij klasikâ u Padovu, gdje se upoznao s istaknutim humanistima. Sa solidnom općom i klasičnom naobrazbom postaje sekretar kardinala Gaspara Contarinija; privremeno je bio sekretar kardinalâ Pietra Bemba i Reginalda Polea, koje je pratio u njihovim diplomatskim misijama. Putujući s Poleom obišao je 1539. Carpentras, Vaucluse i Sorgues, mjesta vezana uz Petrarkino boravište. Nakon smrti Contarinija (1542) u biskupiji Reggio smiruje sukobe i, postavši klerik, službuje kao generalni vikar do 1544. Neko je vrijeme u službi kardinala Moronija, a zatim je generalni sekretar Tridentinskog koncila (do 1. IV 1546). Papa Pavao III postavio ga je za odgojitelja svog nećaka Ranuccija Farnesea, a kad je Farnese bio imenovan kardinalom i legatom u Marki ankonitanskoj, B. ga je pratio kao generalni sekretar. God. 1549. izabran je za biskupa u Ravellu (Amalfi); 1550. šalje ga papa Julije III kao apostolskog legata u Mletke, gdje je ostao četiri godine. Vrativši se u Rim obavljao je službu generalnog vikara i jednog od četiriju prefekata pri gradnji crkve Sv. Petra. Kad je Giovanni Angelo de Medici, nadbiskup dubrovački (1545–1551), imenovao svojim nasljednikom Sebastijana del Portica, Senat ga nije prihvatio i sukob je izglađen tek kad je Portico dobio biskupsku stolicu u Folignu. Po nagovoru Ivana Gundulića Senat je zatražio najprije od Julija III, zatim od Marcella II, da Beccadelli bude imenovan nadbiskupom, ali toj molbi udovoljava tek papa Pavao IV dana 18. IX 1555. B. doskora kreće u Anconu; iz Ancone je otplovio 2. XI 1555. i prispio u Dubrovnik tek 9. prosinca, svečano dočekan sa svim počastima. U Dubrovniku se neko vrijeme osjećao prognanikom, ali se ubrzo prilagodio sredini, pa je već 28. III 1557. pisao: »… kad sam bio u Francuskoj živio sam po francusku, sada u ovoj dobi i položaju trudim se da postanem Slavenom« (»… quando fui in Francia vissi alla Francese, hora in questa ete et grado mi trasformo piu che posso in Schiavone«). Žalio je jedino što ne poznaje jezik jer bi mogao učiniti mnogo dobra. Od Republike je isposlovao popravak oštećene i zapuštene biskupske palače, zauzimao se za reformu klera i vjerskog stanja naroda. Kad je, kao i zadarski nadbiskup, zamolio od isusovačkog prepozita nekoliko redovnika za obnovu klera i vjernika, u Dubrovnik je poslan samo N. Bobadilla i Luka iz Salerna, dok se Senat usprotivio osnivanju kolegija. Nije uspio dobiti ni upravu duhovnih zaklada (»pias voluntates fidelium«), jer su dozvolom Svete stolice tim novcem upravljali prokuratori Republike. Njegov projekt o podjeli grada i predgrađa u dvanaest župa, odobren od Senata, nikada nije proveden. Urednom administracijom povećao je nadbiskupske prihode od 400 na 700 dukata godišnje, restaurirao je dvorac na Šipanu i dogradio jedno krilo. Pod ruševinama biskupske crkvice otkrivena je nedavno starokršćanska bazilika s građevnim ulomcima. Na pročelju ljetnikovca uzidana je mramorna ploča s natpisom: <quote xml:lang="lat">LVDOVICVS BECCATELLVS BONONIENSIS/ARCHIEPISCOPVS RAGVSINVS/TAVRIDIS INSVLAE SALVBRITATE ALLECTVS/ECCLESIAE FVNDVM SITV FERME OBDVSTVM/VITE MVLTIPLICI CONSITA EXHILARAVIT/SVOQ. COMMODO ET SVCCESORVM CONSVLENS/PRISCIS AEDIBUS RESTAVRATIS NOVAS/ADDIDIT CVM HORTO ET DVPLICI CISTERNA/M.D.L.VII./ANNO AB EIVS IN ILLYRICVM ADVENTV.II.</quote> (Natpis u prijevodu N. Grujić glasi: »Lodovico Beccadelli iz Bologne, nadbiskup dubrovački, privučen ljekovitošću otoka Šipana, crkveno imanje nemarnošću gotovo prekriveno, zasadivši raznovrsnu lozu, razveseli. Brinući se za dobro i svoje i svojih nasljednika, obnovivši prijašnje zgrade nove im pridoda s vrtom i dvostrukim bunarom. 1557. godine od svog dolaska u Ilirik, druge.). Šipanski dvorac postao je omiljeno ljetovalište i s biskupskom palačom u Dubrovniku sastajalište dubrovačkih humanista i književnika. Tu su se čitale pjesme, vodile literarno-znanstvene diskusije, raspravljalo se o aktualnim pitanjima. B. je namjeravao u Dubrovniku organizirati akademiju, kako svjedoče njegove riječi: »Havevo in animo di far questa Academia a Predalbino, ma a Dio è piaciuto che si faccia in Schiavonia...«. U Dubrovniku i na Šipanu nastavio je pisanjem pjesama na talijanskom i latinskom jeziku, napisao je život Petrarke i Pietra Bemba, zatim Epiteti di Petrarca, a za Ivana Gundulića esej o ženidbi i celibatu. Tu su nastale i njegove Notizie storiche delle città Ragusa e Spalato (Parma, Biblioteca Palatina). Dubrovačkom kleru tumačio je Djela Apostolska i poslanicu Sv. Pavla Rimljanima. I nakon odlaska iz Dubrovnika zauzimao se za Republiku Sv. Vlaha i dopisivao s dubrovačkim prijateljima. — U lipnju 1560. napustio je Dubrovnik, ali je kao dubrovački nadbiskup krajem 1561. prisustvovao Tridentinskom koncilu gdje se našao sa svojim sufraganima Jakovom Lukarevićem, trebinjsko-mrkanjskim biskupom (umro 1575) i Bonifacijem Drkolicom (De Stephanis), stonskim biskupom (umro 1582). Prisustvovao je svim sjednicama Koncila 1562, od sedamnaeste do dvadeset i druge. Održao je i nekoliko zapaženih govora, sudjelovao više puta u rasprama, osobito o pitanjima rezidencije biskupâ i župnikâ. U govoru održanom 7. IV 1562. razradio je problem rezidencije navodeći kao primjer i Dubrovnik. No, ubrzo je obolio i povukao se u Bolognu, ali ga je papa Pio IV doskora ponovno poslao na Koncil. Toskanski vojvoda Cosimo I de Medici traži ga 1563. za odgojitelja svoga maloljetnog sina, kardinala, obećavajući mu nadbiskupsku stolicu u Pisi. Kad se B. 17. IV 1564. odrekao Dubrovačke nadbiskupije, dao mu je Cosimo prepozituru u Pratu, juspatronat porodice Medici. Posljednje godine proživio je boležljiv u Pratu, u tišini i povučenosti. Njegov dugogodišnji sekretar Antonio Gigante sastavio je epitaf i napisao biografiju, kojom se poslužio D. Farlati, dok je S. Crijević sastavio originalan životopis. O Beccadellijevim zahvatima u vjerskom, moralnom i društvenom životu Dubrovačke nadbiskupije pisali su S. Crijević, Farlati i K. Vojnović. Neki dokumenti vezani za Beccadellija i Dubrovnik čuvaju se u zbirkama (Zibaldone) Ivana Marije Matijaševića u arhivu Male braće (Čulić, br. 265–267 te br. 190, 227). Fragmente neizdanih pisama u vezi s Dubrovnikom (1555–1564) objelodanio je J. Torbarina, a V. Nazor preveo je na hrvatski dvije Michelangelove pjesme posvećene Beccadelliju i tri Beccadellijeve posvećene Michelangelu. Beccadellijev odlazak iz Dubrovnika popratio je sonetom na talijanskom jeziku Sabo Bobaljević. Kao dubrovačkog nadbiskupa portretirao ga je mletački slikar Tizian (Firenca, Galleria degli Uffizi).
+                            
+                            LIT.: Daniele Farlati i Giacomo Coleti: Illyricum sacrum, 6. Venetiis 1800, 230, 242. — Kosta Vojnović: Crkva i država u dubrovačkoj Republici. Rad JAZU, 1894, 119, str. 33–142; 1895, 121, str. 1–91. — Artur Schneider: Lodovico Beccadelli (Nadbiskup dubrovački i prijatelj Michelangelov). Savremenik, 13(1918) str. 385–390, 392–399. — Lamberto Donati: Di Lodovico Beccadelli arcivescovo di Ragusa (1555–1560). Archivio storico per la Dalmazia, 3(1928) V/28, str. 158–170. — Josip Torbarina: Fragmenti iz neizdatih pisama Lodovika Beccadellija (1555–1564). Dubrovnik, 1(1929) 9/10, str. 320–340. — Isti: Jedan dubrovački arhibiskup (Lodoviko Bekadeli, 1555–1560). Nova Evropa, 1930, XXI/3, str. 180–192. — Isti: Italian Influence on the Poets of the Ragusan Republic. London 1931. — Frano Kesterčanek: Tizianov portret dubrovačkog nadbiskupa Ljudevita Beccadelli. Narodna svijest, 20(1938) 51, str. 6. — Vladimir Nazor: Michelangelo Buonarroti, Lodovico Beccadelli i Dubrovnik. Hrvatsko kolo, 20(1939) str. 113–123. — Hubert Jedin: Il tipo ideale del vescovo secondo la riforma cattolica. Brescia 1950, 49–61. — Ivan Tilšer: De episcoporum Croatiae influxu in formationem Conc. Tridentini Decretorum praesertim quoad residentiam. Romae 1959, 10–11, 43–45. — Vojislav Đurić: Dubrovačka slikarska škola. Beograd 1963, 222–223. — Cvito Fisković: Kultura dubrovačkog ladanja. Split 1966, 33–34, 37. — Igor Fisković: Bilješke o starokršćanskim i srednjevjekovnim spomenicima na otoku Šipanu. Prilozi povijesti umjetnosti u Dalmaciji, 1970, 18, str. 14–21. — Serafin Marija Crijević: Bibliotheca Ragusina, 1. Zagreb 1975. — Frano Čale: Petrarca i petrarkizam u slavenskim zemljama. Zagreb-Dubrovnik 1978, 9, 175.
+                            
+                            Mijo Ivan Brlek (1983) 
+                            
+                        </quote><bibl>HBL Mijo Ivan Brlek (1983)</bibl>
+                        </p>
+                        </event>
+                        <event>
+                            <p><quote>Beccadelli [bek:adε'l:i], Lodovico, dubrovački nadbiskup i književnik (Bologna, 29. I. 1501 – Prato, 16. X. 1572). Školovao se u Bologni i Padovi, obnašao visoke crkvene službe u Markama, Rimu i Veneciji. Ugledan humanist i pisac široka zanimanja, pjesnik petrarkist te biograf F. Petrarke, P. Bemba i V. Polea. Kao dubrovački nadbiskup (1555–64) sudjelovao na Tridentskom koncilu 1561–62. U svojem dvorcu na Šipanu okupljao humaniste i književnike te poticao uporabu hrvatskog jezika. Dubrovniku je posvetio nekoliko pjesama i poslanica, a ostavio je u rukopisu djelo o povijesti Dubrovnika i Splita Povijesne obavijesti o gradovima Dubrovniku i Splitu (Notizie storiche della città Ragusa e Spalato).
+                            </quote><bibl>HE</bibl>
+                            </p>
+                        </event>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="http://viaf.org/viaf/88988256">VIAF: 88988256</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="wikidata" target="http://www.wikidata.org/entity/Q3839087">Wikidata: Q3839087</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="croala" target="beccadellil-v88988256">VIAF: beccadellil-v88988256</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.zovenzoni.viaf3542658">
+                        <persName xml:lang="lat">Zovenzonius, Raphael, 1431-1485</persName>
+                        <persName xml:lang="ita">Zovenzoni, Raffaele</persName>
+                        <birth>
+                            <date period="14xx_1_third">1431</date>
+                            <placeName type="geonames" ref="3165185">Trst</placeName>
+                        </birth>
+                        <floruit period="14xx_2_third">
+                            <date period="14xx_2_third">1477</date>
+                        </floruit>
+                        <birth>
+                            <date period="14xx_1_third">1485</date>
+                            <placeName type="geonames" ref="3165243">Trento?</placeName>
+                        </birth>
+                        <occupation>učitelj (Kopar; Venecija, Šibenik)</occupation>
+                        <occupation>kancelar komune (Trst)</occupation>
+                        <event>
+                            <p>Epigram u Šižgorićevoj zbirci.
+                                <quote>Zovenzóni ‹Ʒovenz-›, Raffaele. - Umanista (n. Trieste 1434 - m. forse Trento 1485); studiò a Trieste e poi, dal 1450 al 1454, a Ferrara dove fu allievo di Guarino Veronese. Successivamente fu a Venezia e a Trieste, e dal 1461 al 1466 circa fu rettore delle scuole di Capodistria. Divenuto nel 1467 cancelliere del comune di Trieste, fu coinvolto nelle lotte tra il partito filoaustriaco e il partito filoveneziano, e dopo la fallita rivolta anti-imperiale del 1468 fu costretto all'esilio. Lavorò e insegnò a Venezia, Sebenico e di nuovo a Venezia. Scrisse varie poesie latine di cui una parte fu pubblicata (1726) nei Carmina illustrium poetarum Italorum, un'altra parte recentemente (1950), insieme a un ampio poema in tre libri, l'Istrias, ricco di allusioni a fatti del tempo, e di buona fattura letteraria.</quote>
+                                <bibl>
+                                    <ref type="internet"
+                                target="http://www.treccani.it/enciclopedia/raffaele-zovenzoni/">Enciclopedia Treccani</ref>
+                        </bibl>
+                            </p>
+                        </event>
+                        <bibl>Šižgorić 1477</bibl>
+                    </person>
+                    <person xml:id="croala.publika.hilarion.vicentinus.01">
+                        <persName xml:lang="lat">Hilarion Vicentinus</persName>
+                        <birth>
+                            <placeName type="geonames" ref="3164419">Vicenza</placeName>
+                        </birth>
+                        <floruit period="14xx_2_third">
+                            <date period="14xx_2_third">1477</date>
+                        </floruit>
+                        <occupation>scol. iur. civ. (leg. schol.) 1470</occupation>
+                        <event>
+                            <p>Epigram u Šižgorićevoj zbirci.</p>
+                        </event>
+                        <bibl>Šižgorić 1477</bibl>
+                    </person>
+                    <person xml:id="croala.publika.band.andreas.01">
+                        <persName xml:lang="lat">Banda, Andreas</persName>
+                        <persName xml:lang="lat">Andreas Banda Veronensis</persName>
+                        <birth>
+                            <placeName type="geonames" ref="3164527">Verona</placeName>
+                        </birth>
+                        <floruit period="14xx_2_third">
+                            <date period="14xx_2_third">1477</date>
+                        </floruit>
+                        <occupation>scol. iur. civ. (leg. schol.) 1470</occupation>
+                        <event>
+                            <p>Elegija u Šižgorićevoj zbirci.</p>
+                        </event>
+                        <bibl>Šižgorić 1477</bibl>
+                        <bibl>Acta graduum II.2, 1992</bibl>
+                    </person>
+                    <person xml:id="croala.publika.divnic.frano.01">
+                        <persName xml:lang="hrv">Divnić, Frano</persName>
+                        <persName xml:lang="hrv">Difnico, Francesco</persName>
+                        <birth>
+                            <date when="1550-01-01"
+                           precision="medium"
+                           period="15xx_2_third">oko 1550.</date> 
+                            <placeName type="geonames" ref="3190941">Šibenik</placeName>
+                        </birth>
+                        <floruit>
+                            <date period="15xx_3_third">15xx_3_third</date>
+                        </floruit>
+                        <death>
+                            <date when="1621-07-12" period="16xx_1_third">12.7.1621.</date>
+                            <placeName type="geonames" ref="3190941">Šibenik</placeName>
+                        </death>
+                        <socecStatus>Bio je ugledan i imućan te sudjelovao u javnom životu rodnoga grada.</socecStatus>
+                        <occupation>izdavač, pjesnik i prevoditelj</occupation>
+                        <note>
+                        <cit>
+                        <quote>DIVNIĆ, Frano (Francesco Difnico), izdavač, pjesnik i prevoditelj (Šibenik, oko 1550 — Šibenik, 12. VII. 1621). 
+                            Bio je ugledan i imućan te sudjelovao u javnom životu rodnoga grada. 
+                            Odlukom šibenskoga Velikog vijeća od 29. IV. 1607. povjeren mu je pregled rukopisa i rad na tiskanju gradskog Statuta; on se sam ponudio za taj posao i posudio općini potrebna sredstva. Statut je tiskan u Veneciji 1608 (Volumen Statutorum, legum et reformationum civitatis Sibenici; prijevod na hrvatski u Šibeniku 1982). 
+                            Njegov sin, arhiđakon, kanonik i pisac Ivan Krstitelj u svojoj oporuci iz 1637. određuje nasljednicima da tiskaju jedno djelo M. Marulića, koje je D. preveo na hrvatski. Prijevod nije objavljen, a rukopis je izgubljen. 
+                            Kada se J. Baraković spremao izdati svoje djelo Vila Slovinka, rukopis je poslao Frani s molbom da ga pregleda i popravi ako treba. O tome govori Barakovićeva pjesnička poslanica Gospodinu Francisku Difniczhiu Vlastelinu Scibenskomu Giuray Barakovicch Pisam od prafglia, koju je objelodanio na kraju svoga djela (tiskana u Veneciji 1614) zajedno s pjesmom kojom mu je D. odgovorio Odgovor Pisniku. To je ujedno i jedini poznati Franin pjesmotvor. 
+                            Šibenski povjesničar D. Zavorović posvetio mu je svoje djelo Trattato sopra le cose di Sebenico (rkp. iz XVI. st., Arhiv HAZU u Zagrebu). 
+                            Dne 30. X. 1600. sklopio je ugovor s klesarom i graditeljem Antunom Marušićem rečenim Lisicarićem o gradnji crkve u Betini na otoku Murteru i tako utemeljio tamošnju župnu crkvu Sv. Frane, koja se gradila do 1608. 
+                            Oporukom iz 1620. ostavlja sredstva za izradbu svetohraništa, a onom iz 1621. za kupnju vinograda da nosi prihod kapelanu te iste crkve, koje je donator bila i njegova druga žena Jeronima, rođ. Mišić. 
+                            Pokopan je u šibenskoj katedrali Sv. Jakova.</quote>
+                            <bibl>HBL (Duško Kečkemet i Tatjana Radauš, 1993)</bibl>
+                     </cit>
+                        
+                        </note>
+                    </person>
+                    <person xml:id="croala.publika.ita.salamon.simon.01">
+                        <persName xml:lang="hrv">Simon Salamon, sin pokojnoga Giulija</persName>
+                        <persName xml:lang="ita">Simon Salamon, f. del Clarissimo Signor Giulio</persName>
+                        <floruit>
+                            <date when="1598"
+                           precision="medium"
+                           period="15xx_3_third">1598</date>
+                        </floruit>
+                        <nationality>Talijan</nationality>
+                        <nationality>Mlečanin</nationality>
+                        <socecStatus>mletački plemić</socecStatus>
+                        <note>
+                     <q>Salamon i Matheazzo nisu nepoznata prezimena u šibenskoj povijesti. Iz prve obitelji, koja se nekoć zvala Centrenisi, u prvoj polovici 17. stoljeća dužnost kamerlenga i kaštelana u Šibeniku obnašaju Filip, sin Gašparov, i Benedikt, sin Ludovikov. Kako nas poučava heraldičar Federico Galvani, grb Filipa Salamona nalazi se na jednoj od sjevernih kula tvrđave sv. Ane.</q>
+                        <bibl>Novaković, Šibenska povijest Bosne</bibl>
+                  </note>
+                    </person>
+                    <person xml:id="croala.publika.matijaca.josip.01">
+                        <persName xml:lang="hrv">Matijaca, Josip</persName>
+                        <persName xml:lang="ita">Iseppo Matheazzo</persName>
+                        <persName xml:lang="ita">Iseppo Mattiazzi</persName>
+                        <floruit>
+                            <date when="1600"
+                           precision="medium"
+                           period="15xx_3_third">1598</date>
+                        </floruit>
+                        <death>
+                            <date when="1609" period="16xx_1_third">1609</date>
+                        </death>
+                        <socecStatus>bilježnik u Šibeniku</socecStatus>
+                        <note>
+                     <q>Čitamo tako da je »ovoga prošlog kolovoza« Josip Matijaca (Iseppo Matheazzo) u Salamonovo ime zamolio Zavorovića da mu objasni koji je grad u Bosni prije turskoga zauzeća bio kraljevsko sjedište. Iz tog je pitanja Zavorović, kako kaže, zaključio da mletački uglednik zapravo želi iscrpnije doznati što se dogodilo u Bosni prilikom prodora Turaka (li fatti gia passati in quel Regno con Turchi come fossero). Očitavajući tako želju svojeg nedostupnog sugovornika Zavorović je u dva mjeseca sastavio kratak podsjetnik, koji je skromno nazvao questa mia poca fatica, zamolivši »Svemogućega Boga da se, bez obzira na naše grijehe i zablude, udostoji osvetiti prolivenu krv sirotih kršćana«. (...) Iseppo Mattiazzi bio bilježnik od 1576. do 1600, te da je umro 1609. </q>
+                            <bibl>Novaković, Šibenska povijest Bosne</bibl>
+                  </note>
+                    </person>
+                    <person xml:id="croala.publika.turner.robert.01">
+                        <persName xml:lang="eng">Turner, Robert</persName>
+                        <persName xml:lang="lat">Robertus Bonaventura Britannus</persName>
+                        <floruit>
+                            <date when="1580"
+                           precision="medium"
+                           period="15xx_3_third">1580</date>
+                        </floruit>
+                        <death>
+                            <date when="1599" period="15xx_3_third">1599</date>
+                            <placeName ref="2778067" type="geonames">Graz</placeName>
+                        </death>
+                        <socecStatus>klerik, rimokatolički svećenik</socecStatus>
+                        <education>Oxford, Cambridge</education>
+                        <education>Ingoldstadt: doktor teologije, 1586</education>
+                        <occupation>profesor retorike na engleskom koledžu u Douaiju</occupation>
+                        <occupation>prefekt studija u Eichstättu</occupation>
+                        <occupation>profesor retorike u Ingoldstadtu</occupation>
+                        <occupation>Graz, tajnik za latinsku korespondenciju nadvojvode Ferdinanda Habsburškog</occupation>
+                        <occupation>pisac retoričkih djela na latinskom (Ingoldstadt, 1584; Ingoldstadt, 1588)</occupation>
+                        <occupation>pisac pisama na latinskom (Ingoldstadt, 1584)</occupation>
+                        <event when="1574">
+                            <p>Zaredio se u Douaiju.</p>
+                        </event>
+                    </person>
+                    <person xml:id="croala.publika.zavorovic.ivan.krst.01">
+                        <persName xml:lang="hrv">Zavorović, Ivan Krstitelj</persName>
+                        <persName xml:lang="hrv">Zavoreo, Ivan Krstitelj</persName>
+                        <persName xml:lang="ita">Zavoreo, Giovanni Battista</persName>
+                        <persName xml:lang="ita">Zavoreus, Ioannes Baptista</persName>
+                        <floruit>
+                            <date from="1543" to="1563" period="15xx_2_third">djelovao 1543-1563</date> 
+                            <placeName type="geonames" ref="3190941">Šibenik</placeName>
+                        </floruit>
+                        <socecStatus>šibenski plemić</socecStatus>
+                        <occupation>gradski bilježnik</occupation>
+                        <bibl>Kurelac, Iva: Dinko Zavorović : šibenski humanist i povjesničar. Šibenik : Gradska knjižnica "Juraj Šižgorić", 2008.</bibl>
+                    </person>
+                    <person xml:id="croala.publika.barakovic.viaf61895981">
+                        <persName>Baraković, Juraj</persName>
+                        <birth>
+                            <date from="1548" period="15xx_2_third">1548</date> 
+                            <placeName type="geonames">Plemići kod Zadra</placeName>
+                        </birth>
+                        <floruit>
+                            <date period="15xx_3_third">15xx_3_third</date>
+                        </floruit>
+                        <death>
+                            <date from="1628" period="16xx_1_third">1628</date> 
+                            <placeName ref="3169070" type="geonames">Rim</placeName>
+                        </death>
+                        <socecStatus>klerik</socecStatus>
+                        <socecStatus>svećenik</socecStatus>
+                        <socecStatus>kanonik (čast mu je oduzeta)</socecStatus>
+                        <occupation>pjesnik (na hrvatskom)</occupation>
+                        <event>
+                            <p>Prvi put se u arhivima spominje kao klerik 1564</p>
+                        </event>
+                        <event>
+                            <p>a zatim, mnogo kasnije, kao svećenik 1586.</p>
+                        </event>
+                        <event>
+                            <p>Desetak je godina službovao kao župnik u Novigradu</p>
+                        </event>
+                        <event when="1600">
+                            <p>kao kanonik, negdje na prijelomu stoljeća, iz dosad neutvrđenih razloga, protjeran iz Zadra u Šibenik i lišen crkvenih činova.</p>
+                        </event>
+                        <event>
+                            <p>U Šibeniku ostao do 1613, a možda i duže.</p>
+                        </event>
+                        <event>
+                            <p>Životni put završio je u Rimu (prilikom hodočašća)</p>
+                        </event>
+                        <event>
+                            <p>šibenski prijatelj <persName ref="mrnav01">I. T. Mrnavić</persName> u Rimu mu postavio ploču u crkvi Sv. Jeronima s nekoliko podataka o životu.</p>
+                        </event>
+                        <bibl>HBL (F. Švelec, 1983)</bibl>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="61895981">VIAF: 61895981</ref>
+                        </bibl>   
+                    </person>
+                    <person xml:id="croala.publika.pisano.antonio.01">
+                        <persName xml:lang="ita">Pisano, Antonio</persName>
+                        <persName xml:lang="lat">Antonius Pisanius</persName>
+                        <floruit>
+                            <date when="1593"
+                           precision="medium"
+                           period="15xx_3_third">1593</date>
+                        </floruit>
+                        <socecStatus>knez i kapetan Šibenika</socecStatus>
+                        <event when="1593">
+                            <p>Potvrdio <persName ref="zavor01">Dinku Zavoroviću</persName> porijeklo od plemićke loze Šubića.</p>
+                        </event>
+                    </person>
+                    <person n="292.1" xml:id="croala.publika.nardin.ivan01">
+                        <persName xml:lang="hrv">Ivan Nardin</persName>
+                        <persName xml:lang="lat">Ioannes Nardinus</persName>
+                        <floruit>
+                            <date when="1605-01-01"
+                           precision="medium"
+                           period="16xx_1_third">c. 1605</date>
+                            <placeName type="geonames" ref="3190941">Šibenik</placeName>
+                        </floruit>
+                        <birth>
+                            Otac: <persName>Petar Nardin</persName>, Šibenik.
+                        </birth>
+                        <occupation>klerik, svećenik</occupation>
+                        <occupation>kanonik zagrebački</occupation>
+                        <occupation>rektor kolegija bolonjskog i naddjakon bežinski i gorički</occupation>
+                        <occupation>naddjakon bežinski i gorički</occupation>
+                        <bibl>
+                            Ljudevit Ivančan, "Bečki kolegij zagrebačke biskupije", Bogoslovska smotra, Vol.17 No.3 Veljača 1930. Str. 320 - 339 </bibl>
+                    </person>
+                    <person n="292.1" xml:id="croala.publika.ludovik.02.ugarski">
+                        <persName xml:lang="hrv">Ludovik II.</persName>
+                        <persName xml:lang="ger">Ludwig II. Ungarn, Kö̈nig 1505-1526</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="58988207">VIAF: 58988207</ref>
+                        </bibl>
+                    </person>
+                    <person n="292.1" xml:id="croala.publika.sigismund.02.poljski">
+                        <persName xml:lang="hrv">Sigismund II. kralj Poljske</persName>
+                        <persName xml:lang="eng">Sigismund II Augustus, King of Poland, 1520-1572</persName>
+                        <floruit>
+                            <date period="15xx_2_third">15xx_2_third</date>
+                        </floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="804948">VIAF: 804948</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.giovio.paolo.viaf64015055">
+                        <persName xml:lang="hrv">Giovio, Paolo</persName>
+                        <persName xml:lang="eng">Giovio, Paolo (Italian historian, physician, and collector, 1483-1552)</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="64015055">VIAF: 64015055</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.vietor.hieronymus.viaf85060085">
+                        <persName xml:lang="hrv">Vietor, Hieronymus</persName>
+                        <persName xml:lang="lat">Vietor, Hieronymus, 1480-1546</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <occupation>tiskar</occupation>
+                        <occupation>nakladnik</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="85060085">VIAF: 85060085</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.morosini.andrea.viaf81641808">
+                        <persName xml:lang="hrv">Morosini, Andrea, 1557-1618</persName>
+                        <persName xml:lang="lat">Maurocenus, Andreas</persName>
+                        <floruit>
+                            <date period="15xx_3_third">15xx_3_third</date>
+                        </floruit>
+                        <occupation>povjesničar</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="81641808">VIAF: 81641808</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.tomicki.piotr.viaf25699004">
+                        <persName xml:lang="hrv">Tomicki, Piotr, 1464-1535</persName>
+                        <persName xml:lang="lat">Tomicius, Petrus</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <occupation>biskup Krakowa</occupation>
+                        <occupation>tajnik poljskoga kralja</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="25699004">VIAF: 25699004</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.krzycki.andrzej.viaf3542950">
+                        <persName xml:lang="hrv">Krzycki, Andrzej, 1482-1537</persName>
+                        <persName xml:lang="lat">Cricius, Andreas</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="3542950">VIAF: 3542950</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.werboczy.istvan.viaf59211461">
+                        <persName xml:lang="hun">Werbőczy, István, 1458-1541</persName>
+                        <persName xml:lang="lat">Stephanus de Werbewcz</persName>
+                        <occupation>kancelar Ugarske</occupation>  
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="59211461">VIAF: 59211461</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.tarnowski.jan.viaf2901537">
+                        <persName xml:lang="eng">Tarnowski, Jan, 1488-1561</persName>
+                        <persName xml:lang="lat">Joannes de Tarnow, comes, palatinus Russiae, exercituum regni Poloniae
+                            capitaneus generalis</persName>
+                        <occupation>kancelar Ugarske</occupation>  
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="2901537">VIAF: 2901537</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.revay.peter.viaf67369965">
+                        <persName xml:lang="hun">Révay, Péter, báró, 1568-1622</persName>
+                        <persName xml:lang="lat">Petrus de Reva</persName>
+                        <floruit>
+                            <date period="15xx_3_third">15xx_3_third</date>
+                        </floruit>
+                        <occupation>povjesničar</occupation>  
+                        <bibl type="authorID">
+                            <ref type="viaf" target="67369965">VIAF: 67369965</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.gritti.luigi.viaf62357104">
+                        <persName xml:lang="ita">Gritti, Luigi, 1480-1535</persName>
+                        <persName xml:lang="lat">Gritti, Ludovicus</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <occupation>političar</occupation>  
+                        <occupation>vojni zapovjednik</occupation>  
+                        <bibl type="authorID">
+                            <ref type="viaf" target="62357104">VIAF: 62357104</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.vardai.pal">
+                        <persName xml:lang="hun">Várdai Pál (Kisvárda, Szabolcs vm., 1481 k.–Pozsony, 1549. okt. 12.)</persName>
+                        <persName xml:lang="lat">Warda, Paulus</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <occupation>nadbiskup ostrogonski</occupation>  
+                    </person>
+                    <person xml:id="croala.publika.paulus.iii.viaf51803934">
+                        <persName xml:lang="hrv">Pavao III</persName>
+                        <persName xml:lang="lat">Paulus PP. III, 1468-1549</persName>
+                        <occupation>papa</occupation>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="51803934">VIAF: 51803934</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.francois.i.viaf88805531">
+                        <persName xml:lang="hrv">Franjo I</persName>
+                        <persName xml:lang="fra">François Ier, roi de France, 1494-1547</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <occupation>kralj Francuske</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="88805531">VIAF: 88805531</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.karl.v.viaf88598818">
+                        <persName xml:lang="ger">Karl V. Heiliges Römisches Reich, Kaiser 1500-1558</persName>
+                        <persName xml:lang="eng">Charles V, Holy Roman Emperor, 1500-1558</persName>
+                        <floruit>
+                            <date period="15xx_2_third">15xx_2_third</date>
+                        </floruit>
+                        <occupation>car Rimskog Carstva Njemačkog Naroda</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="88598818">VIAF: 88598818</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.ferdinand.i.viaf51698517">
+                        <persName xml:lang="ger">Ferdinand I. Heiliges Römisches Reich, Kaiser 1503-1564</persName>
+                        <floruit>
+                            <date period="15xx_2_third">15xx_2_third</date>
+                        </floruit>
+                        <occupation>car Rimskog Carstva Njemačkog Naroda</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="51698517">VIAF: 51698517</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.farnese.alessandro.ii.viaf57408901">
+                        <persName xml:lang="eng">Farnese, Alessandro, II (Italian patron and cardinal, 1520-1589)</persName>
+                        <persName xml:lang="lat">Alexander Farnesius S. R. E. vicecancellarius</persName>
+                        <floruit>
+                            <date period="15xx_2_third">15xx_2_third</date>
+                        </floruit>
+                        <occupation>kardinal</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="57408901">VIAF: 57408901</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.lasky.hieronymus.viaf240661378">
+                        <persName xml:lang="lat">Lasky, Hieronymus (1496-1542)</persName>
+                        <floruit>
+                            <date period="15xx_1_third">15xx_1_third</date>
+                        </floruit>
+                        <occupation>diplomat</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="240661378">VIAF: 240661378</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.balint.baso">
+                        <persName xml:lang="lat">Valentinus Baso</persName>
+                        <persName xml:lang="hun">Baso Balint</persName>
+                        <floruit when="1538">
+                     <date when="1538" period="15xx_2_third">1538</date>
+                  </floruit>
+
+                    </person>
+                    <person xml:id="croala.publika.melchior.astronomus">
+                        <persName xml:lang="lat">Melchior astronomus</persName>
+                        <floruit when="1540">
+                     <date when="1540" period="15xx_2_third">1540</date>
+                  </floruit>
+                        <occupation>astronom</occupation>
+                    </person>
+                    <person xml:id="croala.publika.aristotel.viaf7524651">
+                        <persName xml:lang="eng">Aristotle (Ancient Greek philosopher and scientist, ca. 384-322 BCE)</persName>
+                        <persName xml:lang="hrv">Aristotel</persName>
+                        <persName xml:lang="lat">Aristoteles</persName>
+                        <occupation>filozof</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="7524651">VIAF: 7524651</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.donatusd1e382">
+                        <persName xml:lang="hrv">Donatus, Aelius</persName>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="29530930">VIAF: 29530930</ref>
+                        </bibl>
+                    </person>
+                    
+                                    </listPerson>
+                <listPerson type="croala.publika" xml:base="urn:cite:croala:publika">
+                    <!-- Petrović -->
+                    <person xml:id="croala.publika.marinus.georgiates">
+                        <persName xml:lang="lat">Marinus Georgius Venetus</persName>
+                        <nationality>Talijan</nationality>
+                        <floruit when="1526">
+                     <date when="1526" period="15xx_1_third">1526</date>
+                  </floruit>
+                        <occupation>profesor Sveučilišta u Padovi</occupation>
+                    </person>
+                    <person xml:id="croala.publika.nikola.brgancic">
+                        <persName xml:lang="hrv">Nikola Brgančić ili Bogančić</persName>
+                        <persName xml:lang="lat">Nicolaus de Berganicio (Bogancio)</persName>
+                        <nationality>Hrvat</nationality>
+                        <floruit when="1535">
+                     <date when="1535" period="15xx_2_third">1535</date>
+                  </floruit>
+                        <occupation>biskup (Duvanjske biskupije)</occupation>
+                        <note>Nikola Brgančić ili Bogančić (Nicolaus de Berganicio), duvanjski
+                            biskup (o. 1535-1545.). Zbog turske opasnosti neprestano je izbivao iz svoje biskupije. Godine 1543-1545. zabilježen je kao predsjednik Bratovštine sv. Jeronima u
+                            Rimu</note>
+                    </person>
+                </listPerson>
+                <listPerson type="croala.publika" xml:base="urn:cite:croala:publika">
+                    <!-- Matej Andreis -->
+                    <person xml:id="croala.publika.csaky.miklos">
+                        <persName xml:lang="hrv">Nikola Csaky</persName>
+                        <persName xml:lang="lat">Nicolaus de Chiiak</persName>
+                        <nationality>Hungarus</nationality>
+                        <birth when="1465">
+                     <date when="1465"
+                           precision="medium"
+                           period="14xx_2_third">c. 1465</date>
+                  </birth>
+                        <floruit when="1502">
+                     <date when="1502" period="15xx_1_third">1502</date>
+                  </floruit>
+                        <death when="1514-05-28">
+                     <date when="1514-05-28" period="15xx_1_third">1514-05-28</date>
+                  </death>
+                        <occupation>biskup (čanadske biskupije)</occupation>
+                        <education>1495-1498 Padova</education>
+                        <note>Poginuo u borbi s Györgyem Dózsom.</note>
+                    </person>
+                </listPerson>
+                <listPerson type="croala.publika" xml:base="urn:cite:croala:publika">
+                    <!-- Ivan Gučetić -->
+                    <person xml:id="croala.publika.calderini.viaf61663797">
+                        <persName xml:lang="ita">Calderini, Domizio</persName>
+                        <persName xml:lang="lat">Calderinus, Domitius, 1447-1478</persName>
+                        <birth when="1447">
+                            <date when="1447"
+                                period="14xx_2_third">1447</date>
+                        </birth>
+                        <floruit when="1470">
+                            <date when="1470" period="14xx_3_third">1470</date>
+                        </floruit>
+                        <death when="1478">
+                            <date when="1478" period="14xx_3_third">1478</date>
+                        </death>
+                        <occupation>humanist</occupation>
+                        <occupation>filolog</occupation>
+                        <occupation>učitelj</occupation>
+                        <nationality>Talijan</nationality>
+                        <bibl>
+                            <ref type="internet" target="http://www.repertoriumpomponianum.it/pomponiani/calderini.htm">Ramminger 2005</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.tebaldi.t">
+                        <persName xml:lang="ita">Tebaldi, Tebaldo</persName>
+                        <floruit when="1479">
+                            <date when="1479" period="14xx_3_third">1479</date>
+                            <placeName ref="6299592" type="geonames">Ferrara</placeName>
+                        </floruit>
+                        <occupation>humanist</occupation>
+                        <occupation>Guarinov student</occupation>
+                        <occupation>tajnik vojvode <persName>Ercolea I d' Este</persName></occupation>
+                        <nationality>Talijan</nationality>
+                        <bibl>
+                            <ref type="internet" target="http://archive.org/details/guarinodaveronaf00bertuoft">Bertoni 1921</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.poliziano.a.viaf9867884">
+                        <persName xml:lang="ita">Poliziano, Angelo, 1454-1494</persName>
+                        <persName xml:lang="lat">Politianus, Angelus</persName>
+                        <floruit when="1480">
+                            <date when="1480" period="14xx_3_third">1480</date>
+                        </floruit>
+                        <occupation>humanist</occupation>
+                        <nationality>Talijan</nationality>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="9867884">VIAF: 9867884</ref>
+                        </bibl>
+                    </person>
+                    
+                    <person xml:id="croala.publika.vladislav.ii.viaf35999262">
+                        <persName xml:lang="eng">Vladislav II, King of Bohemia and Hungary, 1456-1516</persName>
+                        <floruit when="1493">
+                            <date when="1493" period="14xx_3_third">1493</date>
+                        </floruit>
+                        <occupation>kralj Češke i Ugarske</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="35999262">VIAF: 35999262</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.bakocz.t.viaf11784117">
+                        <persName xml:lang="hun">Bakócz, Tamás, 1442-1521</persName>
+                        <floruit when="1493">
+                            <date when="1493" period="14xx_3_third">1493</date>
+                        </floruit>
+                        <occupation>kancelar ugarski (1490)</occupation>
+                        <occupation>biskup jegarski (1493)</occupation>
+                        <occupation>nadbiskup ostrogonski (1497)</occupation>
+                        <occupation>kardinal (1500)</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="11784117">VIAF: 11784117</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.vaclav.rovneho">
+                        <persName xml:lang="cze">Václav z Rovného, 1449-1531</persName>
+                        <persName xml:lang="hrv">Venceslav Rovné</persName>
+                        <floruit when="1493">
+                            <date when="1493" period="14xx_3_third">1493</date>
+                        </floruit>
+                        <occupation>humanist i tajnik Petra Rosenberga, češkoga potkralja</occupation>
+                    </person>
+                    <person xml:id="croala.publika.federico.i.napoli.viaf265807371">
+                        <persName xml:lang="ita">Federico I. Napoli, Re ca. 1451/52-1504</persName>
+                        <persName xml:lang="hrv">Fridrik I. kralj napuljski (IV. aragonski)</persName>
+                        <floruit when="1497">
+                            <date when="1497" period="14xx_3_third">1497</date>
+                        </floruit>
+                        <occupation>kralj Napulja (1496-1501)</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="265807371">VIAF: 265807371</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.fedele.cassandra.viaf55055760">
+                        <persName xml:lang="ita">Fedele, Cassandra, 1465?-1558</persName>
+                        <persName xml:lang="hrv">Fidelis, Cassandra</persName>
+                        <floruit when="1496">
+                            <date when="1496" period="14xx_3_third">1496</date>
+                        </floruit>
+                        <occupation>pjesnikinja</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="55055760">VIAF: 55055760</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.contarini.pietro.adorno">
+                        <persName xml:lang="ita">Contarini Pietro di Adorno</persName>
+                        <floruit when="1494">
+                            <date when="1494" period="14xx_3_third">1494</date>
+                        </floruit>
+                        <occupation>Governatore di Naxos</occupation>
+                        <bibl>
+                            <ref type="rulersofvenice" target="36231">Kohl et al, ‘The Rulers of Venice,’ record 36231</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.galeazzo.sforza.viaf18018815">
+                        <persName xml:lang="ita">Galeazzo Maria Sforza</persName>
+                        <floruit when="1496">
+                            <date when="1496" period="14xx_3_third">1496</date>
+                        </floruit>
+                        <occupation>milanski vojvoda</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="18018815">VIAF: 18018815</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.regini.g.l.viaf304920006">
+                        <persName xml:lang="ita">Regini, Giovanni Lorenzo</persName>
+                        <persName xml:lang="hrv">Ivan Lovro Regin</persName>
+                        <persName xml:lang="lat">Johannes Laurentius Reginus Feltrensis</persName>
+                        <birth>
+                            <date period="14xx_1_third">14xx_1_third</date>
+                            <placeName type="geonames" ref="3177120">Feltre</placeName>
+                        </birth>
+                        <floruit when="1450">
+                            <date when="1450" precision="medium" period="14xx_2_third">c. 1450</date>
+                        </floruit>
+                        <occupation>kancelar u Dubrovniku 1449-1460</occupation>
+                        <bibl>
+                            <ref ana="croala">reginigl-v304920006</ref>
+                        </bibl>
+                        <bibl>Rešetar, Milan. "Pjesme Ivana Lovra Regina, dubrovačkoga kancelara XV. vijeka." Građa JA 3 (1901): str. 1—43.</bibl>
+                        <bibl>
+                            Segarizzi, A. "Un poeta feltrino del secolo XV (Giovanni Lorenzo Regini)." Atti della Accademia scientifica veneto-trentino-istriana (Classe di scienze storiche, filologiche e filosofiche) 1 (1904): 17-35.
+                        </bibl>
+                        <bibl>
+                            <ref type="internet" target="http://biblio1.ve.ismar.cnr.it/fedora/repository/ismarbsa:ve00131-0034/">Cronia (prepoznao lascivnost)</ref>
+                        </bibl>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="304920006">VIAF: 304920006</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.fieschi.s.viaf32149984">
+                        <persName xml:lang="ita">Fieschi, Stefano</persName>
+                        <persName xml:lang="lat">Stefanus Flischus Soncinensis</persName>
+                        <birth>
+                            <date period="14xx_1_third">14xx_1_third</date>
+                            <placeName type="geonames" ref="3166399">Soncino</placeName>
+                        </birth>
+                        <floruit when="1441">
+                            <date when="1441" precision="medium" period="14xx_2_third">c. 1441</date>
+                        </floruit>
+                        <death notBefore="1462">
+                            <date notBefore="1462" precision="medium" period="14xx_2_third">post 1462</date>
+                        </death>
+                        <occupation>kancelar u Dubrovniku (1441)</occupation>
+                        <occupation>učitelj u Dubrovniku (1444-1459)</occupation>
+                        <event when="1441-08-19">
+                            <p>Pohvala pjevanja mladih dubrovačkih plemića:
+                                <quote>Commemoratio suauitatis cantus dominorum camerariorum. Cum ego Stefanus Flischus Soncinensis, cancellarius Raguseus, ultrascriptam dominorum camerariorum pacti et sortis conuentionem describerem (...), tunc ipsi Ser Nicolaus Pauli de Goze, Ser Marinus Junii de Cruce atque Ser Volcius Blasii de Babalio ita me coram suauissime cecinerunt, ut mihi audire visum fuit amenissimam quandam celestem armoniam. (...) Valeat denique hec magnifica atque florentissima ciuitas Ragusea, que iuuenes tam insignes tamque prestantes procreauit, qui splendidissimum sue rei publice decus et ornamentum existunt! Qui cum etate maturiori creuerint, tunc huius alme ciuitatis statum non solum illesum optime conseruabunt, verum etiam acuratissima eorum prudentia mirandum in modum amplificabunt, ad quam comoditatis gratiam utinam illos deus preseruare dignetur. Ex cancellaria celeberrime urbis Ragusee 14 Kal. Septembres, tunc celorum constellationibus dulcissimam eorum amenitatem in ipsos dominos camerarios diuinitus influentibus.</quote>
+                            </p>
+                        </event>
+                        <event when="1453">
+                            <p>
+                                <quote>il Luctus Soncinensis del 1453, in cui il F. piange la morte del padre, avvenuta quell'anno a Ragusa.</quote>
+                            </p>
+                        </event>
+                        <event>
+                            <p>
+                                <quote>
+                                    FIESCHI, Stefano
+                                    Dizionario Biografico degli Italiani - Volume 47 (1997)
+                                    di Valeria De Matteis
+                                    FIESCHI, Stefano. - Nacque da Manfredo tra la fine del XIV e l'inizio del XV secolo a Soncino (ora in provincia di Cremona). Le prime notizie certe su di lui si traggono dalle sue lettere. Nel 1424-25 era in Normandia, dove svolse per cinque anni le funzioni di segretario presso Zanone Castiglioni, vescovo di Lisieux, come risulta da due lettere (Bergamo, Bibl. civ. A. Mai, Γ, IV, 26, cc. 61v-62r, e Berlino, Staatsbibl., Lat. fol. 643, cc. 41v-42r) raccolte nell'epistolario del destinatario Francesco Oca, mediocre umanista attivo nell'università di Pavia. Il F. si accingeva allora (lettera datata Milano 1429) a seguire per un altro anno le lezioni di Gasparino Barzizza, per le quali chiedeva in prestito all'Oca i libri di testo, ma il maestro morì nel 1430. Da Padova nel 1435 giunsero due lettere agli amici trevigiani Giovanni da Schio e Andrea Orsenigo (Vienna, Österreich. Nationalbibl., 3481, cc. 95v-97r e 103r-104v; la seconda anche nel Vat. lat. 3194); al secondo il F. chiedeva di intercedere presso il suocero, il cancelliere A. Redusio da Quero, autore di un Chronicon Tarvisinum, per mantenergli un non meglio precisato privilegio.
+                                    Nel 1441 il F. era cancelliere a Ragusa, in Dalmazia, dove poi, dal 1444 al 1459, ebbe la carica di "rector scholarum". Nel 1444 scriveva all'esattore di Padova, P. Busenello (Treviri, Stadtbibl., Mss. 1879/74, cc. 125v-126r), allegando (ibid., cc. 126r-130r) un'epistola Adchristianos principes e rammentando al funzionario che l'anno precedente, 1443, aveva scritto "principibus Ungariae ... contra Theucros" (cioè contro i Turchi), a papa Eugenio IV, al doge Francesco Foscari, a Federico III, Filippo Maria Visconti, Carlo VII e ad altri, fra cui Alfonso V d'Aragona, Filippo il Buono duca di Borgogna e Ladislao III. Questi ultimi sono citati fra i destinatari delle tredici lettere del F. conservate ad Oxford (Bodleian Library, Can. Misc. 268). Sempre ad Oxford (ibid., Can. Class. Lat. 58, c. 176v) si trova un'altra lettera, ma di carattere privato, a G. A. Gallina, presenteanche nel ms. H 49 inf., cc. 134v-135r, della Bibl. Ambrosiana di Milano.
+                                    Il 12 nov. 1460 il F. risulta "rector scholarum S. Marine" a Venezia, e il 12 nov. 1462 è menzionato per l'ultima volta. Si ignora la data della sua morte.
+                                    Del F. ci restano anche altre epistole: una a F. Patrino da Crema (München, Bayer. Staatsbibl., Cod. Lat. 7612, cc. 222v-223v) e quelle "exercendi ingenii causa" ad uno "Jacobum Falconum de Pedemontium" (Milano, Bibl. Ambrosiana, ms. H 192 inf., cc. 74r-78v), scritte in italiano con traduzione latina. Un'orazione del F., De laudibus ducis Mediolani, è conservata nella Biblioteca civica di Bergamo.
+                                    Frutto dell'attività di grammatico del F. è l'opera De prosynonymis o Synonyma sententiarum, dedicata nel Vat. lat. 6870 della Bibl. apost. Vaticana a G. Meglioranza, amico del Busenello, e nel manoscritto Δ I 17 della Biblioteca civica di Bergamo ai propri figli Giovanni, Bartolomeo e Francesco. Ai figli è pure dedicato il De inventione imitationis verborum et sententiarum o Synonymaverborum. La prima pagina delle Regulae summaticae (altrove grammaticae) della Biblioteca universitaria di Padova (ms. 1283) reca l'annotazione di mano coeva, secondo cui il F. era padre dei monaci benedettini Eusebio di S. Giustina a Padova e Fortunato di S. Nicolò del Lido a Venezia: ma non sappiamo se questi siano i nomi di religione di due dei tre figli dedicatari del manoscritto bergamasco. Secondo il Sabbadini ai Synonyma verborum composti nel 1436 il F. aggiunse i Synonyma sententiarum nel 1456; ma la data testimoniata dalla tradizione manoscritta per questi ultimi è quella del 1437. Esula dalle precedenti composizioni scolastiche il Luctus Soncinensis del 1453, in cui il F. piange la morte del padre, avvenuta quell'anno a Ragusa.
+                                    La produzione del F. è quasi tutta centrata su schematici ed elementari manuali di grammatica, a parte il De compositione styli adornandi, manualetto divulgativo di quell'ars dictandi di cui, in verità, il tenore delle sue lettere dà mediocre prova. Proprio per la loro semplicità gli scritti del F. ebbero una fortuna enorme in tutta Europa durante la sua e la generazione seguente, specialmente all'estero, in quanto i sintagmi, che erano frasi da memorizzare, vennero muniti di traduzioni che rendevano più facile l'approccio al latino. Sebbene il F. sia stato soltanto un maestro elementare con una scarsa cognizione personale dei classici - tanto è vero che si limitava a consigliare la lettura di Cicerone, di Terenzio e delle sue opere - fu considerato allora alla stessa stregua di umanisti di ben altra levatura come Guarino Guarini o Barzizza; le vicende del secondo probabilmente sfiorano appena quelle del F. benché i loro scritti si trovino spesso, intrecciati nella tradizione manoscritta e a stampa e ciò abbia indotto a porli sullo stesso piano, come si legge nella Margarita poetica (c. 160), compilata da Albrecht von Eyb nel 1502.
+                                    E proprio in Germania ebbero particolare successo i testi del F. di cui esistono dodici edizioni di incunaboli con traduzione in italiano, dieci in tedesco, tre in basso tedesco, sette in francese, quattro in olandese e due in spagnolo, oltre ad alcune cinquecentine. Riguardo ai codici, grazie all'apporto del III e IV volume dell'Iter Italicum bisogna rilevare che i manoscritti rintracciati nel fondamentale studio di D. Mazzuconi sono circa la metà di quelli presenti complessivamente in Austria, nell'ex Cecoslovacchia, nella Biblioteca nazionale di Parigi, in Germania, in Gran Bretagna e in Polonia. Fra quelli austriaci si segnalano i Flores epistolarum familiarum M. T. Ciceronis collecti per Stephanum Fliscum a St. Paul im Lavanttal, Stiftsbibl., 137/4, cc. 168-85v, e un'Oratio nuptialis a Schwaz, Franziskanerkloster.
+                                    Bibl.: Per i manoscritti, oltre allo studio della Mazzuconi citato più avanti, si veda P. O. Kristeller, Iter Italicum, I-IV, ad Indices, e per gli incunaboli, Gesamtkatalog der Wiegendrucke, nn. 10000-10037. Si vedano inoltre: F. Arisi, Cremona literata, I, Parmae 1702, pp. 278 s.; F. Argelati, Bibliotheca scriptorum Mediolanensium, I, Mediolani 1745, p. 573; F. Galantino, Storia di Soncino, I, Milano 1869, pp. 229-231; III, ibid. 1870, p. 261; R. Sabbadini, La scuola e gli studi di G. Guarini veronese, Catania 1896, p. 55; E. Bertana-G. Della Santa, Documenti per la storia della cultura in Venezia, I, Venezia 1907, pp. 328 s.; R. Sabbadini, Il metodo degli umanisti, Firenze 1922, p. 30; V. Rossi, Maestri e scuole a Venezia verso la fine del Medio Evo, in Scritti di critica letteraria, III, Firenze 1930, p. 55; T. Foffano, Charles d'Orléans e un gruppo di umanisti lombardi in Normandia, in Aevum, XLI (1967), pp. 454 s.; Id., Tra Padova, Parma e Pavia: appunti su tre allievi di Gasparino Barzizza, in Quaderni per la storia dell'Univ. di Padova, II (1969), p; 36; A. Sottili, L'università italiana e la diffusione dell'umanesimo nei paesi tedeschi, in Humanistica Lovaniensia, XXX (1971), pp. 5, 12; D. Mazzuconi, S. F. da Soncino: un allievo di G. Barzizza, in Italia medioevale e umanistica, XXIV (1981), pp. 257-262, 268-285.
+                                </quote>
+                                <bibl>
+                                    <ref target="http://www.treccani.it/enciclopedia/stefano-fieschi_(Dizionario-Biografico)/" type="internet">DBI</ref>
+                                </bibl>
+                            </p>
+                        </event>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="32149984">VIAF: 32149984</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.ciriaco.ancona.viaf120696433">
+                        <persName xml:lang="ita">Ciriaco, de'Pizzicolli, 1391-1452</persName>
+                        <persName xml:lang="ita">Ciriaco d’Ancona</persName>
+                        <persName xml:lang="ita">Ciriaco di Filippo Pizzicolli</persName>
+                        <birth>
+                            <date period="13xx_3_third">13xx_3_third</date>
+                            <placeName type="geonames" ref="3183089">Ancona</placeName>
+                        </birth>
+                        <floruit when="1435">
+                            <date when="1435" precision="medium" period="14xx_2_third">c. 1435</date>
+                        </floruit>
+                        <occupation>talijanski humanist i epigrafičar</occupation>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="120696433">VIAF: 120696433</ref>
+                        </bibl>
+                    </person>
+                    <person xml:id="croala.publika.vallaresso.maffeo">
+                        <persName xml:lang="ita">Vallaresso, Maffeo</persName>
+                        <birth when="1415">
+                            <date when="1415" period="14xx_1_third">1415</date>
+                        </birth>
+                        <death when="1494">
+                            <date when="1494" period="14xx_3_third">prije 19. 12. 1494</date>
+                        </death>
+                        <occupation>zadarski nadbiskup</occupation>
+                        <event when="1445">
+                            <p>Kretski i tarviški kanonik.</p>
+                        </event>
+                        <event when="1449">
+                            <p>Apostolski protonotar.</p>
+                        </event>
+                        <event when="1450">
+                            <p>U ljeto 1450. postaje zadarski nadbiskup.</p>
+                        </event>
+                    </person>
+                    <person xml:id="croala.publika.brlic.andrija.torkvat">
+                        <persName xml:lang="hrv">Brlić, Andrija Torkvat</persName>
+                        <birth when="1826-05-15">
+                            <date when="1826-05-15" period="18xx_1_third">15. V 1826</date>
+                            <placeName ref="3190586"><ref type="geonames" target="3190586">Brod</ref></placeName>
+                        </birth>
+                        <floruit period="18xx_1_third"/>
+                        <death when="1868-05-21">
+                            <date when="1868-05-21" period="14xx_3_third">21. V 1868</date>
+                            <placeName ref="3190586"><ref type="geonames" target="3190586">Brod</ref></placeName>
+                        </death>
+                        <note>
+                            <cit>
+                            <quote>
+                                BRLIĆ, Andrija Torkvat, publicist i političar (Brod na Savi, danas Slavonski Brod, 15. V 1826 — Brod na Savi, 21. V 1868). Sin Ignjata Alojzija, jezikoslovca i pisca, te Katarine Benko. Nižu gimnaziju završio u Vinkovcima (1837–41), a višu dvogodišnju polazio u Zagrebu 1841–43; prvo u biskupskom sjemeništu, a zatim prelazi u plemićki konvikt. God. 1843, uz pomoć zagrebačkog biskupa J. Haulika, odlazi na teološke studije u Pazmaneum u Beču te nakon njihova završetka prelazi u Augustineum, gdje priprema doktorat iz teologije. Doživjevši revoluciju u Beču u ožujku 1848, uvelike mijenja smjer života. U lipnju 1848. sudjeluje na Slavenskom kongresu u Pragu, gdje se bori na barikadama, a sredinom rujna iste godine napušta Augustineum. Kod Kanjiže (Kanizsa) pridružuje se vojsci bana J. Jelačića, a potom prenosi Jelačićevu poruku Lipi slovanskoj u Prag te češke prvake F. L. Riegera i F. Palackog dovodi Jelačiću. Kao Jelačićev izaslanik početkom prosinca 1849. odlazi u Pariz te ga prima i predsjednik Francuske Republike Louis Napoleon. U ožujku 1849. napušta Pariz, a ljeti iste godine postaje županijski tajnik u Osijeku te ujesen odlazi u Beč, Dresden i Prag, a zimi se vraća u Zagreb. S proljeća 1850. o trošku biskupa Strossmayera odlazi ponovno ali ne u Jelačićevo ime – u Pariz (11. VI–22. VII) preko Beča, Krakova, Berlina i Bruxellesa, zatim se preko Londona – gdje boravi gotovo dva mjeseca – Belgije, Švicarske i Italije vraća u Zagreb, gdje je 1850–51. tajnik Matice ilirske. God. 1851–53. Strossmayerov je vlastelinski provizor u Đakovu; 1853–57. u Beču studira pravo te se potom posvećuje odvjetničkom zvanju u Brodu na Savi. Na Hrvatskom saboru 1861. zastupnik je Vojne krajine te vodi njezinu deputaciju u Beč Franji Josipu I. — Već kao pitomac plemićkog konvikta s još 9 drugova osniva 7. III 1842. čitaonicu, kojoj je i prvim predsjednikom. Za studija teologije zanosi se idejama hrvatskoga narodnog preporoda – ilirskog pokreta, krećući se u krugu J. Kopitara, F. Miklošiča, F. Kurelca i Strossmayera. Na poticaj papinskog nuncija u Beču M. Viale Prelà sredinom rujna 1848. za papu Pija IX sastavlja Bellum civile in Hungaria i Ecclesiae croaticae-slavonicae status. Na putu u Pariz 1848. u Dresdenu na Brlića odlučno utječe savjetnik austrijskog poslanstva grof Lukša Gučetić, pa u Parizu postaje, pristaša »široke federalističke koncepcije preuređenja Austrije« (Šidak). U Parizu se kreće u krugu poljskih izbjeglica oko kneza Adama Czartoryskog, francuskih slavenofila C. Roberta, H. Despreza, C. Bourgoinga, A. Bilcocqa, srpskih, rumunjskih, i čeških iseljenika i izaslanika. Tada objavljuje više članaka o vojnom pohodu bana Jelačića i težnjama Hrvata u listovima Journal des Débats i Tribune des Peuples, suzbijajući time vrlo jaku mađarsku propagandu. Također ga prima princ Jérome Bonaparte i francuski ministar vanjskih poslova Drouyn de Lhuys, pariški nadbiskup, papinski nuncij u Parizu, turski poslanik i dr. Nakon što mu je obustavljena novčana pomoć a M. Ožegović ga pozvao da se vrati u domovinu, B. se obratio Iliji Garašaninu predlažući da će mu za novac dostavljati političke vijesti i, kako sam piše, zastupati njegove ideje u pariskim listovima. Do oktroiranog ustava (6. IX 1849) u svojem djelovanju zastupa austroslavističke koncepcije. God. 1850. sudjeluje u osnivanju Kazališnog društva dobrovoljaca u Zagrebu kao perovođa; tajnik je Družtva za jugoslavensku povjestnicu i starine u Zagrebu, a uz tajništvo u Matici uređuje Kolo (knj. VIII) te priređuje za tisak djela I. Đurđevića Usdasi Mandalijene Pokornice i Saltijer slavinski (1851) te Kristijadu J. Palmotića (1852). Njegovo je najvažnije djelo dnevnik od početka 1844. do ožujka 1857, djelomično objelodanjen, važan napose za povijest Hrvatske 1848, jer je kao Jelačićev tajnik i izaslanik imao uvid u gotovo sva bitna zbivanja. Dnevnik se nalazi u NSB u Zagrebu, a njegova korespondencija sa Strossmayerom, Gučetićem, M. Topalovićem, H. Terleckim, M. Mesićem i drugim istaknutim suvremenicima također je objelodanjena. Neobjelodanjeni dio korespondencije nalazi se u Slavonskom Brodu u Arhivu obitelji Brlić. B. sudjeluje u uređivanju Slavenskog juga i Jugoslavenskih novina. Surađuje u periodicima Danica ilirska (1842), Danica horvatsko-slavonsko-dalmatinska (1843, 1848), Zora dalmatinska (1844–46, 1848), Novine horvatsko-slavonsko-dalmatinske (1848–49), Gazzetta di Zara (1849), List Družtva gospodarskoga horvatsko- slavonskoga (1850), Kolo (1851), Narodne novine (1851), Obći zagrebački kalendar (1852), Gospodarske novine (1853), Neven (1854–56), Il Nazionale (1863), Zviezda (1863), Slavonac (1865). Neki Brlićevi radovi objavljeni su posmrtno u periodicima Bunjevačke i šokačke novine (1870), Bunjevačka i šokačka vila (1874), Građa za povijest književnosti hrvatske (1901), Obzor (1905, 1914, 1934–35), Narodna obrana (1914), Jugoslavenska njiva (1926), Franjevački vijesnik (1930), Novosti (1935). Služi se šiframa i pseudonimima: A. T. B., Andrija Torkvat Brođanin, Andrija Torkvat B., Posavac, And. Torq. Berlich i Kazimir B. Prevodio je s grčkog, češkog i njemačkog jezika.
+                                
+                                DJELA: Die freimillige Theilnahme der Serben und Kroaten un der vier letzten österreichisch-türkischen Kriegen. Wien 1854. — Grammatik der Illyrischen Sprache. Wien 1854. — Izvori srpske povjestnice iz turskijeh spomenika, 1. Beč 1857.
+                                
+                                LIT.: M. Prelog: Slavenska renesansa 1780–1848. Zagreb 1924. — I. Brlić-Mažuranić: Iz arhiva obitelji Brlić u Brodu na Savi, 1. Zagreb 1934; 2, 1935. — R. Maixner: A. T. Brlić, émissaire du Ban Jelačić en France. Annales de l’Institut français de Zagreb, 3(1939) 8, str. 1–49. — I. A. Brlić: Pisma sinu Andriji Torkvatu 1836–1855, 2. Zagreb 1943. — A. Barac: Predgovor (u: Građa za povijest književnosti hrvatske, 1948, 16, str. 7–12). — I. Brlić-Mažuranić: Iz korespondencije Andrije Torkvata Brlića. (Ibid., str. 91–234). — R. Maixner: Pisma Lukše Gučetića Andriji Torkvatu Brliću. (Ibid., str. 47–90). — V. Bogdanov: Prilog upoznavanju uloge Andrije Torkvata Brlića u revoluciji 1848–1849. Historijski zbornik, 2(1949) str. 165–176. — R. Maixner: Cyprien Robert i grupa oko »Slavenskog juga«. Građa za povijest književnosti hrvatske, 1950, 19, str. 145–162. — Isti: Hrvatski prijevodi francuske proze 1800–1860. Rad JAZU, 1952, 290, str. 81–85. — I. Brlić: Deset pisama akademika Šime Ljubića Andriji Torkvatu Brliću. Starine, 1955, 45, str. 311–330. — V. Vučković: Politička akcija Srbije u južnoslovenskim pokrajinama Habsburške Monarhije 1859–1874. Beograd 1965. — S. Gavrilović: Brlićeva i Tkalčićeva pisma patriarhu Rajačiću i Garašaninu. Historijski zbornik, 19–20(1966–67) str. 405–407. — J. Šidak: Studije iz hrvatske povijesti XIX stoljeća, 2. Zagreb 1973. — Isti: Studije iz hrvatske povijesti za revolucije 1848–49. Zagreb 1979. — Isti: Kroz pet stoljeća hrvatske povijesti. Zagreb 1981. — S. Blažanović: Knjižnica obitelji Brlić. Slavonski Brod 1983, 50–67. — M. Gross: Počeci moderne Hrvatske. Zagreb 1985. — M. Stanković: Arhiv obitelji Brlić. Slavonski Brod 1987.
+                                
+                                Mladen Švab (1989)
+                                
+                            </quote>
+                                <bibl>HBL, Mladen Švab, 1989</bibl>
+                            </cit>
+                        </note>
+                    </person>
+                    <person xml:id="croala.publika.hieronymusand1526">
+                        <persName xml:lang="la">Hieronymus <abbr>And.</abbr>
+                        </persName>
+                        <floruit period="15xx_1_third">
+                            <date period="15xx_1_third" when="1526">c. 1526</date>
+                            <placeName type="geonames" ref="3201047">Dubrovnik</placeName>
+                        </floruit>
+                        <occupation>učitelj u Dubrovniku, poučavao sina Jakova Bunića</occupation>
+                        <occupation scheme="genera" code="tax.poesis">Poezija</occupation>
+                        <occupation scheme="genera" code="a">epigram</occupation>
+                        <occupation scheme="genera" code="a">prigodnica</occupation>
+                        <occupation scheme="genera" code="tax.poesis">Poezija</occupation>
+                        <occupation scheme="genera" code="a">epigram</occupation>
+                        <occupation scheme="genera" code="tax.prosa">Proza</occupation>
+                        <occupation scheme="genera" code="b">pismo</occupation>
+                    </person>
+                    <person ana="juric" xml:id="croala.publika.gretserd1e583">
+                        <persName xml:lang="hrv">Gretser, Jakob</persName>
+                        <!-- nije hrv. lat. -->
+                        <bibl type="authorID">
+                            <ref type="viaf" target="59214175">VIAF: 59214175</ref>
+                        </bibl>
+                    </person>
+                    <person ana="juric" xml:id="croala.publika.gundulicd1e609">
+                        <persName xml:lang="hrv">Gundulić, Ivan</persName>
+                        <birth><date when="1588">1588</date></birth>
+                        <floruit period="16xx_1_third"/>
+                        <death><date when="1638">1638</date></death>
+                        <!-- nije hrv. latinist; u Juricu jer je Đ. Ferić napisao pohvalnu pjesmu Gunduliću -->
+                        <!-- i zato što ga je prevodio Getaldić, i kao publika -->
+                        <bibl type="authorID">
+                            <ref type="viaf" target="39390411">VIAF: 39390411</ref>
+                        </bibl>
+                    </person>
+                    <person ana="juric" xml:id="croala.publika.papanekd1e1357">
+                        <persName xml:lang="hrv">Papanek, Georgius</persName>
+                        <!-- Slovak, nije hrv. latinist; u Juricu zbog mjesta izd. Osijek -->
+                        <bibl type="authorID">
+                            <ref type="viaf" target="71736514">VIAF: 71736514</ref>
+                        </bibl>
+                    </person>
+                    <person ana="croala" xml:id="croala.publika.penzel">
+                        <persName xml:lang="hrv">Penzel, Abraham Jakob</persName>
+                        <birth>
+                            <date>1749</date>
+                            <placeName>Törten</placeName>
+                        </birth>
+                        <death>
+                            <date>1819</date>
+                            <placeName>Jena</placeName></death>
+                        <event>
+                            <p>Prepiska s A. A. Baričevićem 1793–1799</p>
+                        </event>
+                        <bibl type="authorID">
+                            <ref type="viaf" target="32739326">VIAF: 32739326</ref>
+                        </bibl>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="croala.publika.dubrovnik.viaf245622261">
+                        <orgName xml:lang="eng">Dubrovnik (Republic: to 1808)‏</orgName>
+                        <orgName xml:lang="hrv">Dubrovačka Republika (do 1808). Senat‏</orgName>
+                        <bibl type="viaf">
+                            <ref type="viaf" target="245622261">VIAF br. 245622261</ref>
+                        </bibl>
+                        <bibl type="viaf">
+                            <ref type="viaf" target="146393433">VIAF br. 146393433</ref>
+                        </bibl>
+                    </org>
+                    <org xml:id="viaf147897507">
+                        <orgName xml:lang="eng">Venice (Republic : To 1797).‏  Senato‏</orgName>
+                        <orgName xml:lang="hrv">Republika Venecija. Senat‏</orgName>
+                        <bibl type="viaf">
+                            <ref type="viaf" target="147897507">VIAF br. 147897507</ref>
+                        </bibl>
+                    </org>
+                </listOrg>
+            </div>
+        </body>
+    </text>
+</TEI>

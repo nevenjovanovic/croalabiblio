@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+            <fileDesc xml:id="tisak-bibliografija-dodaci">
+                  <titleStmt>
+                        <title>Bibliografija hrvatskih latinista 2, elektronska verzija</title>
+                     <author><ref type="viaf" target="6913774">Neven Jovanović</ref>, et al.</author>
+                        <respStmt>
+                              <resp>Editionem electronicam curavit</resp>
+                           <name><ref type="viaf" target="6913774">Neven Jovanović</ref></name>
+                              
+                        </respStmt>
+                    
+                  </titleStmt>
+                  <editionStmt>
+                        <edition>
+                              <date>Mense Ianuario, 2014.</date>
+                        </edition>
+                  </editionStmt>
+                  <publicationStmt>
+                        <p>Rad nastao u okviru znanstvenog projekta Croatica et Tyrolensia,
+                              (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>Siječnja
+                                    2014</date>
+            </p>
+                  </publicationStmt>
+                  <sourceDesc>
+                        <p>Croatiae auctores Latini</p>
+                        
+                  </sourceDesc>
+                  
+            </fileDesc>
+            
+            <revisionDesc>
+               <change>
+                  <name><ref type="viaf" target="6913774">Neven Jovanović</ref></name>
+                  <date>2015-10-26</date>
+                  Zapisi o digitalnim tekstovima u CroALa izdvojeni u posebnu datoteku.
+               </change>
+                  <change>
+                     <name><ref type="viaf" target="6913774">Neven Jovanović</ref></name>
+                        <date>2014-01-24</date>
+                        Početna verzija, dodatni podaci izdvojeni.
+                  </change>
+                  
+            </revisionDesc>
+            
+      </teiHeader>    
+      
+      <text>
+            <body>
+                  <listBibl type="croala.libri">
+                     <biblStruct xml:id="croala.pub.bakul01-p01-1867">
+                        <monogr>
+                           <author>
+                           <ref target="bakul01">Bakula, Petar</ref>
+                        </author>
+                        <title xml:lang="lat">Schematismus topographico-historicus Custodiae provincialis et Vicariatus apostolici in Hercegovina sub regimine spirituali Fratrum Min. Observ. Sancti Francisci pro Anno Domini 1867</title>
+                        <imprint>
+                           <date when="1867" period="18xx_3_third">1867</date>
+                           <pubPlace><placeName type="geonames" ref="3190261">Split</placeName></pubPlace>
+                        </imprint>
+                        </monogr>
+                        <relatedItem type="croala.digital">
+                           <ref type="internet"
+                              target="https://archive.org/details/schematismustopo00fran">archive.org</ref>
+                        </relatedItem>
+                     </biblStruct>
+                     <biblStruct xml:id="croala.pub.brodaric.1985">
+                        <monogr>
+                           <author>
+                              <ref target="brod01">Brodericus, Stephanus</ref>
+                           </author>
+                           <title><ref type="croala.opera" target="brod01-p01-1527">De conflictu Hungarorum cum Solymano Turcarum imperatore ad Mohach historia verissima</ref>. <ref type="croala.opera" target="brod01-p01-oratio">Oratio ad Adrianum VI. Pontificem maximum</ref>.</title> 
+                           <editor>
+                              <persName>
+                                 <ref type="viaf" target="265167725">Petrus Kulcsár</ref>
+                              </persName>
+                              <persName>
+                                 <ref type="viaf" target="5960319">Csaba Csapodi</ref>
+                              </persName>
+                           </editor>
+                           <imprint>
+                              <pubPlace>Budapest</pubPlace>
+                              <publisher>Akadémiai Kiadó</publisher>
+                              <date>1985</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <bibl xml:id="croala.pub.brodaric.1998"> 
+                        <ref target="brod01">Brodarić, Stejepan</ref>
+                        <title>
+                           <ref type="croala.opera" target="brod01-p01-1527">De conflictu Hungarorum cum Solymano Turcarum imperatore ad
+                        Mohach historia verissima (partes selectae)</ref></title> 
+                        <title>Régi magyar irodalmi szöveggyűjtemény I</title>
+                        <date>1998</date>
+                        <relatedItem type="internet" target="http://www.tankonyvtar.hu/szepirodalom/regi-magyar-irodalmi-080905-582"/>
+                     </bibl>
+                     <biblStruct xml:id="bitzel1997zamagna">
+                        <monogr>
+                           <author>
+                              <ref type="viaf" target="59815347">Bitzel, Diane</ref>
+                  </author>
+                           <author>
+                              <ref target="zama01">Zamanja, Bernard</ref>
+                           </author>
+                           <title>Bernardo Zamagna, Navis aëria : eine Metamorphose des Lehrgedichts im Zeichen des technischen Fortschritts.</title>
+                           <idno type="isbn">3631317336</idno>
+                           <idno type="isbn">9783631317334</idno>
+                           <imprint>
+                              <pubPlace>Frankfurt am Main</pubPlace>
+                              <pubPlace>New York</pubPlace>
+                              <publisher>P. Lang</publisher>
+                              <date when="1997" period="19xx_3_third">1997</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="boskovic1872pietasaustriaca">
+                        <analytic>
+                           <author>
+                              <ref target="crije02">Bošković, Ruđer Josip</ref>
+                           </author>
+                           <title xml:lang="lat">
+                              <ref type="croala.opera" target="bosk02-c14-1757">B. Pietas Austriaca triumphans</ref>
+                  </title>
+                        </analytic>
+                        <monogr> 
+                           <title>Programma dell' I. R. Ginnasio superiore di Stato in Ragusa: alla fine dell' anno scolastico 1871 - 72.</title>
+                           <imprint>
+                     <date when="1872" period="18xx_3_third">1872</date>
+                              <pubPlace>Ragusa</pubPlace>
+                              <publisher>Pretner</publisher>
+                              <biblScope>28-54</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="boskovic2007solisdefectibus">
+                        <analytic>
+                           <author>
+                              <ref target="crije02">Bošković, Ruđer Josip</ref>
+                           </author>
+                           <title xml:lang="lat">
+                              <ref type="croala.opera" target="bosk02-c02-1760">De solis ac lunae defectibus</ref>
+                  </title>
+                        </analytic>
+                        <monogr>        
+                           <author>
+                              <ref target="bosk02">Bošković, Ruđer</ref>
+                           </author>
+                           <author>
+                              <ref type="viaf" target="94676395">Dadić, Žarko</ref>
+                           </author>
+                           <author>
+                              <ref type="viaf" target="71410589">Glavičić, Branimir</ref>
+                           </author>
+                           <title>Rogerii Iosephi Boscovichii De solis ac lunae defectibus / praefationem conscripsit Žarko Dadić. 6. ed. / curavit et convertit indicesque addidit Branimir Glavičić</title>
+                           <imprint>
+                     <date when="2007" period="20xx_1_third">2007</date>
+                              <pubPlace>Zagreb</pubPlace>
+                              <publisher>Hrvatska akademija znanosti i umjetnosti</publisher>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     
+                     <biblStruct xml:id="nevenicgrabovac1970poema">
+
+                           <analytic>
+                  <author>Nevenić-Grabovac, Darinka</author>
+                           <title>Poema Ilije Crijevića De Epidauro</title>
+                           </analytic>
+                        <analytic>
+                           <author>
+                              <ref target="crije02">Crijević, Ilija</ref>
+                           </author>
+                           <title xml:lang="lat">
+                              <ref type="croala.opera" target="crije02-c03-xxxx.carm.30.13025581570768552">De Epidauro</ref>
+                  </title>
+                        </analytic>
+                        <monogr>                      
+                           <title>Živa antika</title>
+                           <imprint>
+                     <date when="1970" period="19xx_3_third">1970</date>
+                           <biblScope unit="vol">20</biblScope>
+                              <biblScope unit="pp">241-277</biblScope>
+                           </imprint>
+                        </monogr>
+                        </biblStruct>
+                     
+                     
+                     <biblStruct xml:id="tadin1905umanista">
+                        <analytic>
+                           <author>
+                     <ref type="viaf" target="307405610">Tadin, Calisto</ref>
+                  </author>
+                           <title xml:lang="ita">L' Umanista Raguseo del sec. XVI, Elio Lampridio Cerva</title>
+                        </analytic>
+                        <analytic>
+                           <author>
+                              <ref target="crije02">Crijević, Ilija</ref>
+                           </author>
+                           <title xml:lang="lat">
+                     <ref type="croala.opera" target="crije02-c03-xxxx.carm.30.13025581570768552">De Epidauro</ref>
+                  </title>
+                        </analytic>
+                        <monogr>
+                           <title>Rivista dalmatica</title>
+                           <imprint>
+                     <date when="1905" period="19xx_1_third">1905</date>
+                           <biblScope unit="vol">3</biblScope>
+                           <biblScope unit="pp">265-278</biblScope>
+                           </imprint>
+                        </monogr>
+                        </biblStruct>
+                     <biblStruct xml:id="davidias2006marcovich">
+                        <monogr>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="109913306">Marcovich, Miroslav</ref>
+                  </editor>
+                           <title>M. Maruli Delmatae Davidias</title> 
+                           <idno type="ISBN">9004149635</idno>
+                           <idno type="ISBN">9789004149632</idno>
+                           <imprint>
+                              <pubPlace>Leiden</pubPlace>
+                              <pubPlace>Boston</pubPlace>
+                              <publisher>Brill</publisher>
+                              <date when="2006" period="20xx_1_third">2006</date>
+                              
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="davidias1988glavicic">
+                        <monogr>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="71410589">Glavičić, Branimir</ref>
+                  </editor>
+                           <title>Sabrana djela 3 : Latinska djela ; 2 3 : Latinska djela ; 2 - Davidijada.</title> 
+                           <imprint>
+                              <pubPlace><placeName type="geonames" ref="3190261">Split</placeName></pubPlace>
+                              <publisher>Književni krug</publisher>
+                              <date when="1988" period="19xx_3_third">1988</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="davidias1974gortan">
+                        <monogr>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="71410589">Glavičić, Branimir</ref>
+                  </editor>
+                           <editor>
+                     <ref type="viaf" target="71418226">Gortan, Veljko</ref>
+                  </editor>
+                           <title>M. Maruli Delmatae Davidias (Hrvatski latinisti, knj. 7)</title> 
+                           <imprint>
+                              <pubPlace>Zagrabiae</pubPlace>
+                              <publisher>Jugoslavenska akademija znanosti i umjetnosti</publisher>
+                              <date when="1974" period="19xx_3_third">1974</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="davidias1957marcovich">
+                        <monogr>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="109913306">Marcovich, Miroslav</ref>
+                  </editor>
+                           <title>M. Maruli Davidiadis libri XIV.</title> 
+                           <imprint>
+                              <pubPlace>Merida (Vénézuéla)</pubPlace>
+                              <publisher>Direccion de cultura de la Universidad de los Andes</publisher>
+                              <date when="1957" period="19xx_2_third">1957</date>
+                              
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="davidias1954badalic">
+                        <monogr>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="7403629">Badalić, Josip</ref>
+                  </editor>
+                           <title>Davidias</title> 
+                           <imprint>
+                              <pubPlace>Zagreb</pubPlace>
+                              <publisher>Jugoslavenska akademija znanosti i umjetnosti</publisher>
+                              <date when="1954" period="19xx_2_third">1954</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="dantis1952dionisotti">
+                        <analytic>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <title>
+                              <ref type="croala.opera" target="marul01principiumdantis">Principium operis Dantis Aligerii de fluentino sermone in latinum conversum per M. Marulum</ref>
+                           </title>
+                        </analytic>
+                        <monogr>
+
+                           <editor>
+                     <ref type="viaf" target="112209841">Dionisotti, Carlo</ref>
+                  </editor>
+                           <title>Marco Marulo traduttore di Dante. - Miscellanea di scritti
+                              di bibliografia ed erudizione in memoria di Luigi Ferrari
+                           </title> 
+                           <imprint>
+                              <pubPlace>Firenze</pubPlace>
+                              <publisher>Leo S. Olschki</publisher>
+                              <date when="1952" period="19xx_2_third">1952</date>
+                              <biblScope unit="pp">233-242</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="dantis1956vidovic">
+                        <analytic>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <title>
+                              <ref type="croala.opera" target="marul01principiumdantis">Principium operis Dantis Aligerii de fluentino sermone in latinum conversum per M. Marulum</ref>
+                           </title>
+                        </analytic>
+                        <monogr>
+                           
+                           <editor>
+                     <ref type="viaf" target="71412624">Vidović, Radovan</ref>
+                  </editor>
+                           <title>Marulićev latinski prepjev Dantea. - Mogućnosti </title> 
+                           <imprint>
+                              <pubPlace><placeName type="geonames" ref="3190261">Split</placeName></pubPlace>
+                              <date when="1956" period="19xx_2_third">1956</date>
+                              <biblScope unit="vol">3</biblScope>
+                              <biblScope unit="issue">4</biblScope>
+                              <biblScope unit="pp">304-310</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="dantis1960gortan">
+                        <analytic>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <title>
+                              <ref type="croala.opera" target="marul01principiumdantis">Principium operis Dantis Aligerii de fluentino sermone in latinum conversum per M. Marulum</ref>
+                           </title>
+                        </analytic>
+                        <monogr>
+                           
+                           <editor>
+                     <ref type="viaf" target="71418226">Gortan, Veljko</ref>
+                  </editor>
+                           <title>La version latine du Ier chant de la Divine Comédie par M.
+                              Marulić. - Studia Romanica et Anglica Zagrabiensia</title> 
+                           <imprint>
+                              <pubPlace>Zagreb</pubPlace>
+                              <date when="1960" period="19xx_2_third">1960</date>
+                              <biblScope unit="vol">5</biblScope>
+                              <biblScope unit="issue">9-10</biblScope>
+                              <biblScope unit="pp">9-18</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="dantis1969latinisti">
+                        <analytic>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <title>
+                              <ref type="croala.opera" target="marul01principiumdantis">Principium operis Dantis Aligerii de fluentino sermone in latinum conversum per M. Marulum</ref>
+                           </title>
+                        </analytic>
+                        <monogr>
+                           
+                           <editor>
+                     <ref type="viaf" target="71418226">Gortan, Veljko</ref>
+                  </editor>
+                           <editor>
+                     <ref type="viaf" target="91623065">Vratović, Vladimir</ref>
+                  </editor>
+                           <title>Hrvatski latinisti = Croatici auctores qui Latine scripserunt</title> 
+                           <imprint>
+                              <pubPlace>Zagreb</pubPlace>
+                              <publisher>Matica hrvatska</publisher>
+                              <publisher>Zora</publisher>
+                              <date when="1969" period="19xx_3_third">1969</date>
+                              <biblScope unit="vol">1</biblScope>
+                              <biblScope unit="pp">234-317</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="dantis2005novakoviclucin">
+                        <analytic>
+                           <author>
+                     <ref target="marul01">Marulić, Marko</ref>
+                  </author>
+                           <title>
+                              <ref type="croala.opera" target="marul01principiumdantis">Principium operis Dantis Aligerii de fluentino sermone in latinum conversum per M. Marulum</ref>
+                           </title>
+                        </analytic>
+                        <monogr>
+                           
+                           <editor>
+                     <ref type="viaf" target="5178395">Lučin, Bratislav</ref>
+                  </editor>
+                           <editor>
+                     <ref type="viaf" target="22180722">Novaković, Darko</ref>
+                  </editor>
+                           <title>Latinski stihovi</title> 
+                           <idno type="ISBN">9531632502</idno>
+                           <idno type="ISBN">9789531632508</idno>
+                           <imprint>
+                              <pubPlace><placeName type="geonames" ref="3190261">Split</placeName></pubPlace>
+                              <publisher>Književni krug</publisher>
+                              <publisher>Marulianum</publisher>
+                              <date when="2005" period="20xx_1_third">2005</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="bunicjakovraptu1978glavicic">
+                        <analytic>
+                           <author>
+                     <ref type="croala" target="bunic02">Bunić Dubrovčanin, Jakov</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="71410589">Glavičić, Branimir</ref>
+                  </editor>
+                           <title>
+                     <ref type="croala.opera" target="bunic02-c01-1490">De raptu Cerberi</ref>
+                  </title> 
+                        </analytic>
+                        <analytic>
+                           <author>
+                     <ref type="croala" target="bunic02">Bunić Dubrovčanin, Jakov</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="71410589">Glavičić, Branimir</ref>
+                  </editor>
+                           <title>
+                     <ref type="croala.opera" target="bunic02-c02-1526">De vita et gestis Christi (loci selecti)</ref>
+                  </title> 
+                        </analytic>
+                        <monogr>
+                           <author>
+                     <ref type="croala" target="bunic02">Bunić Dubrovčanin, Jakov</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="71410589">Glavičić, Branimir</ref>
+                  </editor>
+                           <title>De raptu Cerberi, de vita et gestis Christi (loci selecti) = Otmica Kerbera, Kristov život i djela (odbrani odlomci).</title> 
+                           <imprint>
+                              <pubPlace>Zagreb</pubPlace>
+                              <publisher>Jugoslavenska akademija znanosti i umjetnosti</publisher>
+                              <date period="19xx_3_third">1978</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="saboloviccarmen1998peric">
+                        <analytic>
+                           <author>
+                     <ref type="croala" target="sabolov01">Sabolović, Martin</ref>
+                  </author>
+                           <editor>
+                     <ref type="viaf" target="46800033">Olga Perić</ref>
+                  </editor>
+                           <title>
+                     <ref type="croala.opera" target="sabolov01-c06-1792">Carmen macaronicum in Crisienses.</ref>
+                  </title>
+                        </analytic>
+                        <monogr>
+                           <title>Križevačka književna slava, Hrvatska riječ u Križevcima</title>
+                           <imprint>
+                              <biblScope unit="pp">31-34</biblScope>
+                              <pubPlace>
+                                 Križevci
+                              </pubPlace>
+                              <publisher>Matica hrvatska Križevci</publisher>
+                              <date period="19xx_3_third">1998</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="lambertinote1933">
+                        <analytic>
+                           <title>
+                              <ref type="croala.opera" target="cipik02-c04-1473">Cippicus ad lectorem</ref>
+                           </title>
+                           <author>
+                              <ref type="croala" target="cipik02">Cipiko, Alviz</ref>
+                           </author>
+                        </analytic>
+                        <analytic>
+                           <author>Donati, Lamberto</author>
+                        <title>Note su Alvise Cippico da Traù (1456-1501)</title>
+                        </analytic>
+                        <monogr>
+                           <title>Archivio storico per la Dalmazia</title>
+                           <imprint>
+                              <biblScope unit="vol">14</biblScope>
+                              <biblScope unit="issue">82</biblScope>
+                              <biblScope unit="pp">466-479</biblScope>
+                              <date period="19xx_2_third">1933</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="novakovicelegijebartucevica2001">
+                        <analytic>
+                           <author>
+                     <ref type="viaf" target="22180722">Darko Novaković</ref>
+                  </author>
+                           <title>Dvije nepoznate latinske elegije Jeronima Bartučevića</title>
+                        </analytic>
+                        <monogr>
+                           <title>Vijenac</title>
+                           <imprint>
+                              <biblScope unit="issue">188</biblScope>
+                              <date when="2001-05-17" period="20xx_1_third">17. svibnja 2001</date>
+                           </imprint>
+                        </monogr>
+                        <relatedItem type="croala.digital">
+                           <ref type="internet"
+                       target="http://www.matica.hr/vijenac/188/Dvije%20nepoznate%20latinske%20elegije%20Jeronima%20Bartu%C4%8Devi%C4%87a/">Darko Novaković, "Dvije nepoznate latinske elegije Jeronima Bartučevića", Vijenac 188, 17. svibnja 2001.</ref>
+                        </relatedItem>
+                     </biblStruct>
+                     
+                     <biblStruct xml:id="nevenicgrabovacoratiocrijevicaguceticu1974">
+                        <analytic>
+                           <author>
+                              <ref type="viaf" target="307180572">Nevenić-Grabovac, Darinka</ref>
+                  </author>
+                           <author>
+                              <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                           </author>
+                           <title>Oratio funebris humaniste Ilije Crijevića dubrovačkom pesniku Ivanu (Dživu) Gučetiću</title>
+                        </analytic>
+                        <monogr>
+                           <title>Živa antika</title>
+                           <imprint>
+                              <date period="19xx_3_third">1974</date>
+                              <biblScope unit="vol">24</biblScope>
+                              <biblScope unit="pp">333–364</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="fialovahejnicgotii1971">
+                        <analytic>
+                           <author>Fialová, Andelă</author>
+                           <author>Hejnic, Josef</author>
+                           <title>
+                     <ref type="croala.opera" target="gucet02-p01-1493">Ioannis Gotii Ragusini "Panegyris Vladislao regi dicta"</ref>
+                  </title>
+                        </analytic>
+                        <monogr>
+                           <title>Archivum Trebonense</title>
+                           <imprint>
+                              <date when="1971" period="19xx_3_third">1971</date>
+                              <biblScope unit="pp">151-172</biblScope>
+                           </imprint>
+                        </monogr>
+                        <relatedItem type="croala.digital">
+                           <ref type="internet" target="http://digi.ceskearchivy.cz/de/707/83">digi.ceskearchivy.cz (digitalizat)</ref>
+                        </relatedItem>
+                     </biblStruct>
+                     <biblStruct xml:id="novakovicgucetic2003">
+                        <analytic>
+                           <author>
+                     <ref type="viaf" target="viaf22180722">Novaković, Darko</ref>
+                  </author>
+                           <title>
+                     <ref type="croala.opera" target="gucet02-c02-1478">Nepoznati epitaf Ivana Gučetića talijanskom filologu Domiziju Calderiniju</ref>
+                  </title>
+                        </analytic>
+                        <monogr>
+                           <title>Hrvatska književna baština , knjiga 2</title>
+                           <imprint>
+                              <pubPlace ref="3186886">Zagreb</pubPlace>
+                              <publisher>Ex libris</publisher>
+                              <date when="2003" period="20xx_1_third">2003</date>
+                              <biblScope unit="pp">131-134</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                     <biblStruct xml:id="smerdel1962carminalat">
+                      <monogr>
+                        <author>
+                     <ref target="smerdel01">Smerdel, Ton</ref>
+                  </author>
+                        <title>Carmina Latina / T. Smerdel.</title>
+                        <imprint>
+                           <pubPlace ref="785842">Skopje</pubPlace>
+                          <date when="1963" period="19xx_2_third">
+                        <add>1963</add>
+                     </date>
+                          <note>p. o: Živa antika ; god. 12/1962, sv. 1</note>
+                        </imprint>
+                        <extent>4 str.</extent>
+                      </monogr>
+                      <relatedItem type="primjerak">
+                        <ref type="signatura" target="NSK">NSK Zg 370.980</ref>
+                      </relatedItem>
+                    </biblStruct>
+                    <biblStruct xml:id="smerdel1961urnaparcarum">
+                      <monogr>
+                        <author>
+                     <ref target="smerdel01">Smerdel, Ton</ref>
+                  </author>
+                        <title>Urna parcarum : carmina latina / Ton Smerdel.</title>
+                        <imprint>
+                          <pubPlace ref="3186886">Zagrebiae</pubPlace>
+                          <publisher>vlast. nakl.</publisher>
+                          <date when="1961" period="19xx_2_third">1961</date>
+                          <note>(Sisak : "Joža Rožanković")</note>
+                        </imprint>
+                        <extent>37 str.</extent>
+                      </monogr>
+                      <relatedItem type="primjerak">
+                        <ref type="signatura" target="NSK">NSK Zg 361.334</ref>
+                      </relatedItem>
+                    </biblStruct>
+                    <biblStruct xml:id="bulic-p01-1879">
+
+                        <analytic>
+                          <author>
+                     <ref type="croala" target="bulic01">Bulić, Frane</ref>
+                  </author>
+                        <title>De poesi epica populari in latinis litteris</title>
+                        </analytic>
+                      <monogr>
+                        <title>Program c. k. velikog državnog gimnazija u Dubrovniku za školsku godinu 1878-79</title>
+                        <imprint>
+                          <date when="1879" period="18xx_3_third">1879</date>
+                        <biblScope>5—55</biblScope>
+                        <pubPlace ref="3186952">Zadar</pubPlace>
+                        </imprint>
+                      </monogr>
+                    </biblStruct>
+                    <biblStruct xml:id="pucic-c01-1858">
+                      <monogr>
+                        <author>
+                     <ref target="pucic02">De Pozza, Nicolaus Aloysius</ref>
+                  </author>
+                        <title>Carmina</title>
+                        <imprint>
+                     <publisher>excudebat Iosephus Grimaldo</publisher>
+                        <date when="1858" period="18xx_2_third">1858</date>
+                        <pubPlace ref="3164603">Venetiis</pubPlace>
+                  </imprint>
+                      </monogr>
+                      <relatedItem type="digitalizat">
+                        <ref type="gbs" target="iNU7AQAAMAAJ">Google Books</ref>
+                      </relatedItem>
+                    </biblStruct>
+                    <biblStruct xml:base="djurdjev-i-1851magdal">
+                      <analytic>
+                        <title xml:lang="lat">
+                          <ref target="djurdjev02-c02-1728">
+                            Magdalidos illyricae. Liber primus / ab autore Ignatio Georgio ; latine redditus ad Jacobum Facciolatum.
+                          </ref>
+                  </title>
+                        <author>
+                          <ref target="djurdjev02">Đurđević, Ignjat</ref>
+                        </author>
+                      </analytic>
+                      <monogr>
+                        <title xml:lang="hrv">Uzdasi Mandaljene : pokornice u Spili od Marsilje</title>
+                        <title xml:lang="hrv">spievani po Ignaciu Gjorgji. K čemu se još Razlike piesni duhovne, i dielo-izpravne složene od istoga, prilagaju. 
+                          <foreign xml:lang="lat">(Additur in fine liber primus ejusdem Magdalidos ab eodem Autore Heroico carmine latine redditus)</foreign>.</title>
+                        <author>
+                          <ref target="djurdjev02">Đurđević, Ignjat</ref>
+                        </author>
+                        <imprint>
+                          <pubPlace ref="3186886">U Zagrebu</pubPlace>
+                          <publisher>Preštampano troškom Matice ilirske</publisher>
+                          <date when="1851" period="18xx_2_third">1851</date>
+                          <publisher>(tiskom narodne tiskarne Ljudevita Gaja)</publisher>
+                        </imprint>
+                        <biblScope>p. 187-203</biblScope>
+                      </monogr>
+                      <relatedItem type="biblio">
+                  <ref type="worldcat" target="oclc/20046929">WorldCat</ref>
+               </relatedItem>
+                      <relatedItem type="digitalizat">
+                        <ref type="gbs" target="lbgoAAAAYAAJ&amp;pg=PA187">Google Books</ref>
+                      </relatedItem>
+                    </biblStruct>
+                     
+                     <biblStruct xml:id="djurdjevicpjesni1956">
+                        <monogr>
+                  <title>Latinske pjesni razlike = Poetici lusus varii</title> 
+                           <author>
+                     <ref type="croala" target="djurdjev02">Đurđević, Ignjat</ref>
+                  </author>
+                           <editor role="edit">
+                     <ref type="viaf" target="gortan.viaf71418226">Veljko Gortan</ref>
+                  </editor>
+                           <editor role="trl">
+                     <ref type="viaf" target="sop.viaf14783034">Nikola Šop</ref>
+                  </editor>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                        <publisher>Jugoslavenska akademija znanosti i umjetnosti</publisher> 
+                        <date when="1956" period="19xx_2_third">1956</date>
+                           <biblScope unit="series">Hrvatski latinisti knj. 4</biblScope>
+                        </imprint>
+                        </monogr>
+                        
+                     </biblStruct>
+                     
+                    <bibl xml:id="benesa-d-2006dmc">
+                              <author>
+                  <ref target="benes01">Beneša, Damjan</ref>
+               </author>
+                              <editor>
+                  <ref target="viaf2726561">Rezar, Vladimir</ref>
+               </editor>
+                              <title xml:lang="lat">
+                  <ref target="benes01-c01-153x">De morte Christi</ref>
+               </title> 
+                              <pubPlace ref="3186886">Zagreb</pubPlace>
+                              <publisher>Ex libris</publisher>
+                              <date when="2006" period="20xx_1_third">2006</date>
+                        </bibl>
+                        <bibl xml:id="benesa-d-dmc">
+                              <author>
+                  <ref target="benes01">Beneša, Damjan</ref>
+               </author>
+                              <editor>
+                  <ref target="viaf2726561">Rezar, Vladimir</ref>
+               </editor>
+                              <editor>
+                  <ref target="jovanovic01">Neven Jovanović</ref>
+               </editor>
+                              <title xml:lang="lat">
+                  <ref target="benes01-c01-153x">De morte Christi, versio electronica</ref>
+               </title> 
+                              <pubPlace ref="3186886">Zagreb</pubPlace>
+                              <publisher>Profil hrvatskog latinizma
+                                    (<orgName xml:lang="hrv">Filozofski fakultet Sveučilišta u Zagrebu</orgName>)</publisher>
+                              <date when="2012" period="20xx_1_third">2012</date>
+                              <relatedItem type="croala.digital.internet">
+                                    <ref type="croala" target="#benesa-d-dmc">CroALa</ref>
+                              </relatedItem>
+                        </bibl>
+                    <biblStruct xml:id="benesa-d-2013spd">
+                      <analytic>
+                        <author>
+                        <ref target="benes01">Beneša, Damjan</ref>
+                      </author>
+                        <editor>
+                          <ref target="viaf2726561">Rezar, Vladimir</ref>
+                        </editor>
+                         <title>
+                     <ref target="benes01-p01-1514">Damianus Benessa Rhacusaeus Ioanni Baptistae Sodorino salutem plurimam dicit [dva pisma].</ref>
+                  </title> 
+                      </analytic>
+                      <monogr>
+                        <title>Colloquia Maruliana XX</title>
+                        <imprint>
+                          <pubPlace ref="3190261">Split</pubPlace>
+                          <date when="2013" period="20xx_1_third">2013</date>
+                        </imprint>
+                        <biblScope>s. 44-47</biblScope>
+                      </monogr>
+                    </biblStruct>
+                     <biblStruct xml:id="rezar-benesa-d-2012">
+                        <analytic>
+                           <author>
+                     <ref type="viaf" target="viaf2726561">Rezar, Vlado</ref>
+                  </author>
+                           <title>
+                     <ref target="benes01-p02-1534">Pisma Damjana Beneše europskim vladarima</ref>
+                  </title> 
+                        </analytic>
+                        <monogr>
+                           <title>Povijesni prilozi</title>
+                           <imprint>
+                              <date when="2012" period="20xx_1_third">2012</date>
+                              <biblScope unit="vol">42</biblScope>
+                              <biblScope unit="pp">191-214</biblScope>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </listBibl>
+              
+              <!-- premjestio digitalno u drugu datoteku -->
+              
+                  <listBibl type="croala.libri.prigodnice">
+                  <biblStruct xml:id="galicid122000">
+                     <monogr>
+                        <author>Anonimno</author>
+                        <title>Carmen excellentissimo … domino l. baron Levino Rauch de Nyék … dum 8. et sequentibus mensis Septembris anni 1869 ad dignitatem banalem sollenissime introduceretur dicatum.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1869" period="18xx_3_third">1869</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid124020">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="buban01">Bubanović, Vasilije</ref>
+                  </author>
+                        <title>Sacra nominis dies excellentissimi viri Josephi baronis Jelačić de Bužin … celebrata … MDCCCL.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1850" period="18xx_2_third">1850</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid127150">
+                     <monogr>
+                        <author>
+                     <ref target="kovacicantun01">Kovačić, Antun</ref>
+                  </author>
+                        <title>Oda altissimis honoribus sacratissimae caesareo regiae apostolicae Majestatis Francisci Josephi I. … nitente festo inaugurationis ejus in regem Hungariae, Dalmatiae, Croatiae et Slavoniae item augustae reginae Elisabethae Buda-Pestini die 8. Junii 1867. a magistratu … civitatis Essek dicata.</title>
+                        <imprint>
+                           <pubPlace ref="3193935">Osijek</pubPlace>
+                           <date when="1867" period="18xx_3_third">1867</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid127613">
+                     <monogr>
+                        <author>
+                     <ref target="kristijanovicd1e928" type="croala">Kristijanović, Alojzije</ref>
+                  </author>
+                        <title>Carmen in memoriam evectae sedis episcopalis Zagrabiensis ad metropolitanam … et solennis installationis excellentissimi … domini Georgii Haulik de Váralya … in archi-episcopum Zagrabiensem et metropolitam die 8. Maji 1853 … ab Aloysio Christianović in lucem editum.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1853" period="18xx_2_third">1853</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid127664">
+                     <monogr>
+                        <author>
+                     <ref target="kristijanovicd1e928" type="croala">Kristijanović, Alojzije</ref>
+                  </author>
+                        <title>Epigramma super symbolo viribus unitis, incolumitati sacrae caesareo regiae et apostolicae Majestatis Francisci Josephi Primi … et a gravi vulnere sacrilega manu Sicarii die 18. Febr. 1853. illato convalescentis … ab Aloysio Christianović … homagiali cum devotione dicatum.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1853" period="18xx_2_third">1853</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129383">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="milasin01">Milašinović, Franjo</ref>
+                  </author>
+                        <title>Carmen pastoritium Daphnidi, excellentissimo … domino Georgio Haulik de Várallya … dum in dignitatem archiepiscopalem cathedralis vero ecclesia Zagrabiensis ad gradum metropolitanae a beatissimo patre Pio IX … VIII. Idus Maji MDCCCLIII. Elevatur in perennem rei memoriam obtulit Franciscus Milašinović.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1853" period="18xx_2_third">1853</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129665">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Carmen epithalamicum in honorem hymenaei suarum maiestatum Francisci Josephi et Elisabethae … in homagiali submissione oblatum.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1854" period="18xx_2_third">1854</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129714">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>In natalem serenissimi archi-ducis Rudolphi imperii Austriaci coronae principis ode.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1858" period="18xx_2_third">1858</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129765">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Piis manibus comitis Josephi Radetzky.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1858" period="18xx_2_third">1858</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129812">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Viro clarissimo doctori Paulo Muhić … ad diem 10. Januarii 1859. reflexe ad obitum filiae eiusdem annos natae 15.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1859" period="18xx_2_third">1859</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129861">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ad excellentissimum … dominum l. b. Josephum Sokčević … dum in banum regnorum Croatiae, Slavoniae et Dalmatiae solenniter installaretur.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1861" period="18xx_2_third">1861</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129901">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Pii sensus eminentissimo … domino Georgio Haulik de Várallya … dum solemnia suarum secunditiarum asservaret profundissiima cum veneratione deprompti.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1861" period="18xx_2_third">1861</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129948">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ad doctorem Andream Gostiša, iurisconsultum banalem ode.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1864" period="18xx_2_third">1864</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid129999">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ad reverendissimum dominum Franciscum Xav. Kallabar. Argumentum: Annus aetatis 70 mus. Itineratio in Carniolia et Italia.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1864" period="18xx_2_third">1864</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130046">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ad excellentissimum … dominum Jos. Georg. Strossmajer … primum munificum fundatorem almae litterarum universitatis Zagrabiensis oblatis in dotem 50. 000 fl.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1866" period="18xx_2_third">1866</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130080">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Piis manibus Georgii Haulik Zagrab. cardinalis archiepiscopi …</title>
+                        <imprint>
+                           <date when="1869" period="18xx_3_third">1869</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130114">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ad Paulum Lentulay de morte filii eius Emilii die 27. Maii 1870. dr. A. M.</title>
+                        <imprint>
+                           <date when="1870" period="18xx_3_third">1870</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130161">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Carmen excellentissimo … domino Josepho Mihalović … dum sacrum Archi-dioecesis Zagrabiensis regimen solenniter auspicaretur profunda cum veneratione oblatum.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1870" period="18xx_3_third">1870</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130197">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ode ad illustrissimum … dominum Georgium Križanić, abbatem et Zagrab. can- custodem … turrim B. M. V. horologio donantem.</title>
+                        <imprint>
+                           <date when="1871" period="18xx_3_third">1871</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130242">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ode augustissimo imperatori Austriae Francisco Josepho I … occasione iubilaris solennitatis super feliciter completis in regimine quinque lustris die 2. Decembris a. 1873. homagiali cum submissione dicata ex Croatia.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1873" period="18xx_3_third">1873</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130293">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Reverendissimo domino Francisco Xav. Kalabar … ad diem onomasticum, una natalem.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1873" period="18xx_3_third">1873</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130344">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Carmen faustis sub auspiciis inauguratae Zagrabiae in regno Croatiae almae litterarum universitati Francisco-Josephinae sacrum die 19. Octobris a. 1874.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1874" period="18xx_3_third">1874</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130395">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Illustri viro Joanni Vončina electo consuli l. r. civitatis Zagrabiensis, suo condam in iure alumno, hacce Latii metri oda congratulatur Antonius Molnar … Zagrabiae mense Decembri 1873.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1874" period="18xx_3_third">1874</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130446">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Ode ad excellentissimum dominum Joannem Mažuranić … regnorum Dalmatiae, Croatiae et Slavoniae benigne neo-nominatum banum sub ingressum in metropolim Croatiae die 27. Septembris 1873.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1874" period="18xx_3_third">1874</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid130493">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="molnard1e1244">Molnár, Antun</ref>
+                  </author>
+                        <title>Spectabili … domino Vladimiro Muhić in c. r. scient. Universitate Graecensi die 19. Januarii a. 1875. laurea doctorali ex iure universo donato, congratulatio.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1875" period="18xx_3_third">1875</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid131837">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="paulicpaulus01">Paulić, Pavao</ref>
+                  </author>
+                        <title>Carmen honoribus admodum reverendi … domini Martini Matunci … dum idem alma, ac celeberrrima universitate Graecensi solenni ritu supremis philosophici doctoratus insignibus condecoratus Zagrabiam redisset … devote oblatum a p. Paulo Paulić.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1860" period="18xx_2_third">1860</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid131888">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="paulicpaulus01">Paulić</ref>
+                  </author>
+                        <title>Carmen epaeneticum quinquaginta distichorum quod in honorem admodum reverendi domini Francisci Xaverii Šindler … dum idem completo felicissime 50mo sacerdotii anno, die 4ta Octobris 1860 in festo s. Francisci seraphici in ecclesia parochiali Kostajnicensi iublaeum solemnissime celebraret, peculiari cum veneratione, et singulari dignissimi viri aestimio obtulit p. Paulus Paulić …</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1860" period="18xx_2_third">1860</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid131935">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="paulicpaulus01">Paulić</ref>
+                  </author>
+                        <title>Almae litterarum universitati Zagrabiensi pientissima vota depromit Paulus Paulić.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1874" period="18xx_3_third">1874</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid135366">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="stoos01">Štoos, Pavao</ref>
+                  </author>
+                        <title>Ode suae sacratissimae caesareo-regiae et apostolicae Maiestati Francisco Josepho I. … dum regnum Croatiae altissime dignaretur invisere in perenne mnemosynon fidelitatis cernue dicata per Paulo Stoos.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1852" period="18xx_2_third">1852</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="galicid135900">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="sveicerjosiprikard01">Šveicer, Josip Rikard</ref>
+                  </author>
+                        <title>In pacem Austriam inter, et Galliam et Sardiniam in urbe Villafranca initam. Cecinit Josephus Richardus Šveicer.</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <date when="1859" period="18xx_2_third">1859</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct>
+                     <monogr>
+                        <author>
+                     <ref target="kovacicantun01">Kovačić, Antonio</ref>
+                  </author>
+                        <title>Grata pagina missionis iesviticae in Slavonia, honori sancti P. Ignatii societatis Iesv institvtoris tertio saecvlari festo, consignata ab Antonio Kovačić, Essekin. presbytero.</title>
+                        
+                        <imprint>
+                           <pubPlace ref="3193935">Essekini</pubPlace>
+                           <publisher>typis Divaldianis</publisher>
+                           <date when="1856" period="18xx_2_third">
+                              <add>1856</add>
+                           </date>
+                           <note>Godina u kronogramu</note>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="primjerak">
+                        <ref type="signatura" target="NSK">NSK Zg RIIF-4o-249</ref>
+                     </relatedItem>
+                  </biblStruct>
+                  <biblStruct xml:id="mazuranic1957bakovic">
+                     <monogr>
+                        <author>
+                           <ref type="viaf" target="mazuranic.viaf17261922">Mažuranić, Ivan</ref>
+                  </author>
+                        <editor role="trl">
+                     <ref type="croala" target="bakovicivan01">Baković Ivan</ref>
+                  </editor>                       
+                        <title>
+                           <ref type="croala.opera" target="mazuranic-bakovic-mors-1957">Mors Smail-agae Čengić = Smrt Smail-age Čengića</ref>
+                        </title>
+                        <imprint>
+                           <publisher>Umnoženo ciklostilom Biskupskog Ordinarijata</publisher>
+                           <date when="1957" period="19xx_2_third">1957</date>
+                           <pubPlace ref="3190261">Split</pubPlace>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="croalavita1516statilic">
+                     <analytic>
+                           <author>
+                     <ref target="niger02">Niger, Toma</ref>
+                  </author>
+                           <title>
+                              <ref target="niger02-epigramma-1516">
+                                 <persName>Thomae Nigri Dalmatae</persName>, protonotarii Apostolici, in piam curam <persName>Ioannis Statilii Traguritae</persName>
+                              </ref>
+                           </title>
+                     </analytic>
+                     <monogr>
+                        <title>Vita beati Ioannis episcopi <expan>et</expan> confessoris Traguriensis <expan>et</expan> eius miracula / [impe[n]nsis reuerendi domini Ioannis Statilii Traguriensis prepositi Vrsien. serenissimi regis Hu[n]gariae secretarii excussa].</title>
+                        <respStmt>
+                           <resp>impensis</resp>
+                           <persName ref="statilic.ivan01">Ioannes Statilius prepositus Ursiensis, serenissimi regis Hungariae secretarius</persName>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Viennae Pannoniae</pubPlace>
+                           <publisher>per Hieronymu[m] Vietorem</publisher>
+                           <date when="1516-06-28" period="15xx_1_third">1516 mense Iunii die 28.</date>
+                        </imprint>
+                        
+                     </monogr>
+                     <note>
+                        Segnatura: A-D4. - Nome dell'autore dall'intitolazione a c. A2r. - Note tipografiche dal colophon a c D4r. - Stemma silografico a c. A2r. - 21 cm. - Esemplare legato con altre 3 opere. - Indice delle opere contenute nel volume miscellaneo sulla risguardia anteriore. - Vecchie collocazioni sul dorso: KK.IV.45; sulla risguardia anteriore: KK.IV.45 e, depennate, KK.IV.39, KK.VI.40, 24, 25, KK.VI.2; e, depennate, sulla carta di guardia anteriore: E.1.12, E.1.15. - Legatura in pergamena su cartoni, tagli sbruffati
+                        [16] c. ; 4°</note>
+                     <note type="other">III * Jurić. Scriptores</note>
+                     <relatedItem type="primjerak">
+                        <ref type="signatura">NSK Zagreb /sine sign./</ref>
+                     </relatedItem>
+                     <relatedItem type="primjerak">
+                        <ref type="signatura"
+                       target="http://clmr.infoteca.it/bw5net/opac.aspx?web=BAUD&amp;SRC=SBAS">Biblioteca Arcivescovile e Bartoliniana di Udine KK.IV.45(4) (inv. 8297)</ref>
+                     </relatedItem>
+                     <relatedItem type="primjerak">
+                        <ref type="signatura"
+                       target="http://opac.casanatense.it/Record.htm?idlist=2&amp;record=10129097124929472799">Biblioteca Casanatense Y X.26 2 (BID: RMLE045823)</ref>
+                     </relatedItem>
+                  </biblStruct>
+               </listBibl>
+               <listBibl type="croala.libri">
+                  <biblStruct xml:id="croala1958bozicevicmarkovic">
+                     <monogr>
+                        <author>
+                     <ref target="bozic01">Božičević Natalis, Franjo</ref>
+                  </author>
+                        <author>
+                     <ref type="viaf" target="viaf109913306">Miroslav Marković</ref>
+                  </author>
+                        <editor>
+                     <ref type="viaf" target="viaf109913306">Miroslav Marković</ref>
+                  </editor>
+                        <title>Pesme Franja Božičevića Natalisa</title>
+                        <imprint>
+                           <pubPlace>Beograd</pubPlace>
+                           <publisher>Naučno delo</publisher>
+                           <date when="1958" period="19xx_2_third">1958</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="croala1952bozicevicmarkovic">
+                     <analytic>
+                        <author>
+                     <ref target="bozic01">Božičević Natalis, Franjo</ref>
+                  </author>
+                        <author>
+                     <ref type="viaf" target="viaf109913306">Miroslav Marković</ref>
+                  </author>
+                        <editor>
+                     <ref type="viaf" target="viaf109913306">Miroslav Marković</ref>
+                  </editor>
+                        <title>
+                     <ref target="bozic02-p01-15xx">Poetae Latini Dalmatae inediti, 1. Franjo Božičević (Franciscus Natalis).</ref>
+                  </title>
+                     </analytic>
+                     <monogr>
+                        <title>Živa antika</title>
+                        <imprint>
+                           <biblScope unit="vol">2</biblScope>
+                           <biblScope unit="no">2</biblScope>
+                           <biblScope unit="pp">289—299</biblScope>
+                           <date when="1952" period="19xx_2_third">1952</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="croala2007boziceviclucin">
+                     <monogr>
+                        <author>
+                     <ref target="bozic01">Božićević, Frano</ref>
+                  </author>
+                        <title>
+                     <ref target="bozic02-p01-15xx">Život Marka Marulića Splićanina, priredio i preveo Bratislav Lučin</ref>
+                  </title>
+                        <editor>
+                     <ref target="viaf5178395" type="viaf">Bratislav Lučin</ref>
+                  </editor>
+                        <imprint>
+                           <pubPlace><placeName type="geonames" ref="3190261">Split</placeName></pubPlace>
+                           <publisher>Književni krug — Marulianum</publisher>
+                           <date when="2007" period="20xx_1_third">2007</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="paladinic2005graciotti">
+                     <monogr>
+                        <editor>
+                     <ref type="viaf" target="viaf79045352">Graciotti, Sante</ref>
+                  </editor>
+                        <author>
+                     <ref type="viaf" target="viaf79045352">Graciotti, Sante</ref>
+                  </author>
+                        <author>
+                     <ref target="paladinipaolo01">Paladino, Paolo</ref>
+                  </author> 
+                        <title>Il petrarchista dalmata Paolo Paladini e il suo canzoniere, 1496.</title> 
+                        <imprint>
+                           <pubPlace ref="3169070">
+                              <placeName type="geonames" ref="3169070">Roma</placeName>
+                           </pubPlace>
+                           <publisher>Il calamo</publisher>
+                           <date when="2005" period="20xx_1_third">2005</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="gundulic1865osmanidesgetaldic">
+                     <monogr>
+                        <author>
+                           <ref target="gundulic.viaf39390411">Gundulić, Ivan</ref>
+                        </author> 
+                        <editor role="trl">
+                           <ref type="croala" target="getald01">Getaldić, Vlaho</ref>
+                        </editor> 
+                     <title>
+                        <ref type="croala.opera" target="gundulic-getaldic-osmanides-1865">Ioannis Francisci Gondulae ... Osmanides a Blasio e baronibus Ghetaldi eius conterraneo latinis versibus expressa</ref>
+                     </title>
+                     <imprint>
+                        <pubPlace ref="3164603">
+                           <placeName type="geonames" ref="3164603">Venetiis</placeName>
+                        </pubPlace>
+                     <publisher>typis Gaspari</publisher>
+                        <date period="18xx_2_third">1865.</date>
+                     </imprint>
+                     </monogr>
+                     <relatedItem type="croala.digital">
+                        <ref type="internet" target="http://catalog.hathitrust.org/Record/008398703">Hathi Trust</ref>
+                     </relatedItem>
+                  </biblStruct>
+                  
+                  <biblStruct xml:id="dantegetaldic1864ugolino">
+                     <analytic>
+                        <author>
+                           <ref target="dante.viaf97105654">Alighieri, Dante</ref>
+                        </author> 
+                        <editor role="trl">
+                           <ref type="croala" target="getald01">Getaldić, Vlaho</ref>
+                        </editor> 
+                        <title>
+                           <ref type="croala.opera" target="dante-getaldic-ugolino-1865">Morte del conte Ugolino... versione inedita del vivente Biagio barone de' Ghetaldi nobile di Ragusa</ref>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <editor>
+                           <ref target="viaf89276480">Alessandro Piegadi</ref>
+                        </editor>
+                        <title>
+                           Morte del conte Ugolino, quadro di messer Dante Allighieri, ritratto in metro latino dal giovane Messicano Uguccione Nonvrai e da altri sei celebri autori...
+                        </title>
+                        <imprint>
+                           <pubPlace ref="3164603">
+                              <placeName type="geonames" ref="3164603">Venezia</placeName>
+                           </pubPlace>
+                           <date period="18xx_2_third">1864</date>
+                        </imprint>
+                        <biblScope unit="pp">55-61</biblScope>
+                     </monogr>
+                     <relatedItem type="croala.digital">
+                        <ref type="gbs" target="http://books.google.de/books?id=uhtcAAAAQAAJ">Google Books id uhtcAAAAQAAJ</ref>
+                     </relatedItem>
+                  </biblStruct>
+                  
+                  <biblStruct xml:id="morettiposlanicerittera2014">
+                     <monogr>
+                        <author>Moretti, Violeta</author>
+                        <title>Jezik i stil latinskih pjesničkih poslanica Pavla Rittera Vitezovića: doktorska disertacija.</title>
+                        <note>PhD diss.,  Filozofski fakultet Sveučilišta u Zagrebu,</note>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace>
+                           <publisher>Moretti, Violeta</publisher> 
+                           <date period="20xx_1_third">2014.</date>
+                  </imprint>
+                     </monogr>
+                     <note>Uključuje kritičko izdanje poslanica.</note>
+                  </biblStruct>
+                  <biblStruct xml:id="novakoviccrijevic2004">
+                    <analytic>
+                       <author>
+                          <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                       </author> 
+                       <editor role="edit">
+                          <ref type="viaf" target="novakovic.viaf22180722">Novaković, Darko</ref>
+                       </editor>
+                    <title>Autografi Ilije Crijevića (I): Vat. lat. 1678</title>
+               </analytic>
+                    <monogr>
+                       <title>Hrvatska književna baština, knjiga 3</title>
+                       <imprint>
+                          <pubPlace ref="3186886">Zagreb</pubPlace> 
+                          <date period="20xx_1_third">2004</date>
+                       </imprint>
+                       <biblScope unit="pp">str. 9–251</biblScope>
+                    </monogr>
+                  </biblStruct>
+                  
+                  <biblStruct xml:id="hegedusanalecta1906">
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>IV. Ceruini (Aelii Lampridii) Oratio funebris in Regem Matthiam</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>V. Ceruini (Aelii Lampridii) Epistolae ad Regem Ladislaum</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>VI. Ceruini (Aelii Lampridii) Carmen ad Regem Vladislaum</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>VII. Ceruini (Aelii Lampridii; Annunciatio Virginis Deiparae ad Regem Vladislaum</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>VIII. Ceruini (Aelii Lampridii) Carmen Ad Regem Vladislaum</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>IX. Ceruini (Aelii Lampridii) Funebris oratio in Sorgium auunculum suum</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>X. Ceruini (Aelii Lampridii) Epistolae ad episcopum Varadiensem</title>
+                     </analytic>
+                     <monogr>
+                        <editor>
+                     <ref type="viaf" target="viaf23816413">István Hegedüs</ref>
+                  </editor>
+                        <title>Analecta recentiora ad historiam renascentium in Hungaria litterarum spectantia, iussu Academiae Scientiarum Hungaricae, ex variis fontibus hausta cum commentariis edidit Stephanus Hegedüs</title>
+                        <imprint>
+                           <pubPlace>Budapestini</pubPlace>
+                           <publisher>Typis V. Hornyánszky</publisher>
+                           <date period="19xx_1_third">1906</date>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="croala.digital">
+                        <ref type="internet"
+                       target="http://archive.org/details/analectarecentio00hegeuoft">Archive.org</ref>
+                     </relatedItem>
+                  </biblStruct>
+                  
+                  <biblStruct xml:id="skuncaaeliuslampridius1971">
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>1. Ex Cervini oratione in obitum Martuli Zamagnae</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>2. Ex Cervini oratione in obitum Ioannis Gotii</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>3. Cervini epistola ad quendam abbatem Ragusinum de inscriptione Croatica a porticu curiae Ragusinae amovenda</title>
+                     </analytic>
+                     <analytic>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>4. Cervini praelectio ad Vergilium</title>
+                     </analytic>
+                     <monogr>
+                        <author>
+                     <ref type="viaf" target="viaf305483260">Škunca, Stanislaus</ref>
+                  </author>
+                        <title>Aelius Lampridius Cervinus, poeta Ragusinus <add>saec. XV</add>
+                  </title>
+                        <imprint>
+                           <pubPlace>Romae</pubPlace>
+                           <publisher>Ed. francescane</publisher>
+                           <date period="19xx_3_third">1971</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  
+                  <biblStruct xml:id="nevenicgrabovacpaolidzamanjic1980">
+                     <analytic>
+                        <author>
+                           <ref type="viaf" target="307180572">Nevenić-Grabovac, Darinka</ref>
+                  </author>
+                        <author>
+                           <ref type="croala" target="crije02">Crijević, Ilija</ref>
+                        </author>
+                        <title>Ovenčani pesnik Ilija Crijević drži posmrtno slovo Dubrovkinji Paoli Džamanjić.</title>
+                     </analytic>
+                     <monogr>
+                        <title>Živa antika</title>
+                        <imprint>
+                           <date period="19xx_3_third">1980</date>
+                           <biblScope unit="vol">30</biblScope>
+                           <biblScope unit="pp">205–215</biblScope>
+                        </imprint>
+                     </monogr>
+                     
+                  </biblStruct>
+                  
+                  <biblStruct xml:id="gortansizgoric1966">
+                     <monogr>
+                        <author>
+                     <ref type="croala" target="sizgo01">Šižgorić Šibenčanin, Juraj</ref>
+                  </author>
+                        <editor role="edit">
+                     <ref type="viaf" target="gortan.viaf71418226">Veljko Gortan</ref>
+                  </editor>
+                        <editor role="trl">
+                     <ref type="viaf" target="sop.viaf14783034">Nikola Šop</ref>
+                  </editor>
+                        <title>Elegije i pjesme</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace> 
+                           <publisher>Jugoslavenska akademija znanosti i umjetnosti</publisher>
+                           <date period="19xx_2_third">1966</date>
+                           <biblScope ana="series">Hrvatski latinisti; knj. 6</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="gundulic1827osmanide">
+                     <analytic>
+                        <author>
+                     <ref type="viaf" target="39390411">Gundulić, Ivan</ref>
+                  </author>
+                        <editor role="trl">
+                           <ref target="zama01">Zamanja, Bernard</ref>
+                        </editor>
+                        <title xml:lang="lat">
+                     <ref type="croala" target="zama01-c31-1820">Osmanidos fragmentum</ref>
+                  </title>
+                     </analytic>
+                     <monogr>
+                        <author>
+                     <ref type="viaf" target="39390411">Gundulić, Ivan</ref>
+                  </author>
+                        <title>Versione libera dell'Osmanide poema illirico di Giovanni Fr.co Gondola Patrizio di Ragusa</title>
+                        <imprint>
+                           <pubPlace ref="3201047">Dubrovnik</pubPlace> 
+                           <publisher>Martecchini</publisher>
+                           <date period="18xx_1_third">1827</date>
+                           <biblScope unit="pp">24-25</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="mazuranic1895pjesme">
+                     <analytic>
+                        <author>
+                           <ref type="viaf" target="mazuranic.viaf17261922">Mažuranić, Ivan</ref>
+                        </author>
+                        <title xml:lang="hrv">
+                     <ref type="croala" target="mazuranic-i-kukuljevic-1837">
+                           U slavu Antunu Kukuljeviću. 
+                           (Prigodom, kad bje imenovan vrhovnim ravnateljem hrvatskih škola) </ref>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <author>
+                           <ref type="viaf" target="mazuranic.viaf17261922">Mažuranić, Ivan</ref>
+                        </author>
+                        <editor role="trl">
+                           <ref type="viaf" target="mazuranic.viaf74230808">Vladimir Mažuranić</ref>
+                        </editor>
+                        <title>Pjesme Ivana Mažuranića</title>
+                        <imprint>
+                           <pubPlace ref="3186886">Zagreb</pubPlace> 
+                           <publisher>Tiskarski zavod "Narodnih novina"</publisher>
+                           <date period="18xx_3_third">1895</date>
+                           <biblScope unit="pp">209-222</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="novakovicepistolarij2012">
+                     <analytic>
+                        <author>
+                     <ref type="viaf" target="22180722">Novaković, Darko</ref>
+                  </author>
+                        <title>Epistolarij nadbiskupa Maffea Vallaressa kao vrelo za povijest hrvatskoga humanizma</title>
+                     </analytic> 
+                     <monogr>
+                        <editor>
+                     <ref type="viaf" target="6913774">Jovanović, Neven</ref>
+                  </editor>
+                        <editor>
+                     <ref type="viaf" target="19938488">Jozić, Branko</ref>
+                  </editor>
+                        <editor>
+                     <ref type="viaf" target="10094940">Gálvez, Francisco Javier Juez</ref>
+                  </editor>
+                        <editor>
+                     <ref type="viaf" target="5178395">Lučin, Bratislav</ref>
+                  </editor>
+                           <title>Colloquia Maruliana XXI: knjige i čitatelji u hrvatskoj renesansi</title>
+                        <imprint>
+                           <pubPlace><placeName type="geonames" ref="3190261">Split</placeName></pubPlace>
+                           <publisher>Književni krug - Marulianum</publisher>
+                           <date when="2012" period="20xx_1_third">2012</date>
+                           <biblScope unit="pp" from="5" to="24">s. 5-24.</biblScope>
+                        </imprint>
+               </monogr>
+                     <relatedItem type="digitalizat">
+                        <ref type="internet"
+                       target="http://hrcak.srce.hr/index.php?show=clanak&amp;id_clanak_jezik=118250">Hrčak</ref>
+                     </relatedItem>
+                     <note ana="addedby">
+                        <persName type="bibliographer">
+                     <ref type="viaf" target="6913774">Jovanović,
+                           Neven</ref>
+                  </persName>
+                        <date when="2014-10-09" period="20xx_1_third">2014-10-09</date>
+                     </note>
+                  </biblStruct>
+                  <biblStruct xml:id="jelic-regestum-starine29-1898">
+                     <analytic>
+                  <title level="a">Johannes Sobotae Mapheo archiepiscopo Hyadrensi, Venetiis,
+                        <date when="1451-06-28" period="14xx_2_third">die 28. Junii a. 1451.</date>
+                  </title>
+                     <author>Ivan
+                        Sobota</author>
+                     </analytic>
+                     <analytic>
+                        <editor>L. Jelić</editor>
+                     <title level="a"> Regestum
+                        litterarum zadarskoga nadbiskupa Mafeja Vallaressa (1449 do 1496 god.)
+                     </title>
+               </analytic>
+                     <monogr>
+                        <title level="s">Starine JA</title> 
+                        <imprint>
+                           <biblScope unit="vol">29</biblScope> 
+                           <biblScope unit="pp">str. 33—94.</biblScope>
+                           <date when="1898" period="18xx_3_third">1898</date>
+                     </imprint>
+                     </monogr>
+                     <note>Izdanje na s. 44--45, 48 prema rkp. Cod. Barb. XXIX, 153 (Rim)</note>
+                  </biblStruct>
+            <biblStruct xml:id="rackiprilozi1867rad">
+               <analytic>
+                  <editor>Rački, Franjo</editor>
+                  <title level="a">Prilozi za sbirku srbskih i bosanskih listina</title>
+               </analytic>
+               <monogr>
+
+                  <title level="s">Rad JAZU</title>
+                  <imprint>
+                     <biblScope unit="vol">Vol. 1</biblScope>
+                     <date when="1867" period="18xx_3_third">1867</date>
+                     <biblScope unit="pp">s. 151-155</biblScope>
+                  </imprint>
+
+               </monogr>
+               <note>Iz rukopisa knjižnice kneza Chigia u Rimu. Cod. misc. saec. XV. chart. J. VI.
+                  215.</note>
+               <note>18. God. 1453—1455. U Trogiru. Pet listova Ivana Sobote, Trogiranina, o
+                  suvremenih dogodjajih u Srbiji, Bosni i Hrvatskoj.</note>
+            </biblStruct>
+                  <biblStruct> 
+               <analytic>
+                     <author>Segarizzi, Arnaldo</author>
+                     <title>Sei lettere di Giovanni Sobota</title>
+               </analytic> 
+                     <monogr>
+                  <title>Pagine istriane</title>
+                        <imprint>
+                     <biblScope unit="vol">3</biblScope>
+                     <date when="1905" period="19xx_1_third">1905</date>
+                           <biblScope unit="issue">3</biblScope>
+                           <biblScope unit="pp">55-59</biblScope>
+                           </imprint>
+                     </monogr> 
+                     <note>Posljednje pismo br. 6 na s. 59</note>
+                  </biblStruct>
+                  <biblStruct xml:id="brlicpismasinu1942">
+                     <monogr>
+                        <author>
+                           <ref type="croala" target="brlic01">Ignjat Alojzije Brlić</ref>
+                        </author>
+                        <editor>
+                     <ref type="viaf" target="2802046">Ivan Brlić</ref>
+                  </editor>
+                        <title>
+                     <ref type="croala" target="brlic-ia-epist-1837-10-22">Pisma sinu Andriji Torkvatu 1836-1855</ref>
+                  </title>
+                        <imprint>
+                           <pubPlace ref="3186886">
+                        <ref type="geonames" target="3186886">Zagreb</ref>
+                     </pubPlace>
+                           <publisher>Izd. Hrvatskog bibliografskog zavoda</publisher>
+                           <date when="1942" period="19xx_2_third">1942</date>
+                           <biblScope unit="vol">Sv. 1</biblScope>
+                           <biblScope unit="pp">s. 21--23</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </listBibl>
+            </body>
+      </text>
+</TEI>

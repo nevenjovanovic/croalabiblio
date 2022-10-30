@@ -1,0 +1,3541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+                  <titleStmt>
+                        <title>Hrvatski latinisti u Kristelleru, digitalna verzija</title>
+                        <author>Darko Novaković</author>
+                     <author>P. O. Kristeller</author>
+                     <respStmt>
+                        <resp>Digitalna verzija:</resp>
+                        <name>Tamara Runjak</name>
+                        <name xml:id="NJ">Neven Jovanović</name>
+                     </respStmt>
+                  </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>Veljača 2012.</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma,
+                    (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>Veljača
+                2012</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Kristeller, Iter Italicum</bibl>
+               <bibl>Novaković, excerpta ex Kristeller, Iter Italicum</bibl>
+            </sourceDesc>
+
+        </fileDesc>
+        
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2011-06-02</date>
+                Početna verzija.
+            </change>
+            
+        </revisionDesc>
+
+    </teiHeader>    
+<text>
+      <body>
+            <!-- Kristeller / Novaković -->
+         <msDesc xml:id="it-pa-bibsem-83">
+            <msIdentifier>
+               <placeName>Padova</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca del Seminario</institution>
+               <idno>83</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Ancient inscriptions</summary>
+               <msItem>
+                  <author>
+                  <ref target="benja02">Georgius Begna</ref></author>
+                  <title>Pismo Ciriacu d'Ancona</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>misc. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 8, br. 83.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-pa-bibsem-86">
+            <msIdentifier>
+               <placeName>Padova</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca del Seminario</institution>
+               <idno>86</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Ancient inscriptions</summary>
+               <msItem>
+                  <author>
+                     <ref target="janpan01">Janus Pannonius</ref></author>
+                  <title>Pjesma Franc. Barbaru</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 8, br. 86.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-pa-bibsem-19">
+            <msIdentifier>
+               <placeName>Padova</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca del Seminario</institution>
+               <idno>19</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Hieronymi Bononii Tarvisini Candidae</summary>
+               <msItem>
+                  <locus>Book V to Paulus Pisanus</locus>
+                  <author>
+                     Hieronymus Bononius Tarvisinus</author>
+                  <title>Pjesma, adresat <persName>Hier. Tragurinus</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>Book V to Paulus Pisanus</locus>
+                  <author>
+                     Hieronymus Bononius Tarvisinus</author>
+                  <title>Pjesma, adresat <persName>Hier. Aspalatensis</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. Old. binding. Fols. not numbered. Perhaps autograph.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV-XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 11, br. 19.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-pa-bibuni-439">
+            <msIdentifier>
+               <placeName>Padova</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Universitaria</institution>
+               <idno>439</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Leon. Perusinus monachus Casinensis, elegiae</summary>
+               <msItem>
+                  <title>Pjesma, adresat <persName>Jo. Maria Dalmata</persName></title>
+               </msItem>
+               <msItem>
+                  <author>Leon. Perusinus</author>
+                  <title>carmina de renovatione Ordinis monastici, adresat <persName>Jo. Dalmata</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 13, br. 439.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-par-bibpal-109">
+            <msIdentifier>
+               <placeName>Parma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Palatina</institution>
+               <idno>Pal. 109</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Collection of Rime</summary>
+               <msItem>
+                  <author>Ant. degli Alberti</author>
+                  <title>Stihovi</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 236 fols.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 34, br. Pal. 109.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-par-bibpal-1022">
+            <msIdentifier>
+               <placeName>Parma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Palatina</institution>
+               <idno>Pal. 1022. fasc. 9</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Lettere di prelati ed altri raccolte da Lod. Beccadelli (Carteggio Beccadelli)</summary>
+               <msItem>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+               <title>Pisma Elija Lampridija</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc. Pal. 1018-1033. This group of mss. ... forms part of the Beccadelli collection (Pal. 972-1032), which consists partly of Beccadelli's own writings, partly of other
+               material that belonged to him</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 39, Pal. 1022. fasc. 9</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-per-bibcomaug-c61">
+            <msIdentifier>
+               <placeName>Perugia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Comunale Augusta</institution>
+               <idno>C 61</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                 <locus>fol. 33v-35</locus>
+                  <author>Martianus Nimiraeus</author>
+                  <title>Stihovi</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 129 fols.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV ex.-XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 54, C 61.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="croala.ms.it.perugia.bibcomaug.g99">
+            <!-- dopunjeno prema Juriću -->
+            <msIdentifier>
+               <placeName>Perugia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Comunale Augusta</institution>
+               <idno>G 99</idno>
+               <msName>Nicolaus Petreius. Litterae, sermones, carmina</msName>
+            </msIdentifier>
+            <msContents>
+               <summary>Nic. Petreius Corcyraeus letters, orations and poems</summary>
+               <msItem class="poesis-epigramma">
+                  <locus>I. a</locus>
+                  <incipit type="versus-hexameter">Qui capit uxorem defuncta uxore secundam</incipit>
+                  <explicit type="versus-pentameter">naufragus in tumido bis natat ille freto</explicit>
+                  
+               </msItem>
+               <msItem class="poesis-epigramma">
+                  <locus>I. a</locus>
+                  <incipit type="versus-elegiacum">Haec Venus ad Musas: Me siccine temnitis? Atqui
+                  tela acuens saxo Filius ultor erit.
+                  </incipit>
+                  
+                  <explicit type="versus-elegiacum">Cui Musae: has stolido nugas dic, Cypria, Marti
+                  in nos namque tuus non habet arma Puer.
+                  </explicit>
+                  
+               </msItem>
+               <msItem class="prosa-epistula">
+                  <locus>1-4a</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title><ref target="croala.opera.petrov01.epist.614381" type="croala.opera">Pismo, adresat <persName>Marinus Georgius</persName><date>1527</date></ref></title>
+                  <incipit type="prosa-epistula">Nicolaus Petreius Cor. praestantissimo senatori Marino Georgio Veneto, liberalium artium philosophiae consultissimo S. D.</incipit>
+                  <explicit>Venetiis, <date when="1526-10-26">XXVI Octobris MDXXVI.</date></explicit>
+                  <filiation>
+                     <note>Prijepis posvete objavljene u prijevodu Aristotela, De animalium generatione i Filoponovih Komentara (Mleci, 1526).</note>
+                  </filiation>
+               </msItem>
+               <msItem class="prosa-epistula">
+                  <locus>4a-4b</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title ref="croala.opera.petrov01.epist.15270304" type="croala.opera">Pismo, adresat <persName>Petar Alcioni</persName> (Rim); Mleci, <date>4. ožujka 1527</date></title>
+                  <incipit type="prosa-epistula">Nicolaus Petreius Petro Alcyonio suo S. D. Cum sepenumero Petre doctissime de eruditis saeculi nostri</incipit>
+                  <explicit>usque quaque existimare poteris. Vale. Venetiis, <date when="1527-03-04">Ter. Non. Martias MDXXVII</date></explicit>
+                  <bibl>
+                     Jurić, s. 131.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-epistula">
+                  <locus>5a-5b</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title ref="croala.opera.petrov01.epist.15271001">Pismo, adresat <persName>Ivan Statilić</persName> (biskup erdeljski); Rim, <date>1. listopada <sic>1527</sic></date></title>
+                  <incipit type="prosa-epistula">Nicolaus Petreius Joanni Statilio episcopo Transilvanensi S. D. Cum saepenumero, Pater amplissime, cum episcopo Dumnensi familiari tuo</incipit>
+                  <explicit>Venetiis, <date when="1526-10-26">Regique tuo principi omnium virtutum genere <del/> commendatissimum reddas. Vale. Ex Vrbe Calendis Octobris <sic>MDXXXVII</sic>.</date></explicit>
+                  <bibl>
+                     Jurić, s. 131-132.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>5a-8a</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr" ref="croala.opera.petrov01.oratio.1538">Pozdravni govor dubrovačkom senatu; Dubrovnik, <date>1538</date></title>
+                  <title xml:lang="la">Nicolai Petrei oratio salutatoria Ad Rhagusinum senatum cum primum se ad illorum Vrbem contulit.
+                  </title>
+                  <incipit type="prosa-oratio">Isocrates ille, unus ex ea insigni Rhetorum decade, qui eius tempestate Athenis floruerunt, magnifici prestantesque domini, ad instituendos mores adolescentium per quos in praeclaros euadere uiros, ac bene beateque uiuere posset celeberrimus, in illa, quam ad Demonicum Hipponici filium hortatoriam orationem perscripsit</incipit>
+                  <explicit type="prosa-oratio">Et ne me illis aliqua ex parte inferiorem praebeam, cura, fide, amore, atque diligentia quibus maxime fieri poterit, optimos quosque autores tum Graecę, tum Latinae linguae euoluendo, quibus pluribus annis operam non segne dedi pro uirili <add resp="auctor">explicare</add> impensissime nitar. Quod et Vrbi huic uestrae praestantissimae, ac <add resp="auctor">omnibus eius</add> Ciuibus, mihique ipsi, Dei optimi Maximi, benignitate fauore atque gratia foelix, faustumque eueniat precor. Dixi.</explicit>
+                  <bibl>
+                     Jurić, s. 132-133.
+                  </bibl>
+                  <bibl type="internet">CroALa</bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>8b-17b</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr">Govor Nikole Petrovića Korčulanina pred dubrovačkim senatom, u svoje ime i u ime svojih drugova, protiv Marija De Fabriciis iz Pesara, Ćora, zbog trovanja.</title>
+                  <title xml:lang="la">Nicolai Petrei Corcyraei oratio in Marium De Fabriciis Pisauriensem Monoculum ad Rhagusinum senatum pro se et sodalibus de veneficio
+                  </title>
+                  <incipit type="prosa-oratio">Nescio quo fato id mihi accidat, <unclear>praestantissimi</unclear> patres, ut pluribus abhinc annis in ipsa Vrbe Roma, in studiis bonarum artium assidue uersato, </incipit>
+                  <explicit type="prosa-oratio">Tum exemplo cauebitis in posterum nullum in toto orbe locum esse in quo minus sceleri, improbitati, audatiae quam in hac uestra Vrbe esse impune liceat.</explicit>
+                  <bibl>
+                     Jurić, s. 133-135.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>17b-20a</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr" ref="croala.opera.petrov01.oratio.cena.1539">Govor na Tijelovo; govorio jedan od učenika, vlastelin, u hramu pred biskupom, senatom i narodom.</title>
+                  <title xml:lang="la" ref="croala.opera.petrov01.oratio.cena.1539">Oratio in coena domini. Puer unus ex discipulis nobilis de more in templo coram episcopo ac senatu et populo habuit.
+                  </title>
+                  <docDate>1539.</docDate>
+                  <incipit type="prosa-oratio">Agnus ille <sic>inocens</sic>, Deus</incipit>
+                  <explicit type="prosa-oratio">et in futuro uitam aeternam; qui uiuit et regnat in aeterna saecula. Amen. Dixi.</explicit>
+                  <bibl>
+                     Jurić, s. 135-136.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>20a-22b</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr" ref="croala.opera.petrov01.oratio.cena.1540">Govor na Tijelovo; govorio jedan od učenika, vlastelin, u hramu pred biskupom, senatom i narodom.</title>
+                  <title xml:lang="la" ref="croala.opera.petrov01.oratio.cena.1540">Oratio in coena domini. post pedum lotione ut superior habita.
+                  </title>
+                  <docDate>1540.</docDate>
+                  <incipit type="prosa-oratio">Dominus noster Iesus qui pro nobis humilis factus </incipit>
+                  <explicit type="prosa-oratio">cum deo patre et uiuificante spiritu in sempiterna saecula. Amen.</explicit>
+                  <bibl>
+                     Jurić, s. 135-136.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>22b-25a</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr" ref="croala.opera.petrov01.oratio.cena.1541">Govor na Tijelovo; govorio jedan od učenika, vlastelin, u hramu pred biskupom, senatom i narodom.</title>
+                  <title xml:lang="la" ref="croala.opera.petrov01.oratio.cena.1541">Oratio in coena domini per puerum nobilem in eodem loco ut superiores habita.
+                  </title>
+                  <docDate>1541.</docDate>
+                  <incipit type="prosa-oratio">Annua Dei et seruatoris nostri Jesu Christi passionis memoria qua admirabile salutis nostrae mysterium recolimus</incipit>
+                  <explicit type="prosa-oratio">Cuius est gloria, regnum et potestas cum Deo patre et uiuificante spiritu per aeterna saecula saeculorum. Dixi.</explicit>
+                  <bibl>
+                     Jurić, s. 135-136.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>25b-28a</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr" ref="croala.opera.petrov01.oratio.cena.1542">Govor na Tijelovo; govorio jedan od učenika, vlastelin, u hramu pred biskupom, senatom i narodom.</title>
+                  <title xml:lang="la" ref="croala.opera.petrov01.oratio.cena.1542">Oratio in coena domini. Puer nobilis ex discipulis de more habuit.
+                  </title>
+                  <docDate>1542.</docDate>
+                  <incipit type="prosa-oratio">Quanta sint clementissimi dei quę in genus humanum contulit beneficia</incipit>
+                  <explicit type="prosa-oratio">ipsumque in coelesti regno inter beatissimos illos spiritus cum unigenito filio ac uiuificante spiritu glorificemus per aeterna saecula saeculorum. Dixi.</explicit>
+                  <bibl>
+                     Jurić, s. 135-136.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>28a-31a</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr" ref="croala.opera.petrov01.oratio.cena.1543">Govor na Tijelovo; govorio jedan od učenika, vlastelin, u hramu pred biskupom, senatom i narodom.</title>
+                  <title xml:lang="la" ref="croala.opera.petrov01.oratio.cena.1543">Oratio in coena domini Rhagusii per puerum habita ut alię.
+                  </title>
+                  <docDate>1543.</docDate>
+                  <incipit type="prosa-oratio">Si mihi hodierna die, sacratissime passionis Christi seruatoris</incipit>
+                  <explicit type="prosa-oratio">et in futuro uitam aeternam, qui uiuit et regnat per aeterna saecula. Amen</explicit>
+                  <bibl>
+                     Jurić, s. 135-136.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>31a-34b</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr" ref="croala.opera.petrov01.oratio.cena.1545">Govor na Tijelovo; govorio jedan od učenika, vlastelin, u hramu pred biskupom, senatom i narodom.</title>
+                  <title xml:lang="la" ref="croala.opera.petrov01.oratio.cena.1545">Oratio in coena domini Rhagusii habita per puerum ut aliae.
+                  </title>
+                  <docDate>1545</docDate>
+                  <incipit type="prosa-oratio">Cum Deus omnium rerum opifex</incipit>
+                  <explicit type="prosa-oratio">cum quo est patri et spiritui sancto gloria, imperium, et honor, nunc, et semper, et in aeterna saecula Amen. Dixi.</explicit>
+                  <bibl>
+                     Jurić, s. 135-136.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-oratio">
+                  <locus>35a-38a</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr">Pozdravni govor u ime senata i svega naroda javno održan prigodom dolaska dubrovačkog nadbiskupa Pamfilija Trasoldija (Strassolda)</title>
+                  <title xml:lang="la">Oratio salutatoria in adventu Pamphilii Trasoldi, archiepiscopi Rhagusini pro Rhagusino senatu ac universo populo publice habita
+                  </title>
+                  <docDate>1544</docDate>
+                  <incipit type="prosa-oratio">Isocrates ille, unus ex ea insigni rhetorum decade qui eius tempestate Athenis floruerunt, reuerendissime Antistes</incipit>
+                  <explicit type="prosa-oratio">Vti res publica haec tanti pastoris ope adiuta praua omnium hostium suorum consilia deuitare queat utque in longissima saecula uerae Christianae religionis praecepta sectando foelici suarum rerum incremento promoueatur. Dixi.</explicit>
+                  <bibl>
+                     Jurić, s. 136-137.
+                  </bibl>
+               </msItem>
+               <msItem class="prosa-epistula">
+                  <locus>38a-39b</locus>
+                  <author ref="petrov01"><ref target="petrov01">
+                     <name xml:lang="hr">Petrović, Nikola</name>
+                     <persName xml:lang="la">Nic. Petreius Corcyraeus</persName>
+                     <date from="1486-01-15" to="1568-04-16">1486-01-15 – 1568-04-16</date></ref>
+                  </author>
+                  <title xml:lang="hr">Pozdravni govor u ime senata i svega naroda javno održan prigodom dolaska dubrovačkog nadbiskupa Pamfilija Trasoldija (Strassolda)</title>
+                  <title xml:lang="la">Nicolaus Petreius Gulielmo Pellicerio episcopo <corr resp="#NJ">Monspesulano regio apud</corr> Venetos oratori S. P. D.
+                  </title>
+                  <docDate>1540-03-10</docDate>
+                  <incipit type="prosa-epistula">Ex literis tuis quas nuper ad me dederas maximam coepi uoluptatem</incipit>
+                  <explicit type="prosa-epistula">expectabo quod apud me semper pro lapide Lydio futurum est. Vale et me ut soles ama. Ragusii VI Idus Martias MDXL</explicit>
+                  <bibl>
+                     Jurić, s. 137-138.
+                  </bibl>
+               </msItem>
+               <msItem class="poesis">
+                  <locus>fol. 40v</locus>
+                  <author><ref target="petrov01">Nic. Petreius Corcyraeus</ref></author>
+                  <note>46 heksametara</note>
+                  <title>Pjesma, adresat <persName>M. A. Flaminius</persName></title>
+                  <title xml:lang="la">Ad <persName>Marcum Antonium Flaminium</persName> Epistola</title>
+                  <docDate>1529</docDate>
+                  <docImprint><placeName>Venetiis</placeName></docImprint>
+                  
+                  <incipit type="poesis-epistula-hexameter">Etsi me placido sedes Muriana recessu</incipit>
+                  <explicit type="poesis-epistula-hexameter">Qui melius faueant dominos seruate fideles</explicit>
+                  <bibl>
+                     Jurić, s. 138-139. (Greške: nije elegijski distih)
+                  </bibl>
+               </msItem>
+               <msItem class="poesis">
+                  <locus>fol. 40b-41a</locus>
+                  <author><ref target="petrov01">Nic. Petreius Corcyraeus</ref></author>
+                  <note>14 stihova, elegijski distih</note>
+                  <title xml:lang="la">Ad <persName>Laurentium Saluiatum</persName> abscentem</title>
+                  <docDate>1530.</docDate>
+                  <docImprint>Ex <placeName>Patauio</placeName></docImprint>
+                  
+                  <incipit type="poesis-epistula-elegiacum">Qui cupiunt, illos (Siculi est sententia Vatis)</incipit>
+                  <explicit type="poesis-epistula-elegiacum">Vultus erit tanti gratia blanda tui.</explicit>
+                  <bibl>
+                     Jurić, s. 139.
+                  </bibl>
+               </msItem>
+               <msItem class="poesis">
+                  <locus>fol. 41a</locus>
+                  <author><ref target="petrov01">Nic. Petreius Corcyraeus</ref></author>
+                  <note>12 stihova, elegijski distih</note>
+                  <title xml:lang="hr">Odličnoj <persName>Juliji Gonzaga</persName></title>
+                  <title xml:lang="la">In illustrem <persName>Iuliam Gonzagam</persName></title>
+                  <docDate>1531.</docDate>
+                  <docImprint><placeName>Romae</placeName></docImprint>
+                  
+                  <incipit type="poesis-epigramma-elegiacum">Iret dum uisum tanta monumenta ruinae</incipit>
+                  <explicit type="poesis-epigramma-elegiacum">Te quicumque feri Iulia terga premit.</explicit>
+                  <bibl>
+                     Jurić, s. 139-140.
+                  </bibl>
+               </msItem>
+               <msItem class="poesis">
+                  <locus>fol. 41a</locus>
+                  <author><ref target="petrov01">Nic. Petreius Corcyraeus</ref></author>
+                  <note>6 stihova, elegijski distih</note>
+                  <title xml:lang="hr">O prstenu, daru prijateljice <persName>Aleksija Gonzaga</persName>: dva oka prirodno nastala u kamenu ahatu.</title>
+                  <title xml:lang="la">In anulum <persName>Alexsii Gonzagę</persName> amicę munus. In Acate lapide duo oculi Natura expressi</title>
+                  <docImprint><placeName>Romae</placeName></docImprint>
+                  
+                  <incipit type="poesis-epigramma-elegiacum">Quae mihi tunc primum uiso te lumina traxit</incipit>
+                  <explicit type="poesis-epigramma-elegiacum">Expertus cupidi gaudia cordis erit.</explicit>
+                  <bibl>
+                     Jurić, s. 139-140.
+                  </bibl>
+               </msItem>
+               <msItem class="poesis">
+                  <locus>fol. 41b</locus>
+                  <author><ref target="petrov01">Nic. Petreius Corcyraeus</ref></author>
+                  <note>12 stihova, elegijski distih</note>
+                  <title xml:lang="hr">Ptici <persName>Julije Gonzage</persName> koja se izvrgla nasilnoj smrti.</title>
+                  <title xml:lang="la">In avem <persName>Iuliae Gonzagae</persName> <foreign xml:lang="grc">βιοθάνατον</foreign></title>
+                  <docImprint><placeName>Romę</placeName></docImprint>
+                  
+                  <incipit type="poesis-epigramma-elegiacum">Dum clausam uarius uirgarum continet ordo</incipit>
+                  <explicit type="poesis-epigramma-elegiacum">Credidimus. certi nunc sumus esse Deam.</explicit>
+                  <bibl>
+                     Jurić, s. 139-140.
+                  </bibl>
+               </msItem>
+               <msItem class="poesis">
+                  <locus>fol. 41b-42a</locus>
+                  <author><ref target="petrov01">Nic. Petreius Corcyraeus</ref></author>
+                  <note>18 stihova, elegijski distih</note>
+                  
+                  <title xml:lang="hr">Istoj Gonzagi kad se u gradu Fondi u Campagni jedva spasla od ruku Barbarose, zapovjednika turskog brodovlja.</title>
+                  <title xml:lang="la">In eandem cum vix effugit manus Barbarosae, Turcarum classis praefecti in Fundano Campaniae oppido</title>
+                  <docImprint><placeName>Romę</placeName></docImprint>
+                  <docDate>1534</docDate>
+                  <incipit type="poesis-epigramma-elegiacum">Audierat summas Asiae qui tractat habenas</incipit>
+                  <explicit type="poesis-epigramma-elegiacum">Tam decus omne foret quam fuit imperium.</explicit>
+                  <bibl>
+                     Jurić, s. 140-141.
+                  </bibl>
+               </msItem>
+               <msItem class="poesis">
+                  <locus>fol. 42a</locus>
+                  <author><ref target="petrov01">Nic. Petreius Corcyraeus</ref></author>
+                  <note>12 stihova, elegijski distih</note>
+                  <title xml:lang="hr">Caru Karlu u povodu njegove pobjede u Tunisu.</title>
+                  <title xml:lang="la">Ad Carolum Caesarem in Tunetica victoria</title>
+                  <docImprint><placeName>Romę</placeName></docImprint>
+                  <docDate>1535-1538</docDate>
+                  <incipit type="poesis-epigramma-elegiacum">Qui classe Italiae est ausus violare penates</incipit>
+                  <explicit type="poesis-epigramma-elegiacum">Dat poenas lyso nomen et iste loco.</explicit>
+                  <bibl>
+                     Jurić, s. 140-141.
+                  </bibl>
+               </msItem>
+               <msItem>
+                  <locus>fol. 64v</locus>
+                  <author><ref target="benes01">Beneša, Damjan</ref></author>
+                  <title>Epitaf</title>
+               </msItem>
+               
+            </msContents>
+            <physDesc>
+               <objectDesc><p>cart. 185 fols (100v-185 blank)</p></objectDesc>
+               <handDesc ana="autograph">
+                  <p>autograf (Jurić)</p>
+                  
+               </handDesc>
+            </physDesc>
+            <history>
+               <origin>
+                  <date>s. XVI</date>
+               </origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 57, G 99.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+                  <bibl xml:id="croala.sec.juric.1993">Jurić, Šime: Zbornik književnih radova Korčulanina Nikole Petrovića. Anali Zavoda za povijesne znanosti u Dubrovniku, 21 (1993), s. 161-198.</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibale-239">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Alessandrina</institution>
+               <idno>239</idno>
+            </msIdentifier>
+            <msContents defective="true">
+               <msItem>
+                  <locus>fasc. 1, f. 1-15v</locus>
+                  <author>Ladislaus Vetesius</author>
+                  <title>Govor za Matiju Korvina, adresat <persName>Sixtus IV</persName></title>
+                  <note>incomplete at the end</note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. Several fascicles and hands</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 90, br. 239.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibale-253">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Alessandrina</institution>
+               <idno>253</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 13v-16</locus>
+                  <author>Cyriacus Anconitanus</author>
+                  <title>Exemplar litt. ex Paschale de Sorgo Raguseo nobili ... scripsit ad N. Ansalonem Siculum <date>1448</date></title>
+                  </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. Written by Kyriacus Anconitanus or Felice Feliciano</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 91, br. 253.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibcas-276">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Casanatense</institution>
+               <idno>276 (B IV 13)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 2-21</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>De mortalium felicitate</title>
+               <note>dijalog koji vode pisac, Paulus noster i Jo. Caesariensis, uz predgovor Piju II.</note>
+               </msItem>
+               <msItem>
+                  <locus>fol. 50-69v</locus>
+                  <author>Leonardus Montagna</author>
+                  <title>Epigrammatum liber III.</title>
+                  <note>sadrži stihove posvećene, adresat <persName>Laur. archiep. Spalatensis</persName> i kraljici Bosne</note>
+                  <note>other hand, coat of arms</note>
+                  <colophon>Tarvisii 1474.</colophon>
+                 </msItem>
+           </msContents>
+            <physDesc>
+               <p>mbr. misc. Several fascicles and hands. 117 fols</p>
+            </physDesc>
+            <history>
+               <origin>s. XIV-XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 97, br. 276 (B IV 13)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibcasa-1725">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Casanatense</institution>
+               <idno>1725 (XX. VIII 27)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 1-1v</locus>
+                  <author>Hier. Chrysaus</author>
+                  <title>Pismo (uvod), adresat <persName>Andr. Alegrius</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 1v-3</locus>
+                  <author>Hier. Chrysaus</author>
+                  <title>Epigrami</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 5-6v</locus>
+                  <author>Hier. Chrysaus</author>
+                  <title>Epigrami</title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. 43 fols.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV-XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 102, br. 1725 (XX. VIII 27)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibcor-127">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Corsiniana (Accademia dei Lincei)</institution>
+               <idno>Corsin. 127 (43 E 3)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 1-79v</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>De bellis Gothorum, 4 knj.</title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. misc. 95 fols</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 109, Corsin. 127 (43 E 3)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibcor-583">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Corsiniana (Accademia dei Lincei)</institution>
+               <idno>Corsin. 583 (45 C 18)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 117-123</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Govor, adresat <persName>Petrus Riarius card. S. Sixti</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 148 fols.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 110, Corsin. 583 (45 C 18)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibcor-207">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Corsiniana (Accademia dei Lincei)</institution>
+               <idno>Nic. Rossi 207 (45 D 4)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Epigrammata in statuas Coritianas</summary>
+               <msItem>
+                  <locus>fol. 15</locus>
+                  <author>P. Ant. Cippius</author>
+                  <title>Epigram</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 54</locus>
+                  <author>Nic. Lyburnus</author>
+                  <title>Epigram</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 152 fols.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 114, Nic. Rossi 207 (45 D 4)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibnaz-522">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Centrale Vittorio Emanuele II</institution>
+               <idno>522</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Sententiae excerptae ex variis auctoribus</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 119, br. 522</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibnaz-973">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Centrale Vittorio Emanuele II</institution>
+               <idno>Gesuitico 973 (3102)</idno>
+            </msIdentifier>
+            <msContents defective="true">
+               <msItem>
+                  <locus>fol. 146</locus>
+                  <author><ref target="sizgo01">Šižgorić, Juraj</ref></author>
+                  <title>Govor</title>
+                  <incipit>Georgius ... Sibenicensis decretorum doctor, ...</incipit>
+               </msItem>
+               <msItem>
+                  <locus>fol. 147-148</locus>
+                  <author><ref target="sizgo01">Šižgorić, Juraj</ref></author>
+                  <title>Pjesme, adresat <persName>Angelus Castrensis</persName><persName>Georgius Rictus (Priolus?)</persName></title>
+                  </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 169 fols. Damaged</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 124, Gesuitico 973 (3102)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ro-bibvall-f98">
+            <msIdentifier>
+               <placeName>Roma</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Vallicelliana</institution>
+               <idno>F 98</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 1</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Dialogus de Hercule a Christocolis superato, adresat <persName>Toma Niger</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 23</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Carmen de gestis Herculis</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 25</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>De veteris instrumenti viris illustribus commentarium</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 118</locus>
+                  <title>Bibliopola ad lectorem (epigram)</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. Probably copied from an edition</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 133, br. F 98</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-tor-arcsta-60">
+            <msIdentifier>
+               <placeName>Torino</placeName>
+               <country>Italia</country>
+               <institution>Archivio di Stato</institution>
+               <idno>Raccolta Mongardino vol. 60</idno>
+               <altIdentifier><idno>J b X 4</idno></altIdentifier>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 96-96v</locus>
+                  <author><ref target="banic01">Jac. Banisius</ref></author>
+                  <title>Pismo, adresat <persName>Steph. Ponchierus ep. Pariensis</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI-XVII</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 178, Raccolta Mongardino vol. 60 (J b X 4)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-tor-bibnaz-g640">
+            <msIdentifier>
+               <placeName>Torino</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale</institution>
+               <idno>G VI 40</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 1-2</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Predgovor, adresat <persName>Dominicus Grimanus card.</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 2v</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Argumentum</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 3-137</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Davidias, pjesma u 14 pjevanja</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 137-152v</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Tropologica Davidiadis expositio, u prozi</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV-XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 180, br. G VI 40</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-tor-bibnaz-j313">
+            <msIdentifier>
+               <placeName>Torino</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale</institution>
+               <idno>J III 13</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 334</locus>
+                  <author><ref target="banic01">Jac. Banissius</ref></author>
+                  <title>Pismo, adresat <persName>Lignana Casanovae abbas</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 334</locus>
+                  <author>Lignana Casanovae abbas</author>
+                  <title>Pismo, adresat <persName>Jac. Banissius</persName></title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>mbr. misc. Red titles. Partly damaged by fire. 2 vols. f. 1-261; 262-516</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 182, br. J III 13</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-tre-arcsta-cormad">
+            <msIdentifier>
+               <placeName>Trento</placeName>
+               <country>Italia</country>
+               <institution>Archivio di Stato</institution>
+               <idno>Corrispondenza Madruzzo</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="banic01">Jac. Banissius</ref></author>
+                  <title>Pismo, adresat <persName>card. Cristoforo Madruzzo</persName></title>
+               </msItem>
+            </msContents>
+           <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 189, Corrispondenza Madruzzo</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-tri-bibciv-arc107">
+            <msIdentifier>
+               <placeName>Trieste</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Civica</institution>
+               <idno>Archivio 107 (Alpha B B 7)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Carmina of Gilbertus Grineus and of his son M. A. Grineus Calurus</summary>
+               <msItem>
+                  <locus>fol. 88v</locus>
+                  <author>M. A. Grineus</author>
+                  <title>Stihovi, adresat <persName>Jo. Staphileus</persName></title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. Damaged by water, last pages torn</p>
+            </physDesc>
+            <history>
+               <origin>s. XV ex-XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 201, Archivio 107 (Alpha B B 7)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-udi-bibarc-2105">
+            <msIdentifier>
+               <placeName>Udine</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Arcivescovile</institution>
+               <idno>Vol. II, 105 (Ital. fol. 2)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>Ital. fol. 2</locus>
+                  <author>Paulus Bysantius</author>
+                  <title>Epistolae</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc. XVIII. Vol. II</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 201, Vol. II, br. 105 (Ital. fol. 2)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-lat486">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Zan. lat. 486 (1996)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Lexicon</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Zanetti, Latina et Italica D. Marci Bibliotheca codicum manuscriptorum, Venecija, 1741, str. 191</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 214, br. 486 (1996)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-10155">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. X, 155 (3620)</idno>
+               <altIdentifier><idno>Class XXII, n. 330</idno></altIdentifier>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="crije01">Crijević, Alojzije</ref></author>
+                  <title>De temporibus suis, u 11 knj.</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Apostolo Zeno</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>G. Valentinelli, Bibliotheca Manuscripta ad S. Marci Venetiarum, Venecija, 1868-73, vol. VI, str. 292-293</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 232, br. lat. cl. X, 155 (3620)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-13118">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XIII, 118 (4318)</idno>
+               <altIdentifier><idno>Class XXII, n. 5</idno></altIdentifier>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Dionysius Halicarnassensis</author>
+                  <title>De Thucydidis historia iudicium, adresat <persName>Q. Aelius Tubero</persName></title>
+                  <editor role="translated"><ref target="dudic01">Dudić, Andrija</ref></editor>
+                  <filiation type="autograph">MS autographus</filiation>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc ana="autograph">
+                  <p>Scripsit <persName><ref target="dudic01">Dudić, Andrija</ref></persName></p>
+               </handDesc>
+               </physDesc>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Morelli</provenance>
+               
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>G. Valentinelli, Bibliotheca Manuscripta ad S. Marci Venetiarum, Venecija, 1868-73, vol. VI, str. 3</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 234, br. lat. cl. XIII, 118 (4318)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14126">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XIV,126 (4664)</idno>
+               <altIdentifier><idno>Class X, n. 250</idno></altIdentifier>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ambr. Michetas</author>
+                  <title>Oratio ad Pasqualem Maripetrum <date>1458</date></title>
+                  </msItem>
+            </msContents>
+            <physDesc>
+               <p>mbr.</p>
+               </physDesc>
+            <history>
+               <origin>s. XV</origin>
+               <provenance>from S. Michele di Murano</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>G. Valentinelli, Bibliotheca Manuscripta ad S. Marci Venetiarum, Venecija, 1868-73, vol. IV, str. 190-192</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 235, br. lat. cl. XIV, 126 (4664)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-1116">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XI, cod. 16 (4427)</idno>
+              </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Franc. Marcellus ep. Tragurinus</author>
+                  <title>Oratio, adresat <persName>doge Leon. Lauretanus</persName> </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>mbr.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 238, lat. cl. XI, cod. 16 (4427)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-12182">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XII, cod. 182 (4461)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Hier. Chrysavus</author>
+                  <title>Ekloga, adresat <persName>doge Loredano</persName> </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>mbr.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Morelli</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 242, lat. cl. XII, cod. 182 (4461)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-12225">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XII, cod. 225 (4410)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Nic. Albertus</author>
+                  <title>Carmina</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 243, lat. cl. XII, cod. 225 (4410)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14180">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XIV, cod. 180 (4667)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Oratio in funere, adresat <persName>Petrus Riarius card. S. Sixti</persName></title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Apostolo Zeno</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 247, lat. cl. XIV, cod. 180 (4667)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14244">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XIV, cod. 244 (4681)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="sizgo01">Šižgorić, Juraj</ref></author>
+                  <title>Stihovi</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XV</date></origin>
+               <provenance>from Contarini</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 249, lat. cl. XIV, cod. 244 (4681)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14245">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XIV, cod. 245 (4682)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Jo. Staphileus</author>
+                  <title>Pisma</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 249, lat. cl. XIV, cod. 245 (4682)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14246">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>lat. cl. XIV, cod. 246 (4683)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="cipik02">Cipiko, Ludovik</ref></author>
+                  <title>Panegyricus</title>
+               </msItem>
+               <msItem>
+                  <author>Jo. Rosanus</author>
+                  <title>Govori<date>1504</date></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 249, lat. cl. XIV, cod. 246 (4683)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-11108">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XI 108 (4365)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 313-319</locus>
+                  <author>Ladislaus Vetesius</author>
+                  <title>Govor, adresat <persName>Sixtus IV</persName> </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. Several hands of different times. 319 fols.</p>
+            </physDesc>
+            <history>
+               <provenance>from Apostolo Zeno. Z.</provenance>
+               </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 257, Marc. lat. XI 108 (4365)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         
+         <msDesc xml:id="it-ven-bibnazmar-12176">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XII 176 (4688)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Carmina</summary>
+               <msItem>
+                  <locus>fol. 28</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Pjesma, adresat <persName>Leo X.</persName> </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc><p>cart. misc. Faded.</p></objectDesc>
+               <handDesc><p>Scripsit 1556<persName>M. A. Amaltheus</persName></p></handDesc>
+            </physDesc>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Morelli</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 260, Marc. lat. XII 176 (4688)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-12210">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XII 210 (4689)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Collection of carmina</summary>
+               <msItem>
+                  <locus>fol. 24v</locus>
+                  <author><ref target="janpan01">Jan Panonije</ref></author>
+                  <title>Lud. Podocatharus, adresat <persName>Guarinus</persName> </title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 48v</locus>
+                  <author>frater Bonaventura Spalatinus</author>
+                  <title>Stihovi</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 49v</locus>
+                  <author>frater Bonaventura Spalatinus</author>
+                  <title>Pismo, adresat <persName>Leon. Sanutus</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc><p>cart. misc. 135 fols.</p></objectDesc>
+               <handDesc><p>Scripsit partim<persName>Marin Sanudo</persName></p></handDesc>
+            </physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 260, Marc. lat. XII 210 (4689)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-12211">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XII 211 (4179)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 27v</locus>
+                  <author>Bern. Pinia seu Pima</author>
+                  <title>Stihovi</title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <objectDesc><p>cart. misc. 293 fols.</p></objectDesc>
+               <handDesc><p>Several hands one of which is <persName>Marin Sanudo</persName></p></handDesc>
+            </physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 260, Marc. lat. XII 211 (4179)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-2">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 2 (4590)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 37v</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Stihovi</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc><p>cart. misc. 100 fols. Z. Fols. 39v-100 blank</p></objectDesc>
+               </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 262, Marc. lat. XIV 2 (4590)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-31">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 31 (4701)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 87-90</locus>
+                  <author>Hier. Donatus</author>
+                  <title>Pismo, adresat <persName><ref target="banic01">Jac. Bannisius</ref></persName> </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 136 fols.</p>
+               </physDesc>
+            <history>
+               <origin><date>s. XV-XVI</date></origin>
+               <provenance>from Farsetti</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Morelli, Farsetti, n. 36, p. 45-52</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 263, Marc. lat. XIV 31 (4701)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-65">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 65 (4599)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Sixtus Medices, stromatum sectio nona; orationes variae</summary>
+               <msItem>
+                  <author>Hippocrates</author>
+                  <title>Epistola ad Ptolomaeum</title>
+                  <editor role="translated">Nic. Petr. Corcyraeus</editor>
+                  </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from SS. Giovanni e Paolo</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Berardelli, Nuova Raccolta, vol. 33, p. 125-128, n. 235</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 264, Marc. lat. XIV 65 (4599)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-112">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 112 (4283)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 259v</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Ad Dominicum Papalem in epigrammata priscorum commentarium inc. Quum tu antiquitatis</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 300 fols.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XVI-XVIII</date></origin>
+               <provenance>from S. Michele di Murano</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 265, Marc. lat. XIV 112 (4283)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-124">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 124 (4044)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Collection of excerpts, inscriptions and short texts</summary>
+               <msItem>
+                  <locus>fol. 37</locus>
+                  <author>Benja, Juraj</author>
+                  <explicit>Georgius Begna excerpsit suo optimo ... amico Petro Cepioni (i. e. Cippico) Tragurino Jadere MCCCCXXXIIII kl. febr., adresat 
+                     <persName>Cipiko, Petar</persName></explicit>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. and mbr. misc. Old binding. Several hands. 168 fols.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XV</date></origin>
+               <provenance>from S. Michele di Murano</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 265, Marc. lat. XIV 124 (4044)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-181">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 181 (4668)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Marcus Marulus, writings</summary>
+               <msItem>
+                  <locus>fol. 1-8</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Passio S. Domnii</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 9-13</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Passio S. Anastasii</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 14-20</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Translatio Domnii et Anastasii</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 21</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>In natalitio Raynerii hymnus</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 22-26</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>D. Dominici Carthusiani exhortatio ad poenitentiam hymnus</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 32-54</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>De ultimo Christi judicio sermo, u 3 dijela</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 54</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Epigramma ad lectorem in idem argumentum</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 54-55</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Carmen de doctrina D. N. Jesu Christi pendentis in cruce</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 56-58</locus>
+                  <author><ref target="bozic01">Božićević, Natalis Frano</ref></author>
+                  <title>Vita Marci Maruli, s prologom u stihu od <persName>Nic. Albertus</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 58-59</locus>
+                  <author><ref target="bozic01">Božićević, Natalis Frano</ref></author>
+                  <title>Epitaf, adresat <persName><ref target="marul01">Marulić, Marko</ref></persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 59</locus>
+                  <author>Franc. Martiniacus</author>
+                  <title>Epitaf, adresat <persName><ref target="marul01">Marulić, Marko</ref></persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 60-67</locus>
+                  <author>Hier. Martiniacus</author>
+                  <author>Nic. Albertus</author>
+                  <author>Ant. Albertus</author>
+                  <author>Hier. Papalis</author>
+                  <author>Donatus Pasqualitius</author>
+                  <title>Epitafi, adresat <persName><ref target="marul01">Marulić, Marko</ref></persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 60-67</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>De duobus apostolis carmina</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 68-69</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>De quatuor ecclesiae doctoribus</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 70</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>De S. Nicolao carmen</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 70</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Epitaphium S. Catharinae</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 70-72</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Hymnus ad Deum</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 72</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>De duobus viis vitii altera, altera virtutis</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 72 fols.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Apostolo Zeno</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Valentinelli, Bibliografia Dalmata (1845), p. 36-38, n. 44</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 266, Marc. lat. XIV 181 (4668)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-235">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 235 (4714)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 24</locus>
+                  <author>Nic. Liburnius</author>
+                  <title>Pismo</title>
+               </msItem>
+               <msItem xml:id="it-ven-bibnazmar-14-235.29">
+                  <locus>fol. 29</locus>
+                  <author><ref target="bart01">Hier. Bertucius</ref></author>
+                  <title>Pjesma, adresat <persName>Charles V.</persName></title>
+                  <title xml:lang="lat"><ref target="bart-elegia-1535">Ad <persName ref="88598818">illustrissimum inclytumque imperatorem Carolum</persName> Hieronimus Bertucius Atticus Dalmata Pharius</ref></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 30v</locus>
+                  <author><ref target="bart01">Hier. Bertucius</ref></author>
+                  <title>Pjesma, adresat <persName>Bembo</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 80 fols. Confused, with many anon. pieces</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Morelli</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 268, Marc. lat. XIV 235 (4714)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-265">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 265 (4501)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem> 
+                  <locus>fol. 124-124v</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški ?</ref></author>
+                  <title>Nicolai Peroti pont. Sipontini Oratio in funere Petri (Riarii) cardinalis S. Sixti, inc. Si quando dolere homini sine reprehensione, samo uvod</title>
+               <note>s. XVI in., hand of Marin Sanudo</note>
+               </msItem>
+               <msItem>
+                  <locus>fol. 142v</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Govor</title>
+                  </msItem>
+               <msItem>
+                  <locus>fol. 143</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Stihovi</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 212 fols. Several hands, one being that of <persName>Marin Sanudo</persName></p>
+            </physDesc>
+            <history>
+               <origin>s. XV-XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 269, Marc. lat. XIV 265 (4501)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-14-266">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. lat. XIV 266 (4502)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem> 
+                  <locus>fol. 257</locus>
+                  <title>Privilegij Aleksandra Velikog, prijevod na latinski</title>
+                  <explicit>ego Julianus bali generalis hoc privilegium Dalmatie in quadam bibliotheca antiquissima repperi</explicit>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. misc. fols 211-396. Several hands. Z.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 269, Marc. lat. XIV 266 (4502)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-ita8cod6">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Codici Italiani, Classe VIII, cod. 6 (5931)</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem> 
+                  <author>Bucchia?</author>
+                 <title xml:lang="it">Discorso al Papa della guerra da muovere ai Turchi in Albania</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 271, Codici Italiani, Classe VIII, cod. 6 (5931)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-ita9cod291">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Codici Italiani, Classe IX, cod. 291 (6320)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem> 
+                  <author><ref target="paskal01">Paskalić, Ludovik</ref></author>
+                  <title>Pjesme na tal. i lat. jeziku</title>
+                  <filiation type="autograph">MS autographus</filiation>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc ana="autograph">
+                  <p>Scripsit <persName><ref target="paskal01">Paskalić, Ludovik</ref></persName></p>
+               </handDesc>
+               </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 274, Codici Italiani, Classe IX, cod. 291 (6320)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-ita9-363">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. ital. IX 363 (7386)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Collection of Rime and Carmina</summary>
+               <msItem> 
+                  <locus>fol. 102</locus>
+                  <author><ref target="cival01">Donatus Civalellus</ref></author>
+                  <title>Rime</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc><p>cart. misc. 135 fols.</p></objectDesc>
+               <handDesc><p>Scripsit <persName>Marin Sanudo</persName></p></handDesc>
+               
+            </physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 277, Marc. ital. IX 363 (7386)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibnazmar-ita11-67">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Nazionale Marciana</institution>
+               <idno>Marc. ital. XI 67 (7351)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 160-173</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Inscriptiones Salonitanae</title>
+                  <note>from Vat. 5249</note>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. misc.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XV-XVII</date></origin>
+               <provenance>from Apostolo Zeno. Z.</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Valentinelli, Bibliografia Dalmata (1845), p. 28-29, n. 33</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 278, Marc. ital. XI 67 (7351)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-bibquersta-IX14">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Querini-Stampalia</institution>
+               <idno>IX 14</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>on the fly-leaf</locus>
+                  <author><ref target="sizgo01">Šižgorić, Juraj</ref></author>
+                  <title>Elegija, adresat <persName>Franc. Raguseus</persName></title>
+                  <note>stoji napisano Gorgis (sic) Sisgoreus Sibenicensis</note>
+                  <note>s. XVI</note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. Several hands.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV or XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 280, br. IX 14</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-musciv-894">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Museo Civico Correr</institution>
+               <idno>Vol. II, 894 (1246)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>on the fly-leaf</locus>
+                  <author><ref target="petanc01">Felix Petantius Ragusius</ref></author>
+                  <title>De rebus Turcharum, adresat <persName>kralj Vladislav</persName></title>
+                  </msItem>
+            </msContents>
+            <history>
+               <origin>s. XV ex-XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 281, br. vol. II, 894 (1246)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ven-musciv-1349">
+            <msIdentifier>
+               <placeName>Venezia</placeName>
+               <country>Italia</country>
+               <institution>Museo Civico Correr</institution>
+               <idno>cod. Correr 1349</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Original letters to <persName>Marcus Mantua</persName>in latin and partly in volg.</summary>
+               <msItem>
+                  <author>Petr. Illyricus</author>
+                  <title>Pisma</title>
+               </msItem>
+            </msContents>
+            <physDesc><objectDesc><p>cart. 225 fols.</p></objectDesc></physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 289, cod. Correr 1349</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ver-bibcap-227">
+            <msIdentifier>
+               <placeName>Verona</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Capitolare</institution>
+               <idno>CCXXVII (354)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Various excerpts</summary>
+               <msItem>
+                  <locus>fol. 54-55v</locus>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <note>From Marcus Marulus</note>
+               </msItem>
+            </msContents>
+            <physDesc><p>cart. misc. 72 fols.</p></physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 295, br. CCXXVII (354)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-ver-bibcap-257">
+            <msIdentifier>
+               <placeName>Verona</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Capitolare</institution>
+               <idno>CCLVII</idno>
+            </msIdentifier>
+            <msContents>
+                <msItem>
+                  <locus>fol. 2-10v</locus>
+                  <author><ref target="gucet02">Gučetić, Ivan</ref></author>
+                  <title>Stihovi, adresat <persName>Domitius Calderinus</persName></title>
+                  </msItem>
+            </msContents>
+            <physDesc><p>cart. misc. 343 fols.</p></physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 297, br. CCLVII</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vic-bibcom-10723">
+            <msIdentifier>
+               <placeName>Vicenza</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Comunale Bertoliana</institution>
+               <idno>10.7.23.</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Hier. Donatus</author>
+                  <title>Epistola, adresat <persName><ref target="banic01">Jac. Bannisio</ref></persName></title>
+                  </msItem>
+            </msContents>
+            <physDesc><p>misc. Missing.</p></physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 303, br. 10.7.23.</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-4858a">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 4858</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Matth. Araneus Ragusinus</author>
+                  <title>De contentione super pace Venetorum cum magno Turco et auxilio Florentinis
+                  contra papam ab eis et Duce Mediolanensi impenso, adresat <persName>Sixtus IV.</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc><p>mbr.</p></physDesc>
+            <history>
+               <origin><date>s. XVI or earlier</date></origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 330, Vat. lat. 4858</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <!-- Novaković nije podvukao ovaj zapis ispod -->
+         <msDesc xml:id="it-vat-bibvat-5131">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5131</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="janpan01">Jan Panonije</ref></author>
+                  <title>Pjesma</title>
+               </msItem>
+            </msContents>
+            <physDesc><p>misc.</p></physDesc>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 331, Vat. lat. 5131</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5139">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5139</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>De consolatione, adresat <persName>Marcus (Barbus) ep. Vicentinus</persName></title>
+               </msItem>
+            </msContents>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 331, Vat. lat. 5139</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5249">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5249</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Inscriptions, some of them collected by Marcus Marulus</title>
+               </msItem>
+            </msContents>
+            <additional>
+               <listBibl>
+                  <bibl>De Rossi, Inscriptiones Christianae II, p. 389</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 332, Vat. lat. 5249</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5252">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5252</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Cyriacus Anconitanus</author>
+                  <title>Foedus Anconitanorum cum Raguseis, adresat <persName>Marinus de Restis</persName></title>
+               </msItem>
+            </msContents>
+            <additional>
+               <listBibl>
+                  <bibl>G. Praga, Archivio Storico per la Dalmazia, anno 7, vol. 13, 1932, 262-280</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 332, Vat. lat. 5252</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5263">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5263</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Juvencius Cellius Callanus Dalmata</author>
+                  <title>Attila</title>
+               </msItem>
+            </msContents>
+            <additional>
+               <listBibl>
+                  <bibl>Vattasso, p. 167, n. 182</bibl>
+                  <bibl>Montfaucon, p. 119</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 332, Vat. lat. 5263</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5356">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5356</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Bessarion</author>
+                  <title>Pisma</title>
+               </msItem>
+            </msContents>
+            <physDesc><p>misc.</p></physDesc>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 333, Vat. lat. 5356</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5393">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5393</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Nic. Liburnius</author>
+                  <title>Eloquentiae (i. e. elegantiae?) latinae excerptae ex commentariis Julii Caesaris et ex libris Cornelii Taciti</title>
+               </msItem>
+            </msContents>
+            <physDesc><p>misc.</p></physDesc>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 333, Vat. lat. 5393</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-6205">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 6205</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Steph. Arator Pannonius</author>
+                  <title>Oratio ad Gregorium XIII</title>
+               </msItem>
+               <msItem>
+                  <author>Steph. Arator Pannonius</author>
+                  <title>Epistolae</title>
+               </msItem>
+            </msContents>
+            <physDesc><p>misc.</p></physDesc>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 338, Vat. lat. 6205</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-6958">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 6958</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <title>De obsidione Iadrensi, u 2 knj.</title>
+               </msItem>
+               <msItem>
+                  <author><ref target="marul01">Marulić, Marko</ref></author>
+                  <title>Regum Dalmatiae gesta</title>
+               </msItem>
+            </msContents>
+            <physDesc><p>misc.</p></physDesc>
+            <history>
+               <origin>s. XVII</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 341, Vat. lat. 6958</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-8092">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 8092</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Defensio ecclesiasticae libertatis, adresat <persName>Raph. Riarius, card. S. Georgii</persName></title>
+                  <incipit>Nic. Machinensis ep. Modrusiensis, defensio ecclesiasticae libertatis, ... </incipit>
+               </msItem>
+            </msContents>
+            <physDesc><p>misc.</p></physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 344, Vat. lat. 8092</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-8764">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 8764</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>De consolatione, u 4 knj., adresat <persName>Marcus (Barbus) ep. Vicentinus</persName></title>
+               </msItem>
+            </msContents>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 345, Vat. lat. 8764</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-2754">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 2754</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Coryciana, u 3 knj.</summary>
+               <msItem>
+                  <author>P. Ant. Cippius</author>
+                  <title>Pjesme, adresat <persName>Jo. Corycius</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc><p>cart.</p></physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 352, Vat. lat. 2754</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-2835">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 2835</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <title>Stihovi, adresat <persName>Lampridius</persName></title>
+                  <note>anonimno</note>
+               </msItem>
+            </msContents>
+            <physDesc><p>cart. misc. Several hands</p></physDesc>
+            <history>
+               <origin><date>s. XVI in.</date></origin>
+               <provenance>from Colocci</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 353, Vat. lat. 2835</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-2863">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 2863</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Rob. Ursus</author>
+                  <title>Elegiae, knj. 1, jedan od adresata <persName><ref target="janpan01">Jan Panonije</ref></persName></title>
+                  </msItem>
+            </msContents>
+            <physDesc><p>cart.</p></physDesc>
+            <history>
+               <origin><date>s. XV</date></origin>
+               <acquisition>owned by<persName>Octavianus Ubaldinus</persName></acquisition>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 355, Vat. lat. 2863</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-2939">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 2939</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Aelius Lampridius Cer(vinus) writings</summary>
+               <msItem>
+                  <locus>fol. 1</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Govori, neki od adresata <persName>Georgius Crucius ep.</persName><persName>Raynaldus Gratianus archiep. Ragusinus</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 16v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Carmina, zbirka uključuje stihove na adresata <persName>Petrus Sodorinus</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 66v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Govor, adresat <persName>Matthias Corvinus</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 83v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Pismo, adresat <persName>episcopus Varadinensis</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 84</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Govor, adresat <persName>Nic. Goceus</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 86v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Pjesma, adresat <persName>Nic. Mentius</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 102v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Govori, adresati <persName>Barth. Gocius</persName>,<persName>Marinus Gradaeus</persName>,
+                     <persName>Jo. Gotius</persName>,<persName>Andr. Mutinensis</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 134v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Pisma, adresati <persName>Ladislav, ugarski kralj</persName>,<persName>Petr. Sorgius</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 138v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Govor, adresat <persName>Junius Sorg(ius)</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 149v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Prolog u stihovima za Plauta</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 154v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Pisma</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 160v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Oratio de laudibus poetarum, adresat <persName>ugarski kralj Vladislav</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 166</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Pjesma, adresat <persName>franc. kralj Charles VIII.</persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 172v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>In librum Alph(onsi?) in lingua Bethica compositum, stihovani prolog</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 172v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Pjesme, adresati <persName>kralj Alfonso</persName>,<persName>Pontanus</persName>,
+                     <persName>Leonora Aragonska</persName>,<persName>Isabella Estensis</persName></title>
+               </msItem>
+               <msItem>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Pjesme i govori</title>
+                  </msItem>
+            </msContents>
+            <physDesc><p>cart. 205 fols. The last piece is interrupted at fol. 205v.</p></physDesc>
+            <history>
+               <origin>s. XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Montfaucon, p. 107</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 357, Vat. lat. 2939</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5174">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5174</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 96v-97v</locus>
+                  <author><ref target="lipav01">Lipavić, Ivan</ref></author>
+                 <incipit>Jo. Lipavich post pestem Tragurium rediens composuit, pjesma</incipit>
+               </msItem>
+            </msContents>
+            <physDesc><p>cart. misc.</p></physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 371, Vat. lat. 5174</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5220">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5220</idno>
+               </msIdentifier>
+            <msContents>
+               <summary>Franciscus Barbarus, epistolae</summary>
+               <msItem>
+                  <locus>fol. 4v</locus>
+                  <author><ref target="rest02">Nic. Restis</ref></author>
+                  <title>Pismo, adresat <persName>Franciscus Barbarus</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc><p>cart. misc.</p></physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Montfaucon, p. 119</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 372, Vat. lat. 5220</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5227">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5227</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem xml:id="it-vat-bibvat-5227.1.191v">
+                  <locus>vol. I, fol. 191v</locus>
+                  <author><ref target="bart01">Hier. Bertucius</ref></author>
+                  <title>Stihovi</title>
+                  <title xml:lang="lat"><ref target="bart-elegia-xxxx">Ad Michaelem Peregrinum dicentem se in visione amicae felicem Hieronymus Bertucius Atticus</ref></title>
+               </msItem>
+               <msItem>
+                  <locus>vol. I, fol. 327v</locus>
+                  <author><ref target="crije02">Crijević, Ilija</ref></author>
+                  <title>Stihovi</title>
+               </msItem>
+            </msContents>
+            <physDesc><p>cart. misc. 2 vols.</p></physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 374, Vat. lat. 5227</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5890">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5890</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Marii Podiani Perusini epistolae (late title), pravi autor <persName>Franc. Maturantius</persName></summary>
+               <msItem>
+                  <author>Franc. Maturantius</author>
+                  <title>Pismo, adresat <persName><ref target="nikolamodr01">Nikola Modruški</ref></persName></title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 74v</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Pismo, adresat <persName>Franc. Maturantius</persName></title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. misc. Several hands.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Montfaucon, p. 121</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 377, Vat. lat. 5890</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-8750">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 8750</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 205-212v</locus>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Pogrebni govor, adresat <persName>Petr. Riarius card. S. Sixti</persName></title>
+                  </msItem>
+               <msItem>
+                  <author><ref target="nikolamodr01">Nikola Modruški</ref></author>
+                  <title>Cum mortui funebri celebratione</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. Several hands. 284 fols.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV ex-XVI in.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 385, Vat. lat. 8750</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-13679">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 13679</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ladislaus Vetesius</author>
+                  <title>Govor za Matiju Korvina, održan pred <persName>Sixtus IV</persName><date>1475</date></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 278 fols.</p>
+            </physDesc>
+            <history>
+               <origin><date>s. XV</date></origin>
+               <provenance>from S. Michele di Murano (cod. 983)</provenance>
+               <acquisition>Given away by the daughter of Pontano</acquisition>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 387, Vat. lat. 13679</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-pallat1567">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Palatino Latino</repository>
+               <idno>Pal. lat. 1567</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="vlaci01">Vlačić Ilirik, Matija</ref></author>
+                  <title>De synodo Carthaginensi</title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin  cert="unknown">?</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 394, Pal. lat. 1567</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-pallat1848">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Palatino Latino</repository>
+               <idno>Pal. lat. 1848</idno>
+            </msIdentifier>
+            <msContents defective="true">
+               <msItem>
+                  <title>Disputatio de libero arbitrio, rasprava između <persName>Victorinus Strigelius</persName> i 
+                     <persName><ref target="vlaci01">Vlačić Ilirik, Matija</ref></persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>fragm.</p>
+            </physDesc>
+            <history>
+               <origin>1560</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 394, Pal. lat. 1848</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-ottoblat267">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Ottoboniano Latino</repository>
+               <idno>Ottob. lat. 267</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="gucet03">Gučetić, Nikola Vitov</ref></author>
+                  <title>Komentari psalama</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>1607</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 413, Ottob. lat. 267</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-ottoblat1687">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Ottoboniano Latino</repository>
+               <idno>Ottob. lat. 1687</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Paulus Porcius Romanus</author>
+                  <title>Epigram, adresat <persName>Jac. Sybenicensis</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>mbr. misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 418, Ottob. lat. 1687</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-ottoblat348">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Ottoboniano Latino</repository>
+               <idno>Ottob. lat. 348</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><ref target="stojko01">Joh. de Ragusio</ref></author>
+                  <title>Govori</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 424, Ottob. lat. 348</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-ottoblat2011">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Ottoboniano Latino</repository>
+               <idno>Ottob. lat. 2011</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Franc. Maturantius</author>
+                  <title>Pjesme napisane na putovanju do Krete i Roda, posvećene <persName><ref target="nikolamodr01">Nikola Modruški</ref></persName></title>
+               </msItem>
+               <msItem>
+                  <author>Franc. Maturantius</author>
+                  <title>Pjesma, adresat <persName>Stephanus Dalmata</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart.</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 435, Ottob. lat. 2011</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-ottoblat2860">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Ottoboniano Latino</repository>
+               <idno>Ottob. lat. 2860</idno>
+               <altIdentifier><idno>Stosch D 1</idno></altIdentifier>
+            </msIdentifier>
+            <msContents>
+               <summary>Carmina, collected by Angelus Colocius</summary>
+               <msItem>
+                  <author><ref target="nimira.martin.01">Martianus Nimireus</ref></author>
+                  <title>Stihovi</title>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. misc.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 437, Ottob. lat. 2860</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat240">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 240 (X 58)</idno>
+               </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Franc. Resta</author>
+                  <title>De terraemotu</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 443, Barb. lat. 240 (X 58)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat282">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 282 (X 100)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Tideus Acciarinus Picens</author>
+                  <title>De animorum medicamentis, adresat <persName>Joannes Hispaniarum princeps</persName></title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XVII</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 443, Barb. lat. 282 (X 100)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat2138">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 2138 (XXXI 23)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  misc.</summary>
+               <msItem>
+                  <author>Nic. Liburnius</author>
+                  <title>Carmina</title>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XVI-XVII</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 449, Barb. lat. 2138 (XXXI 23)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat3989">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 3989 (XLV 83)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ant. degli Alberti</author>
+                  <title>Rime</title>
+                  <note>misc.</note>
+               </msItem>
+            </msContents>
+            <history>
+               <origin>s. XVII</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 453, Barb. lat. 3989 (XLV 83)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat213">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 213 (X 31)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Tideus Acciarinus Picens</author>
+                  <title>De animorum medicamentis, adresat <persName>Johannes Hispaniarum princeps</persName></title>
+                  <title>Epilog u stihovima</title>
+                  <filiation type="autograph">MS autographus</filiation>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc><p>cart. 59 fols.</p></objectDesc>
+               <handDesc ana="autograph">
+                  <p>Scripsit <persName>Tideus Acciarinus Picens</persName></p>
+               </handDesc>
+               
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 458, Barb. lat. 213 (X 31)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat318">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 318 (X 136)</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  misc.
+               </summary>
+               <msItem>
+                  <locus>fol. 1</locus>
+                  <author><ref target="petric01">Petrić, Frane</ref></author>
+                  <title>Francisci Patritii in quedam Nove sue philosophie loca obscuriora, inc.</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 14v</locus>
+                  <author><ref target="petric01">Petrić, Frane</ref></author>
+                  <title>Postquam anno salutis MDXCI a Clemente VIII ... Ferraria evocatus Romam veni. des.</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 15</locus>
+                  <author><ref target="petric01">Petrić, Frane</ref></author>
+                  <title>Sanctae Ecclesiae iudicio submitto. Finis. Ego Franciscus Patritius</title>
+                  <note>Apparently with autograph corrections and signature</note>
+               </msItem>
+               <msItem>
+                  <locus>fol. 58v</locus>
+                  <author><ref target="petric01">Petrić, Frane</ref></author>
+                  <title>Francisci Patritii apologia ad Censuram</title>
+                  <title>Inter sacram theologiam et philosophiam magnum esse discrimen nemo vel parum in eis versatus est qui non novit, des.</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 47v-48</locus>
+                  <author><ref target="petric01">Petrić, Frane</ref></author>
+                  <title>Et vere predicor de domo</title>
+                  </msItem>
+            </msContents>
+            <physDesc><objectDesc><p>Large size, marginal notes. 63 fols. Fols. 16, 59-63v blank</p></objectDesc></physDesc>
+            <history>
+               <origin>s. XVI ex.</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 458, Barb. lat. 318 (X 136)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat1809">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 1809 (XXIX 153)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Mapheus Vallaressus, archiepiscopus Hyadrensis</author>
+                  <title>Epistolae <date>1450-1471</date></title>
+               </msItem>
+               <msItem>
+                  <locus>p. 30, 42, 57, 653-654, 660-661, 667-668, 675-676, 677-679</locus>
+                  <author><ref target="sobot01">Joh. Sobote</ref></author>
+                  <title>Pisma</title>
+               </msItem>
+               <msItem>
+                  <locus>p. 677</locus>
+                  <author><ref target="sobot01">Joh. Sobote</ref></author>
+                  <title>Pismo, adresat <persName>Mapheus Vallaressus</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc><objectDesc><p>cart. 689 pp.</p></objectDesc></physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 460, Barb. lat. 1809 (XXIX 153)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-barblat1822">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Barberiniano Latino</repository>
+               <idno>Barb. lat. 1822 (XXIX 166)</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Hier. Chrysanus</author>
+                  <title>Stihovi</title>
+               </msItem>
+            </msContents>
+            <physDesc><objectDesc><p>cart. misc.</p></objectDesc></physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 461, Barb. lat. 1822 (XXIX 166)</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-j6215">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Chigi</repository>
+               <idno>Chis. J VI 215</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 1-5v</locus>
+                  <author>Vincentius Cellius Callanus Dalmata</author>
+                  <title>Attila</title>
+                  <title>Hunni qui et Vavares nunc autem Hungari</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 153v</locus>
+                  <author><ref target="sobot01">Jo. Sobota Dalmata</ref></author>
+                  <title>Pismo</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 174v</locus>
+                  <author><ref target="sobot01">Jo. Sobota Dalmata</ref></author>
+                  <title>5 pisama, adresat <persName>Petr. Maurocenus</persName><date>1453-1455</date></title>
+                 </msItem>
+            </msContents>
+            <physDesc><objectDesc><p>cart. misc.</p></objectDesc></physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 484, Chis. J VI 215</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-j7266">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Chigi</repository>
+               <idno>Chis. J VII 266</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 169</locus>
+                  <author>Ant. Albertus</author>
+                  <title>Pismo</title>
+               </msItem>
+               </msContents>
+            <physDesc><objectDesc><p>cart. misc. 277 fols.</p></objectDesc>
+            <handDesc><p>Several hands. </p></handDesc>
+            </physDesc>
+            <history>
+               <origin><date>s. XV-XVI in.</date></origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 486, Chis. J VII 266</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-cam-arcsacer-735">
+            <msIdentifier>
+               <placeName>Camaldoli</placeName>
+               <country>Italia</country>
+               <institution>Archivio del Sacro Eremo</institution>
+               <idno>735</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Bernardini Gadoli Brixiensis Epistolae</summary>
+               <msItem>
+                  <locus>p. 244-247</locus>
+                  <author>Bernardinus Gadolus Brixiensis</author>
+                  <title>Pismo, adresat <persName>Martinus de Nimira Arbinensis archidiaconus</persName><date>1494</date></title>
+                  <filiation type="autograph">MS autographus</filiation>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc><p>cart. 330 pp.</p></objectDesc>
+               <handDesc ana="autograph"><p>MS autographus</p>
+               </handDesc>
+               
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 500, br. 735</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-sdan-bibcivgua-28">
+            <msIdentifier>
+               <placeName>San Daniele del Friuli</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Civica Guarneriana</institution>
+               <idno>28</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 103</locus>
+                  <author><ref target="rest02">Nic. Restis</ref></author>
+                  <title>Pismo, adresat <persName>Franc. Barbarus</persName></title>
+               </msItem>
+            </msContents>
+            <physDesc><objectDesc><p>cart. misc. Fols. numbered irregulary</p></objectDesc>
+            <handDesc>
+               <p>Several hands. </p>
+            </handDesc>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 565, br. 28</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-3402">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 3402</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Velius Longus</author>
+                  <author>Fortunatianus</author>
+                  <editor ana="exscripsit">Nic. Liburnius</editor>
+               </msItem>
+            </msContents>
+            <history>
+               <origin><date>s. XVI</date></origin>
+               <provenance>from Fulvio Orsini</provenance>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 581, Vat. lat. 3402</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-4858b">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 4858</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Matth. Araneus Ragusinus</author>
+                  <title>De contentione super pace Venetorum cum magno Turco, adresat
+                  <persName>Sixtus IV.</persName><date>1479</date></title>
+                  <explicit>MCCCCLXXIX Rome (fol. 108v)</explicit>
+               </msItem>
+            </msContents>
+            <physDesc><p>Data supplied by Dott. Francesca Romana De Marco</p></physDesc>
+            <history>
+               <origin><date>s. XV</date></origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 330, Vat. lat. 4858</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 583, Vat. lat. 4858</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-5131add">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Vaticano Latino</repository>
+               <idno>Vat. lat. 5131</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 8</locus>
+                  <title>Epitaphium Hyeronimi Civaleli (?) olim rectoris studii Patavini</title>
+                 </msItem>
+            </msContents>
+            <physDesc>
+               <p>cart. misc. 147 fols.</p>
+               <p>Not seen. Description supplied by Dott. Francesca Romana De Marco and prof. Sesto Prete</p>
+            </physDesc>
+            <history>
+               <origin>s. XV</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 586, Vat. lat. 5131</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-pallat1567add">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Palatino Latino</repository>
+               <idno>Pal. lat. 1567</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 37-45</locus>
+                  <author><ref target="vlaci01">Vlačić Ilirik, Matija</ref></author>
+                  <title>Consultatio de conscribenda accurata et erudita historia ecclesiae</title>
+               </msItem>
+               <msItem>
+                  <locus>fol. 46-60</locus>
+                  <author><ref target="vlaci01">Vlačić Ilirik, Matija</ref></author>
+                  <title>Historia certaminum inter Romanos episcopos et sextum Carthaginiensem synodum</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>misc.</p>
+            </physDesc>
+            <history>
+               <origin cert="unknown">?</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 394, Pal. lat. 1567</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 590, Pal. lat. 1567</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <msDesc xml:id="it-vat-bibvat-reglat1258">
+            <msIdentifier>
+               <placeName>Vatican</placeName>
+               <country>Italia</country>
+               <institution>Biblioteca Apostolica Vaticana</institution>
+               <repository>Fondo Reginense Latino</repository>
+               <idno>Regin. lat. 1258</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 323-330</locus>
+                  <author><ref target="dudic01">Dudić, Andrija</ref></author>
+                  <title>De quarta figura syllog.ca B. Tomit</title>
+                  <explicit>Pascovii 23 Aug.ti 1578 ... Andr. Dudith</explicit>
+               </msItem>
+               </msContents>
+            <physDesc>
+               <p>cart. misc. 331 fols.</p>
+            </physDesc>
+            <history>
+               <origin>s. XVI</origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Montfaucon, p. 37, n. 1100</bibl>
+                  <bibl>Kristeller, Iter, sv. 2, s. 597, Regin. lat. 1258</bibl>
+                  <bibl>Novaković, excerpta Kristelleriana</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+         <!-- Jovanović, dodao opis Beneše, za vježbu -->
+         <msDesc xml:id="hr-dbk-zk-4">
+            <msIdentifier>
+               <placeName>Dubrovnik</placeName>
+               <country>Hrvatska</country>
+               <institution>Znanstvena knjižnica</institution>
+               <idno>ZK 4</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <locus>fol. 323-330</locus>
+                  <author><ref target="benes01">Beneša, Damjan</ref></author>
+                  <title xml:lang="la"><ref target="benes01-c01-153x">De morte Christi</ref></title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>Njegove su dimenzije, kako stoji u katalogu, 28,8 x 22,5 cm, no valja napomenuti da je riječ o izmjerama preko korica, a da su dimenzije samoga papira zapravo nešto manje, cca 28,4 x 21,5 cm.  Sastoji se od 120 listova, uvezanih u sveščiće označene od a do m, pri čem je prvi i zadnji list rukopisu dodao Ivan M. Matijašević i na njima napisao naslov djela te podatke o smrti pjesnika. Kao naslovom Matijašević se poslužio sljedećim natpisom: <q>Damiani Benessae Paschalis filii Patritii Ragusini de Morte Christi libri decem autographi</q>. Na poleđini lista koji nosi ovaj natpis stoji sljedeća Matijaševićeva opservacija: <q>Damianus Benessa huius sacri poematis et aliorum carminum conditor migravit ex hac mortali statione anno aetatis suae sexagesimo secundo, aerae vero vulgaris MDXXXVIIII</q>. U sličnom je tonu i ona zapisana na listu koji je Matijašević dodao na kraju rukopisa: <q>Damiani Benessae Paschalis filii patritii Ragusini de Morte Christi libri decem autographi. Obiit poeta an[no] ae[rae] v[ulgaris] 1539. aetatis 62</q>.</p>
+               <p>Kastropilova natuknica, napomenimo, ponavlja i Kolendićevu ocjenu da je rukopis nepotpun, odnosno da spjevu koji sada broji oko 8300 stihova nedostaje konac desetog pjevanja, odnosno otprilike dvjesto stihova. Završni podatak da je rukopis restauriran u Zagrebu u kolovozu 1974. zacijelo je kasnija nadopuna priređivača kataloga.</p>
+               <p>
+                  <gap/>
+                  Sve naknadne intervencije u rukopis djelo su iste ruke koja je ispisala i glavninu teksta epa. Upravo je to osnovni razlog da se autografski karakter ovoga rukopisa, za razliku od rukopisa AMB 78, nikad nije dovodio u pitanje. Podsjetimo, Benešinim autografom ocijenio ga je njegov prvi uređivač Matijašević, i tu su ocjenu bezrezervno prihvatili svi  koji su se kasnije njime bavili. <gap/> I ona minimalna sumnja da bi ZK 4 mogao biti ipak samo eklatantan primjer »prekoračenja ovlasti« nekog odveć nadobudnog prepisivača tuđeg djela odnedavno je otklonjen spomenutim otkrićem Benešinih autografnih pisama.</p>
+            </physDesc>
+            <history>
+               <origin>
+                  <date notBefore="1534">nakon 1534-1535</date>
+               </origin>
+            </history>
+            <additional>
+               <listBibl>
+                  <bibl>Rezar, Vladimir. "De morte Christi Damjana Beneše", u Damjan Beneša, De morte Christi, Zagreb 2006.</bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+      </body>
+</text>
+</TEI>

@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Osobna imena u hrvatskim dramama na latinskom - radno, elektronska verzija</title>
+                <author><name ref="viaf6913774" xml:id="NJ">Neven Jovanović</name></author>
+                <respStmt>
+                    <resp>Editionem electronicam curavit</resp>
+                    <name ref="viaf6913774">Neven Jovanović</name>
+
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>Srpnja 2015.</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Rad nastao u okviru znanstvenog projekta Croatica et Tyrolensia,
+                    (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>Srpnja
+                2015.</date>
+            </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Građa prikupljena tijekom drugih istraživanja.</p>
+            </sourceDesc>
+
+        </fileDesc>
+        
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2015-07-05</date>
+                Početak rada.
+            </change>
+            
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <front>
+            <docAuthor>Neven Jovanović</docAuthor>
+            <docTitle>
+                <titlePart>Osobna imena vezana uz hrvatske školske drame na latinskom</titlePart>
+            </docTitle>
+            <docDate>Srpnja 2015.</docDate>
+        </front>
+        <body>
+            <div type="prosopographia">
+                <!-- postupak: iz ovog popisa prenositi osobe ili u latinisti-prosopografija-drama.xml (stvarne osobe) ili u latinisti-prosopografija-fikcija.xml (osobe iz drama, bilo posve fiktivne ili fiktivne verzije povijesnih ličnosti itd) -->
+                <!-- premješteni zadržavaju xml:id koji imaju ovdje -->
+                <!-- ako je ista osoba spomenuta na dva načina, dodati persName u prvi person element -->
+                <listPerson type="croala.nomina.drama">
+                    <person xml:id="croala.drama.357374">
+  <persName>Abdolonim</persName>
+</person>
+<person xml:id="croala.drama.359765">
+  <persName>Abed Nego</persName>
+</person>
+<person xml:id="croala.drama.321092">
+  <persName>Abigajila</persName>
+</person>
+<person xml:id="croala.drama.343900">
+  <persName>Abimecus</persName>
+</person>
+<person xml:id="croala.drama.314261">
+  <persName>Abraham</persName>
+</person>
+<person xml:id="croala.drama.331861">
+  <persName>Adamando</persName>
+</person>
+<person xml:id="croala.drama.323319">
+  <persName>Adam Batthyány</persName>
+</person>
+<person xml:id="croala.drama.350167">
+  <persName>Adam Patačić</persName>
+</person>
+<person xml:id="croala.drama.328229">
+  <persName>Adamus Komaromy</persName>
+</person>
+<person xml:id="croala.drama.328092">
+  <persName>Adamus L. B. Druskoczi</persName>
+</person>
+<person xml:id="croala.drama.328143">
+  <persName>Adamus Pillay</persName>
+</person>
+<person xml:id="croala.drama.339639">
+  <persName>Adija</persName>
+</person>
+<person xml:id="croala.drama.371028">
+  <persName>Adrast</persName>
+</person>
+<person xml:id="croala.drama.360672">
+  <persName>Agag</persName>
+</person>
+<person xml:id="croala.drama.352236">
+  <persName>Agapit</persName>
+</person>
+<person xml:id="croala.drama.366981">
+  <persName>Agatoklo</persName>
+</person>
+<person xml:id="croala.drama.341031">
+  <persName>Agaton Legatus Turcicus</persName>
+</person>
+<person xml:id="croala.drama.344484">
+  <persName>Agazimb</persName>
+</person>
+<person xml:id="croala.drama.374435">
+  <persName>Agrikola</persName>
+</person>
+<person xml:id="croala.drama.367637">
+  <persName>Ahazja</persName>
+</person>
+<person xml:id="croala.drama.336980">
+  <persName>Aladin</persName>
+</person>
+<person xml:id="croala.drama.337032">
+  <persName>Alaodinus</persName>
+</person>
+<person xml:id="croala.drama.352317">
+  <persName>Albert</persName>
+</person>
+<person xml:id="croala.drama.341062">
+  <persName>Alcetas. Capitaneus Turcicus</persName>
+</person>
+<person xml:id="croala.drama.365880">
+  <persName>Aldomarus</persName>
+</person>
+<person xml:id="croala.drama.350164">
+  <persName>Aleksandar Antun Patačić</persName>
+</person>
+<person xml:id="croala.drama.345011">
+  <persName>Aleksandar II.</persName>
+</person>
+<person xml:id="croala.drama.322641">
+  <persName>Aleksandar Mikulić</persName>
+</person>
+<person xml:id="croala.drama.367944">
+  <persName>Aleksandar Veliki</persName>
+</person>
+<person xml:id="croala.drama.370090">
+  <persName>Aleksis</persName>
+</person>
+<person xml:id="croala.drama.375487">
+  <persName>Alexius</persName>
+</person>
+<person xml:id="croala.drama.344607">
+  <persName>Alfonso I.</persName>
+</person>
+<person xml:id="croala.drama.360299">
+  <persName>Alfonso VI. kralj Leona i Kastilje</persName>
+</person>
+<person xml:id="croala.drama.328100">
+  <persName>Alindus</persName>
+</person>
+<person xml:id="croala.drama.358642">
+  <persName>Alkibijad</persName>
+</person>
+<person xml:id="croala.drama.337045">
+  <persName>Allaris</persName>
+</person>
+<person xml:id="croala.drama.337058">
+  <persName>Almansor</persName>
+</person>
+<person xml:id="croala.drama.368046">
+  <persName>Almoš</persName>
+</person>
+<person xml:id="croala.drama.353704">
+  <persName>Alphonsus</persName>
+</person>
+<person xml:id="croala.drama.323176">
+  <persName>Alvaro Luna</persName>
+</person>
+<person xml:id="croala.drama.328036">
+  <persName>Alvarus Luna</persName>
+</person>
+<person xml:id="croala.drama.373884">
+  <persName>Amandus</persName>
+</person>
+<person xml:id="croala.drama.355131">
+  <persName>Amikaja</persName>
+</person>
+<person xml:id="croala.drama.373185">
+  <persName>Aminta</persName>
+</person>
+<person xml:id="croala.drama.350462">
+  <persName>Amon</persName>
+</person>
+<person xml:id="croala.drama.340838">
+  <persName>Amurates Imperator Turcicus</persName>
+</person>
+<person xml:id="croala.drama.355128">
+  <persName>Anaksija</persName>
+</person>
+<person xml:id="croala.drama.331382">
+  <persName>Andreas Gergez</persName>
+</person>
+<person xml:id="croala.drama.328104">
+  <persName>Andreas Illia</persName>
+</person>
+<person xml:id="croala.drama.331428">
+  <persName>Andreas Jurkovich</persName>
+</person>
+<person xml:id="croala.drama.330578">
+  <persName>Andrija Mandel</persName>
+</person>
+<person xml:id="croala.drama.330657">
+  <persName>Andrija Mendel</persName>
+  <!-- tipfeler -->
+</person>
+<person xml:id="croala.drama.365992">
+  <persName>Andromachus</persName>
+</person>
+<person xml:id="croala.drama.359858">
+  <persName>Andronik I. Komnen</persName>
+</person>
+<person xml:id="croala.drama.351280">
+  <persName>Andronius</persName>
+</person>
+<person xml:id="croala.drama.350386">
+  <persName>Antioh VI. Dionizije</persName>
+</person>
+<person xml:id="croala.drama.367089">
+  <persName>Antonin</persName>
+</person>
+<person xml:id="croala.drama.322164">
+  <persName>Antonio Possevino</persName>
+</person>
+<person xml:id="croala.drama.342800">
+  <persName>Antonius</persName>
+</person>
+<person xml:id="croala.drama.328053">
+  <persName>Antonius Bernardus Patachich</persName>
+</person>
+<person xml:id="croala.drama.331395">
+  <persName>Antonius Cucurin</persName>
+</person>
+<person xml:id="croala.drama.340923">
+  <persName>Antonius DemelliPraenobilis Dalm. Segn. poeta</persName>
+</person>
+<person xml:id="croala.drama.356095">
+  <persName>Antonius Murath</persName>
+</person>
+<person xml:id="croala.drama.341291">
+  <persName>Antonius WlatkovichCivis Dalm. Segn. syntaxista</persName>
+</person>
+<person xml:id="croala.drama.341132">
+  <persName>Antonius WlatkovichCivis Segn. Dalm. sytaxista</persName>
+</person>
+<person xml:id="croala.drama.333266">
+  <persName>Antun Kanižlić</persName>
+</person>
+<person xml:id="croala.drama.348478">
+  <persName>Apist</persName>
+</person>
+<person xml:id="croala.drama.348572">
+  <persName>Arbogast</persName>
+</person>
+<person xml:id="croala.drama.321755">
+  <persName>Argo</persName>
+</person>
+<person xml:id="croala.drama.345117">
+  <persName>Arnulf</persName>
+</person>
+<person xml:id="croala.drama.345735">
+  <persName>Arsencije</persName>
+</person>
+<person xml:id="croala.drama.346444">
+  <persName>Arsinoja</persName>
+</person>
+<person xml:id="croala.drama.348303">
+  <persName>Artaban</persName>
+</person>
+<person xml:id="croala.drama.363583">
+  <persName>Artakserkso I.</persName>
+</person>
+<person xml:id="croala.drama.340971">
+  <persName>Asbuseth</persName>
+</person>
+<person xml:id="croala.drama.348668">
+  <persName>Atilije Regul</persName>
+</person>
+<person xml:id="croala.drama.353791">
+  <persName>Augustin</persName>
+</person>
+<person xml:id="croala.drama.367184">
+  <persName>Bajazit</persName>
+</person>
+<person xml:id="croala.drama.325390">
+  <persName>Bakho</persName>
+</person>
+<person xml:id="croala.drama.356035">
+  <persName>Baltazar</persName>
+</person>
+<person xml:id="croala.drama.356091">
+  <persName>Balthasar</persName>
+</person>
+                  <person xml:id="zrinski16616207">
+  <persName>Ban Đuro Zrinski</persName>
+  <persName>Zrinski, Juraj IV.</persName>
+  <birth>
+    <date when="1549"  period="15xx_2_third">1549</date>
+  </birth>
+  <death>
+    <date when="1603" period="16xx_1_third">1603</date>
+  </death>
+</person>
+<person xml:id="croala.drama.341001">
+  <persName>Bardices</persName>
+</person>
+<person xml:id="croala.drama.320864">
+  <persName>Barlaam</persName>
+</person>
+<person xml:id="croala.drama.333619">
+  <persName>Barun Franjo Trenk</persName>
+</person>
+<person xml:id="croala.drama.328152">
+  <persName>Bassanes Maurorum Ductor</persName>
+</person>
+<person xml:id="croala.drama.339435">
+  <persName>Bazandur</persName>
+</person>
+<person xml:id="croala.drama.333825">
+  <persName>Bela</persName>
+</person>
+<person xml:id="croala.drama.326642">
+  <persName>Belerofont</persName>
+</person>
+<person xml:id="croala.drama.331439">
+  <persName>Benedictus Andreas Kraiachich</persName>
+</person>
+<person xml:id="croala.drama.370580">
+  <persName>Benjamin</persName>
+</person>
+<person xml:id="croala.drama.337365">
+  <persName>Betula</persName>
+</person>
+<person xml:id="croala.drama.366718">
+  <persName>Birindo</persName>
+</person>
+<person xml:id="croala.drama.323213">
+  <persName>biskup Aleksandar Ignjat Mikulić</persName>
+</person>
+<person xml:id="croala.drama.323903">
+  <persName>biskup Martin Brajković</persName>
+</person>
+<person xml:id="croala.drama.318667">
+  <persName>biskup Petar Mariani</persName>
+</person>
+<person xml:id="croala.drama.325275">
+  <persName>Blažena Djevica Marija</persName>
+</person>
+<person xml:id="croala.drama.316513">
+  <persName>Blaženi Alojzije Gonzaga</persName>
+</person>
+<person xml:id="croala.drama.345648">
+  <persName>Blaženi Leonard Kimura</persName>
+</person>
+<person xml:id="croala.drama.345651">
+  <persName>blaženi Sebastijan Kimura</persName>
+</person>
+<person xml:id="croala.drama.341699">
+  <persName>Broden</persName>
+</person>
+<person xml:id="croala.drama.371719">
+  <persName>Bulid</persName>
+</person>
+<person xml:id="croala.drama.321986">
+  <persName>Car Maksimilijan Austrijski</persName>
+</person>
+<person xml:id="croala.drama.337071">
+  <persName>Cherubin</persName>
+</person>
+<person xml:id="croala.drama.371811">
+  <persName>Chremes</persName>
+</person>
+<person xml:id="croala.drama.341128">
+  <persName>Cilindus</persName>
+</person>
+<person xml:id="croala.drama.340919">
+  <persName>Clodoardus</persName>
+</person>
+<person xml:id="croala.drama.337084">
+  <persName>Condilax</persName>
+</person>
+<person xml:id="croala.drama.340934">
+  <persName>Conradinus</persName>
+</person>
+<person xml:id="croala.drama.364823">
+  <persName>Cresphon</persName>
+</person>
+<person xml:id="croala.drama.331424">
+  <persName>Crotasus</persName>
+</person>
+<person xml:id="croala.drama.324890">
+  <persName>Čeh</persName>
+</person>
+<person xml:id="croala.drama.337075">
+  <persName>D. Georgius Gergecz</persName>
+</person>
+<person xml:id="croala.drama.341326">
+  <persName>D. Joannes GrahianinLibert. Ostariensis casista</persName>
+</person>
+<person xml:id="croala.drama.337088">
+  <persName>D. Josephus Dragovich</persName>
+</person>
+<person xml:id="croala.drama.341228">
+  <persName>D. Mathias WlastelichLibert. Bribir. casista</persName>
+</person>
+<person xml:id="croala.drama.341527">
+  <persName>D. Mathias WlastelichLibert. Bribir casista</persName>
+</person>
+<person xml:id="croala.drama.341081">
+  <persName>D. Mathias WlastelichLibert. Bribirensis casista</persName>
+</person>
+<person xml:id="croala.drama.337062">
+  <persName>D. Sigismundus Magdalenich</persName>
+</person>
+<person xml:id="croala.drama.340265">
+  <persName>Daifusama</persName>
+</person>
+<person xml:id="croala.drama.374250">
+  <persName>Damis</persName>
+</person>
+<person xml:id="croala.drama.318868">
+  <persName>Daniel</persName>
+</person>
+<person xml:id="croala.drama.316289">
+  <persName>Danijel</persName>
+</person>
+<person xml:id="croala.drama.348048">
+  <persName>Darije</persName>
+</person>
+<person xml:id="croala.drama.356101">
+  <persName>Darius</persName>
+</person>
+<person xml:id="croala.drama.315688">
+  <persName>David</persName>
+</person>
+<person xml:id="croala.drama.360077">
+  <persName>Demacharis</persName>
+</person>
+<person xml:id="croala.drama.367094">
+  <persName>Demetrije</persName>
+</person>
+<person xml:id="croala.drama.368387">
+  <persName>Demetrije II. Nikator</persName>
+</person>
+<person xml:id="croala.drama.362975">
+  <persName>Demetrije Poliorket</persName>
+</person>
+<person xml:id="croala.drama.349539">
+  <persName>Demetrius</persName>
+</person>
+<person xml:id="croala.drama.357566">
+  <persName>Demisija</persName>
+</person>
+<person xml:id="croala.drama.337982">
+  <persName>Demokrit, Aleksandar i Klodoald</persName>
+</person>
+<person xml:id="croala.drama.331449">
+  <persName>Diana</persName>
+</person>
+<person xml:id="croala.drama.365034">
+  <persName>Dindim</persName>
+</person>
+<person xml:id="croala.drama.350383">
+  <persName>Diodot Trifon</persName>
+</person>
+<person xml:id="croala.drama.346019">
+  <persName>Dionizije Sicilski</persName>
+</person>
+<person xml:id="croala.drama.349451">
+  <persName>Djevica Marija</persName>
+</person>
+<person xml:id="croala.drama.337036">
+  <persName>Dns. Thomas Kovachich</persName>
+</person>
+<person xml:id="croala.drama.374518">
+  <persName>Dosil</persName>
+</person>
+<person xml:id="croala.drama.369367">
+  <persName>Đakovački biskup Josip Antun Čolnić</persName>
+</person>
+<person xml:id="croala.drama.364481">
+  <persName>Đem</persName>
+</person>
+<person xml:id="croala.drama.354938">
+  <persName>Ebjatar</persName>
+</person>
+<person xml:id="croala.drama.333583">
+  <persName>Efrem</persName>
+</person>
+<person xml:id="croala.drama.334938">
+  <persName>Egika</persName>
+</person>
+<person xml:id="croala.drama.369150">
+  <persName>Eleazar</persName>
+</person>
+<person xml:id="croala.drama.341371">
+  <persName>Elias StossichLibert. Otoch. parvista</persName>
+</person>
+                  <!-- dodala simon odorchich u tri ostala fajla, tu ga nema -->
+<person xml:id="croala.drama.341439">
+  <persName>Elias StossichLibert. Otochichensis</persName>
+</person>
+<person xml:id="croala.drama.357180">
+  <persName>Elizej</persName>
+</person>
+<person xml:id="croala.drama.339313">
+  <persName> Emerik Mirko Erdödy</persName>
+</person>
+<person xml:id="croala.drama.372972">
+  <persName>Erazmo Montano</persName>
+</person>
+<person xml:id="croala.drama.355313">
+  <persName>Eugenija</persName>
+</person>
+<person xml:id="croala.drama.365113">
+  <persName>Eugenije</persName>
+</person>
+
+<!-- Eugen Savojski premješten u -fikcija -->
+<person xml:id="croala.drama.330985">
+  <persName>Eurijal</persName>
+</person>
+<person xml:id="croala.drama.362454">
+  <persName>Euril</persName>
+</person>
+<person xml:id="croala.drama.357766">
+  <persName>Evil Merodak</persName>
+</person>
+<person xml:id="croala.drama.355627">
+  <persName>Ezav</persName>
+</person>
+<person xml:id="croala.drama.330285">
+  <persName>Falkon</persName>
+</person>
+<person xml:id="croala.drama.340174">
+  <persName>Fatingo</persName>
+</person>
+<person xml:id="croala.drama.347752">
+  <persName>Ferdinand</persName>
+</person>
+<person xml:id="croala.drama.363354">
+  <persName>Ferdinand I. Habsburški</persName>
+</person>
+<person xml:id="croala.drama.367447">
+  <persName>Ferdinand II.</persName>
+</person>
+<person xml:id="croala.drama.362567">
+  <persName>Fernandez</persName>
+</person>
+<person xml:id="croala.drama.356434">
+  <persName>Filemon</persName>
+</person>
+<person xml:id="croala.drama.359365">
+  <persName>Filip Makedonski</persName>
+</person>
+<person xml:id="croala.drama.368651">
+  <persName>Filist</persName>
+</person>
+<person xml:id="croala.drama.343300">
+  <persName>Finaert</persName>
+</person>
+<person xml:id="croala.drama.344102">
+  <persName>Fingo</persName>
+</person>
+<person xml:id="croala.drama.332063">
+  <persName>Firand Japanac</persName>
+</person>
+<person xml:id="croala.drama.352145">
+  <persName>Flavije Aetije</persName>
+</person>
+<person xml:id="croala.drama.317752">
+  <persName>Flavije Julije Krisp</persName>
+</person>
+<person xml:id="croala.drama.335711">
+  <persName>Flora</persName>
+</person>
+<person xml:id="croala.drama.328113">
+  <persName>Florindus</persName>
+</person>
+<person xml:id="croala.drama.361452">
+  <persName>Foka</persName>
+</person>
+<person xml:id="croala.drama.375157">
+  <persName>Fra Marijan Lanosović</persName>
+</person>
+<person xml:id="croala.drama.328370">
+  <persName>Franciscus Achmayr</persName>
+</person>
+<person xml:id="croala.drama.328079">
+  <persName>Franciscus Czibin</persName>
+</person>
+<person xml:id="croala.drama.341335">
+  <persName>Franciscus JesichNob. Tersactensis rhetor</persName>
+</person>
+<person xml:id="croala.drama.374293">
+  <persName>Franciscus Losperger</persName>
+</person>
+<person xml:id="croala.drama.341421">
+  <persName>Franciscus MessichLibert. Briniensis</persName>
+</person>
+<person xml:id="croala.drama.328186">
+  <persName>Franciscus Pancharich</persName>
+</person>
+<person xml:id="croala.drama.331371">
+  <persName>Franciscus Slovenacz</persName>
+</person>
+<person xml:id="croala.drama.341503">
+  <persName>Franciscus StaniceoNob. Dalm. Segn. princip.</persName>
+</person>
+<person xml:id="croala.drama.356145">
+  <persName>Franciscus Xav. Dolovecz</persName>
+</person>
+<person xml:id="croala.drama.354580">
+  <persName>Franje Klobušickogzagrebačkog biskupa </persName>
+</person>
+<person xml:id="croala.drama.346768">
+  <persName>Franjo Baćani</persName>
+</person>
+<person xml:id="croala.drama.356800">
+  <persName>Franjo Thauzy</persName>
+</person>
+<person xml:id="croala.drama.351482">
+  <persName>Frarambo</persName>
+</person>
+<person xml:id="croala.drama.341878">
+  <persName>Fridrik I. od Badena</persName>
+</person>
+<person xml:id="croala.drama.356131">
+  <persName>Gadatas</persName>
+</person>
+<person xml:id="croala.drama.371119">
+  <persName>Gaj Julije Cezar</persName>
+</person>
+<person xml:id="croala.drama.328351">
+  <persName>Ganymedes</persName>
+</person>
+<person xml:id="croala.drama.360301">
+  <persName>Garcia</persName>
+</person>
+<person xml:id="croala.drama.346857">
+  <persName>Genardus</persName>
+</person>
+<person xml:id="croala.drama.340806">
+  <persName>Genevefa</persName>
+</person>
+<person xml:id="croala.drama.369256">
+  <persName>Genoveva od Brabanta</persName>
+</person>
+<person xml:id="croala.drama.331417">
+  <persName>Georgius Alexander Mallenich</persName>
+</person>
+<person xml:id="croala.drama.341211">
+  <persName>Georgius CoraiczNob. Goriti. parvista</persName>
+</person>
+<person xml:id="croala.drama.328198">
+  <persName>Georgius Greblichki</persName>
+</person>
+<person xml:id="croala.drama.328156">
+  <persName>Georgius Nagy</persName>
+</person>
+<person xml:id="croala.drama.353055">
+  <persName>Georg SeverJuraj Sever</persName>
+</person>
+<person xml:id="croala.drama.352650">
+  <persName>Gideon</persName>
+</person>
+<person xml:id="croala.drama.351564">
+  <persName>Gilimer</persName>
+</person>
+<person xml:id="croala.drama.367092">
+  <persName>Glauko</persName>
+</person>
+<person xml:id="croala.drama.356141">
+  <persName>Gobrias</persName>
+</person>
+<person xml:id="croala.drama.373074">
+  <persName>Godefroy od Bouillona</persName>
+</person>
+<person xml:id="croala.drama.315691">
+  <persName>Golijat</persName>
+</person>
+<person xml:id="croala.drama.340859">
+  <persName>Golon</persName>
+</person>
+<person xml:id="croala.drama.317664">
+  <persName>grof Gašpar Drašković</persName>
+</person>
+<person xml:id="croala.drama.324053">
+  <persName>groficaDrašković</persName>
+</person>
+<person xml:id="croala.drama.324058">
+  <persName> grofIvan Drašković</persName>
+</person>
+<person xml:id="croala.drama.328139">
+  <persName>Gubernator Urbis</persName>
+</person>
+<person xml:id="croala.drama.351669">
+  <persName>Gusman</persName>
+</person>
+<person xml:id="croala.drama.356653">
+  <persName>Guy od Lusignana</persName>
+</person>
+<person xml:id="croala.drama.368475">
+  <persName>Hanibal Kartaški vojskovođa</persName>
+</person>
+<person xml:id="croala.drama.353490">
+  <persName>Haonik</persName>
+</person>
+<person xml:id="croala.drama.345728">
+  <persName>Harite</persName>
+</person>
+<person xml:id="croala.drama.357862">
+  <persName>Haritija</persName>
+</person>
+<person xml:id="croala.drama.350655">
+  <persName>Hariton</persName>
+</person>
+<person xml:id="croala.drama.314395">
+  <persName>Heraklo</persName>
+</person>
+<person xml:id="croala.drama.348849">
+  <persName>Heraldo</persName>
+</person>
+<person xml:id="croala.drama.330068">
+  <persName>Herezij</persName>
+</person>
+<person xml:id="croala.drama.357859">
+  <persName>Herman</persName>
+</person>
+<person xml:id="croala.drama.328049">
+  <persName>Heroldus Regis filius</persName>
+</person>
+<person xml:id="croala.drama.360488">
+  <persName>Hijacint</persName>
+</person>
+<person xml:id="croala.drama.374704">
+  <persName>Hijakuntul</persName>
+</person>
+<person xml:id="croala.drama.357948">
+  <persName>Hijan</persName>
+</person>
+<person xml:id="croala.drama.355416">
+  <persName>Hijerijan</persName>
+</person>
+<person xml:id="croala.drama.330888">
+  <persName>Hilderik</persName>
+</person>
+<person xml:id="croala.drama.362660">
+  <persName>Hipolit</persName>
+</person>
+<person xml:id="croala.drama.354541">
+  <persName>Hošea</persName>
+</person>
+<person xml:id="croala.drama.337208">
+  <persName>Hremet</persName>
+</person>
+<person xml:id="croala.drama.342377">
+  <persName>Hrvatski kralj Gostomil</persName>
+</person>
+<person xml:id="croala.drama.341184">
+  <persName>Illmus. D. Joannes de WkassovichS. R. I. Eques Dalm. Segn parvista</persName>
+</person>
+<person xml:id="croala.drama.341035">
+  <persName>Illmus D. Felix de WkassovichS. R. I. Eques Dalm. Segn. parvista</persName>
+</person>
+<person xml:id="croala.drama.340990">
+  <persName>Illmus D. Vincentius de WkassovichS. R. I. Eques Dalm. Segn. parvista</persName>
+</person>
+<person xml:id="croala.drama.340842">
+  <persName>Illustrissimus D. Antonius de WkassovichS. R. I. Eques Ralm. Segniensis poeta</persName>
+</person>
+<person xml:id="croala.drama.340810">
+  <persName>Illustrissimus D. Carolus Joannes WkassovichS. R. I. Eques Dalm. Seniensis poeta</persName>
+</person>
+<person xml:id="croala.drama.340975">
+  <persName>Illustrissimus D. Georgius de WkassovichS. R. I. Eques principista</persName>
+</person>
+<person xml:id="croala.drama.340953">
+  <persName>Illustrissimus D. Joannes de WkassovichS. R. I. Eques Dalm. Segn. grammatista</persName>
+</person>
+<person xml:id="croala.drama.340893">
+  <persName>Illustrissimus D. Joannes WkassovichS. R. I. Eques Dalm. Segn. Poeta</persName>
+</person>
+<person xml:id="croala.drama.340878">
+  <persName>Illustrissimus D. Vicentius Vitus de WkassovichS. R. I. Dalm. Segniensis poeta</persName>
+</person>
+<person xml:id="croala.drama.340908">
+  <persName>Illustrissimus Dom. Philippus Stephanus de WkassovichS. R. I. Eques Dalm. Segn parvista</persName>
+</person>
+<person xml:id="croala.drama.322876">
+  <persName>Instructor Johannes Patachich</persName>
+</person>
+<person xml:id="croala.drama.319353">
+  <persName>Isus</persName>
+</person>
+<person xml:id="croala.drama.328324">
+  <persName>Iuppiter</persName>
+</person>
+<person xml:id="croala.drama.330583">
+  <persName>Ivana Donatija</persName>
+</person>
+<person xml:id="croala.drama.338323">
+  <persName>Ivan Antun pl. Benzoni</persName>
+</person>
+<person xml:id="croala.drama.366220">
+  <persName>Ivan Austrijski</persName>
+</person>
+<person xml:id="croala.drama.338587">
+  <persName>Ivan Drašković</persName>
+</person>
+<person xml:id="croala.drama.343993">
+  <persName>Ivan Patačić</persName>
+</person>
+<person xml:id="croala.drama.314264">
+  <persName>Izak</persName>
+</person>
+<person xml:id="croala.drama.353964">
+  <persName>Jafeng</persName>
+</person>
+<person xml:id="croala.drama.345537">
+  <persName>Jakob</persName>
+</person>
+<person xml:id="croala.drama.353876">
+  <persName>Jakov</persName>
+</person>
+<person xml:id="croala.drama.339531">
+  <persName>Jazon</persName>
+</person>
+<person xml:id="croala.drama.354074">
+  <persName>Jerubaal Gideon</persName>
+</person>
+<person xml:id="croala.drama.343092">
+  <persName>Jezuald</persName>
+</person>
+<person xml:id="croala.drama.314124">
+  <persName>Jiftah</persName>
+</person>
+<person xml:id="croala.drama.365779">
+  <persName>Joahaz</persName>
+</person>
+<person xml:id="croala.drama.337049">
+  <persName>Joannes Baptista Sztarchevich</persName>
+</person>
+<person xml:id="croala.drama.341282">
+  <persName>Joannes DuimovichCivis Carolostad. syntaxista</persName>
+</person>
+<person xml:id="croala.drama.328272">
+  <persName>Joannes Frankovich</persName>
+</person>
+<person xml:id="croala.drama.331453">
+  <persName>Joannes Gallian</persName>
+</person>
+<person xml:id="croala.drama.328241">
+  <persName>Joannes Hosztoty</persName>
+</person>
+<person xml:id="croala.drama.316977">
+  <persName>Joannes Ingori</persName>
+</person>
+<person xml:id="croala.drama.341353">
+  <persName>Joannes KatanarDalm. Segn. principista</persName>
+</person>
+<person xml:id="croala.drama.341273">
+  <persName>Joannes KrilovichCivis Dalm. Segn. grammatista</persName>
+</person>
+<person xml:id="croala.drama.341066">
+  <persName>Joannes KrivosichCivis Dalm. Segn. grammatista</persName>
+</person>
+<person xml:id="croala.drama.341515">
+  <persName>Joannes KrivosichCivis Dalm. Segn grammat.</persName>
+</person>
+<person xml:id="croala.drama.341389">
+  <persName>Joannes LukinichNob. Segn. parv.</persName>
+</person>
+<person xml:id="croala.drama.340938">
+  <persName>Joannes MessichPerillustris licensis grammatista</persName>
+</person>
+<person xml:id="croala.drama.374280">
+  <persName>Joannes Nep. Bedekovich de Kumor</persName>
+</person>
+<person xml:id="croala.drama.341117">
+  <persName>Joannes PasquiezCivis Segn. principista</persName>
+</person>
+<person xml:id="croala.drama.341202">
+  <persName>Joannes PochmaievichNob. Dalm. Segn. principista</persName>
+</person>
+<person xml:id="croala.drama.328023">
+  <persName>Joannes Rex Castellae</persName>
+</person>
+<person xml:id="croala.drama.328328">
+  <persName>Joannes Sommenhamer</persName>
+</person>
+<person xml:id="croala.drama.355721">
+  <persName>Joaš</persName>
+</person>
+<person xml:id="croala.drama.361149">
+  <persName>Jojakim</persName>
+</person>
+<person xml:id="croala.drama.358821">
+  <persName>Jonatan</persName>
+</person>
+<person xml:id="croala.drama.350381">
+  <persName>Jonatan Afus</persName>
+</person>
+<person xml:id="croala.drama.354173">
+  <persName>Joram</persName>
+</person>
+<person xml:id="croala.drama.356155">
+  <persName>Jos. Skerlecz</persName>
+</person>
+<person xml:id="croala.drama.328066">
+  <persName>Josephus de Kallanek</persName>
+</person>
+<person xml:id="croala.drama.328210">
+  <persName>Josephus Fabianich</persName>
+</person>
+<person xml:id="croala.drama.356105">
+  <persName>Josephus Fudurich</persName>
+</person>
+<person xml:id="croala.drama.341541">
+  <persName>Josephus HabissCivis Segn. syntaxista</persName>
+</person>
+<person xml:id="croala.drama.341469">
+  <persName>Josephus KovachichDalm. Segn.</persName>
+</person>
+<person xml:id="croala.drama.326569">
+  <persName>Josephus Lotharingiae dux</persName>
+</person>
+<person xml:id="croala.drama.328117">
+  <persName>Josephus Patachich</persName>
+  <!-- ovo treba biti Josephus Patatich, Alvarus Luna 1710. -->
+</person>
+<person xml:id="croala.drama.328174">
+  <persName>Josephus Sabalich</persName>
+</person>
+<person xml:id="croala.drama.356115">
+  <persName>Josephus Spolarich</persName>
+</person>
+<person xml:id="croala.drama.361241">
+  <persName>Joseramno</persName>
+</person>
+<person xml:id="croala.drama.349652">
+  <persName>Joseramus</persName>
+</person>
+<person xml:id="croala.drama.318296">
+  <persName>Josip</persName>
+</person>
+<person xml:id="croala.drama.358909">
+  <persName>Josip, austrijski nadvojvoda</persName>
+</person>
+<person xml:id="croala.drama.339958">
+  <persName>Josip Esterhazy</persName>
+</person>
+<person xml:id="croala.drama.325981">
+  <persName>Josip I.</persName>
+</person>
+<person xml:id="croala.drama.324930">
+  <persName>Josip Rožman</persName>
+</person>
+<person xml:id="croala.drama.317499">
+  <persName>Jovinijan</persName>
+</person>
+<person xml:id="croala.drama.318400">
+  <persName>Julijan Odmetnik</persName>
+</person>
+<person xml:id="croala.drama.350554">
+  <persName>Juraj Kastriotić Skenderbeg</persName>
+</person>
+<person xml:id="croala.drama.337288">
+  <persName>Justin</persName>
+</person>
+<person xml:id="croala.drama.351103">
+  <persName>Just Ukondono</persName>
+</person>
+<person xml:id="croala.drama.348764">
+  <persName>Kaj</persName>
+</person>
+<person xml:id="croala.drama.344194">
+  <persName>Kangxi</persName>
+</person>
+<person xml:id="croala.drama.332700">
+  <persName>Karlo Dan</persName>
+</person>
+<person xml:id="croala.drama.326070">
+  <persName>Karlo III.</persName>
+</person>
+<person xml:id="croala.drama.372099">
+  <persName>Karlo Veliki</persName>
+</person>
+<person xml:id="croala.drama.330795">
+  <persName>Karlo VI.</persName>
+</person>
+<person xml:id="croala.drama.332422">
+  <persName>Kasan</persName>
+</person>
+<person xml:id="croala.drama.342886">
+  <persName>Kastor</persName>
+</person>
+<person xml:id="croala.drama.363679">
+  <persName>Kavadh</persName>
+</person>
+<person xml:id="croala.drama.361358">
+  <persName>Kedem</persName>
+</person>
+<person xml:id="croala.drama.357656">
+  <persName>Kedorlaomer</persName>
+</person>
+<person xml:id="croala.drama.352419">
+  <persName>Khosrau</persName>
+</person>
+<person xml:id="croala.drama.370864">
+  <persName>Kir</persName>
+</person>
+                  <!-- dodala Sigismund od Burgundije u prosopografija-fikcija -->
+<person xml:id="croala.drama.363779">
+  <persName>Kir II.</persName>
+</person>
+<person xml:id="croala.drama.368951">
+  <persName>Kir Mlađi</persName>
+</person>
+<person xml:id="croala.drama.364691">
+  <persName>Klaudije</persName>
+</person>
+<person xml:id="croala.drama.358729">
+  <persName>Kleant</persName>
+</person>
+<person xml:id="croala.drama.351387">
+  <persName>Klement</persName>
+</person>
+<person xml:id="croala.drama.367263">
+  <persName>Kleostrat</persName>
+</person>
+<person xml:id="croala.drama.353204">
+  <persName>Klodoald</persName>
+</person>
+<person xml:id="croala.drama.337671">
+  <persName>Kodar</persName>
+</person>
+<person xml:id="croala.drama.349454">
+  <persName>Konan</persName>
+</person>
+<person xml:id="croala.drama.338226">
+  <persName>Konradin</persName>
+</person>
+<person xml:id="croala.drama.341881">
+  <persName>Konradin Hohenstaufovac</persName>
+</person>
+<person xml:id="croala.drama.357466">
+  <persName>Konstantin I. Veliki</persName>
+</person>
+<person xml:id="croala.drama.349150">
+  <persName>Kraljević Surnijam</persName>
+</person>
+<person xml:id="croala.drama.341701">
+  <persName>Kralj Jermerik</persName>
+</person>
+<person xml:id="croala.drama.322074">
+  <persName>kralj Konrad</persName>
+</person>
+<person xml:id="croala.drama.359205">
+  <persName>Krez</persName>
+</person>
+<person xml:id="croala.drama.318562">
+  <persName>Krizaorij</persName>
+</person>
+<person xml:id="croala.drama.364379">
+  <persName>Ksenofont</persName>
+</person>
+<person xml:id="croala.drama.351184">
+  <persName>Ksinungo</persName>
+</person>
+<person xml:id="croala.drama.331406">
+  <persName>Ladislaus Franchak</persName>
+</person>
+<person xml:id="croala.drama.374290">
+  <persName>Ladislaus Jankus</persName>
+</person>
+<person xml:id="croala.drama.358036">
+  <persName>Landelin</persName>
+</person>
+<person xml:id="croala.drama.363970">
+  <persName>Lanulf</persName>
+</person>
+<person xml:id="croala.drama.349823">
+  <persName>Leandar</persName>
+</person>
+<person xml:id="croala.drama.358147">
+  <persName>Leander</persName>
+</person>
+<person xml:id="croala.drama.324893">
+  <persName>Leh</persName>
+</person>
+<person xml:id="croala.drama.331224">
+  <persName>Leonillus</persName>
+</person>
+<person xml:id="croala.drama.346551">
+  <persName>Leontius</persName>
+</person>
+<person xml:id="croala.drama.323080">
+  <persName>Leopold I.</persName>
+</person>
+<person xml:id="croala.drama.354368">
+  <persName>Levild</persName>
+</person>
+<person xml:id="croala.drama.342274">
+  <persName>Libert</persName>
+</person>
+<person xml:id="croala.drama.345730">
+  <persName>Lidamand</persName>
+</person>
+<person xml:id="croala.drama.343297">
+  <persName>Liderik</persName>
+</person>
+<person xml:id="croala.drama.340358">
+  <persName>Likambar</persName>
+</person>
+<person xml:id="croala.drama.352842">
+  <persName>Likast</persName>
+</person>
+<person xml:id="croala.drama.373182">
+  <persName>Likid</persName>
+</person>
+<person xml:id="croala.drama.370263">
+  <persName>Lingosum</persName>
+</person>
+<person xml:id="croala.drama.351390">
+  <persName>Lino</persName>
+</person>
+<person xml:id="croala.drama.341113">
+  <persName>Lisimachus</persName>
+</person>
+<person xml:id="croala.drama.337888">
+  <persName>Lorenzo Corsini</persName>
+</person>
+<person xml:id="croala.drama.328308">
+  <persName>Lucas Bakranin</persName>
+</person>
+<person xml:id="croala.drama.347242">
+  <persName>Lucije Anej Flor</persName>
+</person>
+<person xml:id="croala.drama.355035">
+  <persName>Lucije Elije Sejan</persName>
+</person>
+<person xml:id="croala.drama.339738">
+  <persName>Luis Florez</persName>
+</person>
+<person xml:id="croala.drama.341445">
+  <persName>Lukas DubravchichLibert. Otochichensis</persName>
+</person>
+<person xml:id="croala.drama.364697">
+  <persName>Luperk</persName>
+</person>
+<person xml:id="croala.drama.350119">
+  <persName>Magistar Andrija Božek</persName>
+</person>
+<person xml:id="croala.drama.367025">
+  <persName>Magistar Andrija Grabar</persName>
+</person>
+<person xml:id="croala.drama.371561">
+  <persName>Magistar Andrija Purulić</persName>
+</person>
+<person xml:id="croala.drama.368793">
+  <persName>Magistar Ante Raisp</persName>
+</person>
+<person xml:id="croala.drama.350591">
+  <persName>Magistar Ante Riezner</persName>
+</person>
+<person xml:id="croala.drama.333624">
+  <persName>Magistar Baltazar Gregorić</persName>
+</person>
+<person xml:id="croala.drama.360914">
+  <persName>Magistar Blaž Kovačević</persName>
+</person>
+<person xml:id="croala.drama.372450">
+  <persName>Magistar Dragutin Krušnik</persName>
+</person>
+<person xml:id="croala.drama.373118">
+  <persName>Magistar Filip Speranzi</persName>
+</person>
+<person xml:id="croala.drama.358561">
+  <persName>Magistar Franjo Gašlević</persName>
+</person>
+<person xml:id="croala.drama.352461">
+  <persName>Magistar Franjo Šeklić</persName>
+</person>
+<person xml:id="croala.drama.361684">
+  <persName>Magistar Ignacije Derkić</persName>
+</person>
+<person xml:id="croala.drama.360609">
+  <persName>Magistar Ignacije Kampus</persName>
+</person>
+<person xml:id="croala.drama.352687">
+  <persName>Magistar Ignacije Liesganigg</persName>
+</person>
+<person xml:id="croala.drama.359694">
+  <persName>Magistar Ignacije Pauckner</persName>
+</person>
+<person xml:id="croala.drama.359140">
+  <persName>Magistar Ivan Bartolović</persName>
+</person>
+                    <!-- Ivan K. Mazzoleni premješten u latinisti-prosopografija-drama -->
+
+<person xml:id="croala.drama.339255">
+  <persName>Magistar Ivan K. Vugrinović</persName>
+</person>
+<person xml:id="croala.drama.362899">
+  <persName>Magistar Ivan Katarinčić</persName>
+</person>
+<person xml:id="croala.drama.368083">
+  <persName>Magistar Ivan Lašić</persName>
+</person>
+<person xml:id="croala.drama.362294">
+  <persName>Magistar Ivan Nepomuk Novak</persName>
+</person>
+<person xml:id="croala.drama.368314">
+  <persName>Magistar Ivan Stipanović</persName>
+</person>
+<person xml:id="croala.drama.365816">
+  <persName>Magistar Ivan Škrlec</persName>
+</person>
+<person xml:id="croala.drama.356582">
+  <persName>Magistar Ivan Trnski</persName>
+</person>
+<person xml:id="croala.drama.373808">
+  <persName>magistar Ivan Vitković</persName>
+</person>
+<person xml:id="croala.drama.373811">
+  <persName>Magistar Ivan Vitković</persName>
+</person>
+<person xml:id="croala.drama.372560">
+  <persName>Magistar Jakov Stipanović</persName>
+</person>
+<person xml:id="croala.drama.361788">
+  <persName>Magistar Josip Jelenčić</persName>
+</person>
+<person xml:id="croala.drama.348344">
+  <persName>magistar Josip Krajačić</persName>
+</person>
+<person xml:id="croala.drama.348703">
+  <persName>Magistar Josip Krajačić</persName>
+  <!-- ovo su dva ista, deleted -->
+</person>
+<person xml:id="croala.drama.368902">
+  <persName>magistar Josip Mikoczi</persName>
+</person>
+<person xml:id="croala.drama.368852">
+  <persName>Magistar Josip Mikoczi</persName>
+</person>
+<person xml:id="croala.drama.364230">
+  <persName>Magistar Josip Škrlec</persName>
+</person>
+<person xml:id="croala.drama.358287">
+  <persName>Magistar Juraj Lanch</persName>
+</person>
+<person xml:id="croala.drama.363012">
+  <persName>Magistar Juraj Mordax</persName>
+</person>
+<person xml:id="croala.drama.323218">
+  <persName>Magistar Juraj Patačić</persName>
+</person>
+<person xml:id="croala.drama.354303">
+  <persName>Magistar Juraj Sever</persName>
+</person>
+<person xml:id="croala.drama.335365">
+  <persName>Magistar Juraj Šnideršić</persName>
+</person>
+<person xml:id="croala.drama.338262">
+  <persName>Magistar Ljudevit Bužan</persName>
+</person>
+<person xml:id="croala.drama.335543">
+  <persName>Magistar Matija Laurenčić</persName>
+</person>
+<person xml:id="croala.drama.369813">
+  <persName>Magistar Matija Purulić</persName>
+</person>
+<person xml:id="croala.drama.349092">
+  <persName>Magistar Matija Šimatić</persName>
+</person>
+<person xml:id="croala.drama.360429">
+  <persName>Magistar Mirko Mihalj</persName>
+</person>
+<person xml:id="croala.drama.338566">
+  <persName>Magistar Nikola Laurenčić</persName>
+</person>
+<person xml:id="croala.drama.331359">
+  <persName>Magistar Nikola Mrzljak</persName>
+</person>
+<person xml:id="croala.drama.367783">
+  <persName>Magistar Stjepan Krušec</persName>
+</person>
+<person xml:id="croala.drama.334662">
+  <persName>Magistar Žiga Patačić</persName>
+</person>
+<person xml:id="croala.drama.334808">
+  <persName>Magistar Žiga Petričević</persName>
+</person>
+<person xml:id="croala.drama.320648">
+  <persName>Maksimilijan Austrijski</persName>
+</person>
+<person xml:id="croala.drama.335618">
+  <persName>Maksimina</persName>
+</person>
+<person xml:id="croala.drama.349930">
+  <persName>Manaše</persName>
+</person>
+<person xml:id="croala.drama.372192">
+  <persName>Mandanes</persName>
+</person>
+<person xml:id="croala.drama.340986">
+  <persName>Manuchat</persName>
+</person>
+<person xml:id="croala.drama.341051">
+  <persName>Marcus BuhovaczNob. Segn. poeta</persName>
+</person>
+<person xml:id="croala.drama.341380">
+  <persName>Marcush WchetichLibert. Brin. parv.</persName>
+</person>
+<person xml:id="croala.drama.374296">
+  <persName>Marcus Pavlichich</persName>
+</person>
+<person xml:id="croala.drama.341553">
+  <persName>Marcus ProhichCivis Dalm. Segn. grammatista</persName>
+</person>
+
+<!-- Marijan je sv. Marijan u latinisti-prosopografija-fikcija.xml -->
+
+<person xml:id="croala.drama.324018">
+  <persName>Marija Stuart</persName>
+</person>
+<person xml:id="croala.drama.347055">
+  <persName>Marin</persName>
+</person>
+<person xml:id="croala.drama.328737">
+  <persName>Marko Atilije Regul</persName>
+</person>
+<person xml:id="croala.drama.360972">
+  <persName>Marko Aurelije Karin</persName>
+</person>
+<person xml:id="croala.drama.360392">
+  <persName>Marko Furije Kamil</persName>
+</person>
+<person xml:id="croala.drama.371122">
+  <persName>Marko Junije Brut</persName>
+</person>
+<person xml:id="croala.drama.341255">
+  <persName>Martinus PasquanCivis Dalm. Segn. poëta</persName>
+</person>
+<person xml:id="croala.drama.328284">
+  <persName>Martinus Turkovich</persName>
+</person>
+<person xml:id="croala.drama.358251">
+  <persName>Matatija</persName>
+</person>
+<person xml:id="croala.drama.341451">
+  <persName>Mathaeus BrosovichLibert. Thovinen.</persName>
+</person>
+<person xml:id="croala.drama.341463">
+  <persName>Mathaeus SokolichLib. Novien.</persName>
+</person>
+<person xml:id="croala.drama.341300">
+  <persName>Mattheus PerkovichLibert. Stanicensis parvista</persName>
+</person>
+<person xml:id="croala.drama.354446">
+  <persName>Mauricije</persName>
+</person>
+<person xml:id="croala.drama.349056">
+  <persName>Meandar</persName>
+</person>
+<person xml:id="croala.drama.339534">
+  <persName>Medeja</persName>
+</person>
+<person xml:id="croala.drama.352536">
+  <persName>Meh</persName>
+</person>
+<person xml:id="croala.drama.350653">
+  <persName>Melanip</persName>
+</person>
+<person xml:id="croala.drama.346195">
+  <persName>Melhior</persName>
+</person>
+<person xml:id="croala.drama.365390">
+  <persName>Meliapor</persName>
+</person>
+<person xml:id="croala.drama.315427">
+  <persName>Melkisedek</persName>
+</person>
+<person xml:id="croala.drama.331413">
+  <persName>Melosyrus</persName>
+</person>
+<person xml:id="croala.drama.347959">
+  <persName>Menalho</persName>
+</person>
+<person xml:id="croala.drama.350003">
+  <persName>Menekej</persName>
+</person>
+<person xml:id="croala.drama.346650">
+  <persName>Menekrat</persName>
+</person>
+<person xml:id="croala.drama.367266">
+  <persName>Menestrat</persName>
+</person>
+<person xml:id="croala.drama.361549">
+  <persName>Menije</persName>
+</person>
+<person xml:id="croala.drama.330883">
+  <persName>Merovej</persName>
+</person>
+<person xml:id="croala.drama.359762">
+  <persName>Mešad</persName>
+</person>
+<person xml:id="croala.drama.328253">
+  <persName>Michael Daniel</persName>
+</person>
+<person xml:id="croala.drama.341398">
+  <persName>Michael DolinerDalm. Segn. parv</persName>
+</person>
+<person xml:id="croala.drama.328040">
+  <persName>Michaël Dombi</persName>
+</person>
+<person xml:id="croala.drama.328296">
+  <persName>Michael Fortun</persName>
+</person>
+<person xml:id="croala.drama.328130">
+  <persName>Michaël Horvath</persName>
+</person>
+<person xml:id="croala.drama.341344">
+  <persName>Michaël MatichCivis Segn. grammat</persName>
+</person>
+<person xml:id="croala.drama.341589">
+  <persName>Michael MatichCivis Segn. Grammatista</persName>
+</person>
+<person xml:id="croala.drama.358947">
+  <persName>Mijo Valinčić</persName>
+</person>
+<person xml:id="croala.drama.362972">
+  <persName>Mitridat I.</persName>
+</person>
+<person xml:id="croala.drama.361753">
+  <persName>Mitridat VI.</persName>
+</person>
+<person xml:id="croala.drama.345941">
+  <persName>Modest</persName>
+</person>
+<person xml:id="croala.drama.350739">
+  <persName>Moenas</persName>
+</person>
+<person xml:id="croala.drama.352969">
+  <persName>Mops</persName>
+</person>
+<person xml:id="croala.drama.341016">
+  <persName>Muffti</persName>
+</person>
+<person xml:id="croala.drama.321089">
+  <persName>Nabal</persName>
+</person>
+<person xml:id="croala.drama.318199">
+  <persName>Nabukodonosor</persName>
+</person>
+<person xml:id="croala.drama.345405">
+  <persName>Nećak zagrebačkog biskupa Jurja Branjuga</persName>
+</person>
+<person xml:id="croala.drama.356151">
+  <persName>Nicanor</persName>
+</person>
+<person xml:id="croala.drama.341020">
+  <persName>Nicolaus DrasenovichLibert. Brini rhetor</persName>
+</person>
+<person xml:id="croala.drama.341153">
+  <persName>Nicolaus HerglianovichPraenob. Segn. principista</persName>
+</person>
+<person xml:id="croala.drama.341457">
+  <persName>Nicolaus SkochichLib. Novien.</persName>
+</person>
+<person xml:id="croala.drama.356111">
+  <persName>Niglisar</persName>
+</person>
+<person xml:id="croala.drama.341077">
+  <persName>Nigrifax Magus Aegyptius</persName>
+</person>
+<person xml:id="croala.drama.353079">
+  <persName>Nikola Zrinski</persName>
+</person>
+<person xml:id="croala.drama.319626">
+  <persName>Nikola Zrinjski</persName>
+</person>
+<person xml:id="croala.drama.344806">
+  <persName>Nikomed</persName>
+</person>
+<person xml:id="croala.drama.330988">
+  <persName>Nis</persName>
+</person>
+<person xml:id="croala.drama.359288">
+  <persName>Nisus Delius</persName>
+</person>
+<person xml:id="croala.drama.340450">
+  <persName>Nitrinus</persName>
+</person>
+<person xml:id="croala.drama.327736">
+  <persName>Noster humanitatis professor</persName>
+</person>
+<person xml:id="croala.drama.373279">
+  <persName>Numitor</persName>
+</person>
+<person xml:id="croala.drama.331435">
+  <persName>Nuntius</persName>
+</person>
+<person xml:id="croala.drama.330661">
+  <persName>o. Ivana Donatija</persName>
+</person>
+<person xml:id="croala.drama.330564">
+  <persName>o. Ivan Donati</persName>
+</person>
+<person xml:id="croala.drama.322863">
+  <persName>o. Ivan Patačić</persName>
+</person>
+<person xml:id="croala.drama.355867">
+  <persName>o. Ivan Volantić</persName>
+</person>
+<person xml:id="croala.drama.348257">
+  <persName>o. Petar Petrold</persName>
+</person>
+<person xml:id="croala.drama.340889">
+  <persName>Ordenus</persName>
+</person>
+<person xml:id="croala.drama.331318">
+  <persName>Orest</persName>
+</person>
+<person xml:id="croala.drama.331378">
+  <persName>Orestes</persName>
+</person>
+<person xml:id="croala.drama.340561">
+  <persName>Orod II.</persName>
+</person>
+<person xml:id="croala.drama.371435">
+  <persName>Osiris</persName>
+</person>
+<person xml:id="croala.drama.329182">
+  <persName>Otac Luis Florez</persName>
+</person>
+<person xml:id="croala.drama.363255">
+  <persName>otac Tit Manlije Torkvat</persName>
+</person>
+<person xml:id="croala.drama.366534">
+  <persName>Ozin</persName>
+</person>
+<person xml:id="croala.drama.330589">
+  <persName>P. Johannes Donati</persName>
+</person>
+<person xml:id="croala.drama.335708">
+  <persName>Pales</persName>
+</person>
+<person xml:id="croala.drama.365583">
+  <persName>Pastor</persName>
+</person>
+<person xml:id="croala.drama.328825">
+  <persName> Pastor</persName>
+</person>
+<person xml:id="croala.drama.348404">
+  <persName>Patačići</persName>
+</person>
+<person xml:id="croala.drama.328343">
+  <persName>Paulus de Kallanek</persName>
+</person>
+<person xml:id="croala.drama.341415">
+  <persName>Paulus MudrovchichPerillustris Ribnicensis</persName>
+</person>
+<person xml:id="croala.drama.360572">
+  <persName>Pavao iz Samozate</persName>
+</person>
+<person xml:id="croala.drama.356241">
+  <persName>Pelej</persName>
+</person>
+<person xml:id="croala.drama.328088">
+  <persName>Perillus</persName>
+</person>
+<person xml:id="croala.drama.343990">
+  <persName>Petar Patačić</persName>
+</person>
+<person xml:id="croala.drama.356125">
+  <persName>Petrus Termachich</persName>
+</person>
+<person xml:id="croala.drama.341481">
+  <persName>Petrus WkovichLibert. Brin.</persName>
+</person>
+<person xml:id="croala.drama.328062">
+  <persName>Philindus</persName>
+</person>
+<person xml:id="croala.drama.341362">
+  <persName>Philippus ZiererBuccarensis princip.</persName>
+</person>
+<person xml:id="croala.drama.340874">
+  <persName>Phinaldus</persName></person>
+<person xml:id="croala.drama.331321">
+  <persName>Pilad</persName>
+</person>
+<person xml:id="croala.drama.360775">
+  <persName>Pir</persName>
+</person>
+<person xml:id="croala.drama.364073">
+  <persName>Placid</persName>
+</person>
+<person xml:id="croala.drama.361945">
+  <persName>Pleuzid</persName>
+</person>
+<person xml:id="croala.drama.333944">
+  <persName>Polgoret Atenjanin</persName>
+</person>
+<person xml:id="croala.drama.342888">
+  <persName>Poluks</persName>
+</person>
+<person xml:id="croala.drama.348128">
+  <persName>Porcinus</persName>
+</person>
+<person xml:id="croala.drama.375652">
+  <persName>Potarius</persName>
+</person>
+<person xml:id="croala.drama.314893">
+  <persName>potkralj Benko Turoci</persName>
+</person>
+<person xml:id="croala.drama.327742">
+  <persName>Profesor Kolschmidt</persName>
+</person>
+<person xml:id="croala.drama.368480">
+  <persName>Prusija I.Kralj Bitinije</persName>
+</person>
+<person xml:id="croala.drama.359978">
+  <persName>Prusija II.</persName>
+</person>
+<person xml:id="croala.drama.335615">
+  <persName>Pupijen</persName>
+</person>
+<person xml:id="croala.drama.331367">
+  <persName>Pylades</persName>
+</person>
+<person xml:id="croala.drama.340863">
+  <persName>R. D. Bartholomaeus RiglinCler. Petr. Dalm. Segniensis casista</persName>
+</person>
+<person xml:id="croala.drama.340825">
+  <persName>R. D. Wolffgangus PetrichichComes palatinus Cler. Petr. Dalm. Segniensiscasista</persName>
+</person>
+<person xml:id="croala.drama.372523">
+  <persName>Rajnald</persName>
+</person>
+<person xml:id="croala.drama.359453">
+  <persName>Ramirus</persName>
+</person>
+<person xml:id="croala.drama.347164">
+  <persName>Ramses II.</persName>
+</person>
+<person xml:id="croala.drama.369777">
+  <persName>Raynaldus</persName>
+</person>
+<person xml:id="croala.drama.348218">
+  <persName>Regner</persName>
+</person>
+<person xml:id="croala.drama.366716">
+  <persName>Renaldo</persName>
+</person>
+<person xml:id="croala.drama.334039">
+  <persName>Rheinaschus Walsee</persName>
+</person>
+<person xml:id="croala.drama.373553">
+  <persName>Rhenartus</persName>
+</person>
+<person xml:id="croala.drama.340904">
+  <persName>Rhinaldus</persName>
+</person>
+<person xml:id="croala.drama.360877">
+  <persName>Roboam</persName>
+</person>
+<person xml:id="croala.drama.341237">
+  <persName>Rochus MallessichNob. Dalm. Seg. rhetor</persName>
+</person>
+<person xml:id="croala.drama.366798">
+  <persName>Rodoald Tuluški</persName>
+</person>
+<person xml:id="croala.drama.341047">
+  <persName>Rogerius Praefectus Militiae</persName>
+</person>
+<person xml:id="croala.drama.328075">
+  <persName>Rosindus</persName>
+</person>
+<person xml:id="croala.drama.359559">
+  <persName>Samson</persName>
+</person>
+<person xml:id="croala.drama.362042">
+  <persName>Sanherib</persName>
+</person>
+<person xml:id="croala.drama.370376">
+  <persName>Schubert</persName>
+</person>
+<person xml:id="croala.drama.335507">
+  <persName>Scipion Emilijan</persName>
+</person>
+<person xml:id="croala.drama.354268">
+  <persName>Sejslav</persName>
+</person>
+<person xml:id="croala.drama.363158">
+  <persName>Seleuk</persName>
+</person>
+<person xml:id="croala.drama.361361">
+  <persName>Selim</persName>
+</person>
+<person xml:id="croala.drama.343568">
+  <persName>Selim I.</persName>
+</person>
+<person xml:id="croala.drama.357268">
+  <persName>Sezen</persName>
+</person>
+<person xml:id="croala.drama.372729">
+  <persName>Sidkija</persName>
+</person>
+<person xml:id="croala.drama.340821">
+  <persName>Sigefridus</persName>
+</person>
+<person xml:id="croala.drama.324572">
+  <persName>Sigerik</persName>
+</person>
+<person xml:id="croala.drama.374287">
+  <persName>Sigismund Szinkovich</persName>
+</person>
+<person xml:id="croala.drama.354770">
+  <persName>Silvestar</persName>
+</person>
+<person xml:id="croala.drama.341005">
+  <persName>Simon DengoriczaNob. Othochich. rhetor</persName>
+</person>
+<person xml:id="croala.drama.341475">
+  <persName>Simon OdorchihcLibert. Otochich.</persName>
+</person>
+<person xml:id="croala.drama.341433">
+  <persName>Simon OriskovichLibert. Brin</persName>
+</person>
+<person xml:id="croala.drama.349356">
+  <persName>sin Tit Manlije Torkvat</persName>
+</person>
+<person xml:id="croala.drama.352053">
+  <persName>Siroj</persName>
+</person>
+<person xml:id="croala.drama.370487">
+  <persName>Siroj&gt;</persName>
+  <!-- delete ovaj unos u prosopografija-fikcija -->
+</person>
+<person xml:id="croala.drama.316864">
+  <persName>siromašni Lazar</persName>
+</person>
+<person xml:id="croala.drama.337450">
+  <persName>Speramungus</persName>
+</person>
+<person xml:id="croala.drama.371722">
+  <persName>Spertije</persName>
+</person>
+<person xml:id="croala.drama.340949">
+  <persName>Spinalta Legatus Principum christianorum</persName>
+</person>
+<person xml:id="croala.drama.356135">
+  <persName>Steph. Busan</persName>
+</person>
+<person xml:id="croala.drama.374284">
+  <persName>Stephanus Chabrian</persName>
+</person>
+<person xml:id="croala.drama.328027">
+  <persName>Stephanus Gorovich</persName>
+</person>
+<person xml:id="croala.drama.341565">
+  <persName>Stephanus SerkotichLibert. Otochich. grammatista</persName>
+</person>
+<person xml:id="croala.drama.341309">
+  <persName>Stephanus SertichLibert. Udbinensis parvista</persName>
+</person>
+<person xml:id="croala.drama.358426">
+  <persName>Stilihon</persName>
+</person>
+<person xml:id="croala.drama.320308">
+  <persName>Suzana</persName>
+</person>
+<person xml:id="croala.drama.365214">
+  <persName>Sv. Eustahije</persName>
+</person>
+<person xml:id="croala.drama.350235">
+  <persName>Sv. Juraj</persName>
+</person>
+<person xml:id="croala.drama.339120">
+  <persName>Sveta Genoveva</persName>
+</person>
+<person xml:id="croala.drama.319041">
+  <persName>Sveta Katarina</persName>
+</person>
+<person xml:id="croala.drama.321632">
+  <persName>Sveta Katarina Aleksandrijska</persName>
+</person>
+                    <!-- Sveta Margareta Kortonska je već u latinisti-prosopografija-fikcija.xml -->
+
+<person xml:id="croala.drama.373649">
+  <persName>Sveta Pelagija iz Tarsa</persName>
+</person>
+<person xml:id="croala.drama.353497">
+  <persName>Sveti Agatonik</persName>
+</person>
+<person xml:id="croala.drama.364588">
+  <persName>Sveti Aleksandar</persName>
+</person>
+<person xml:id="croala.drama.364926">
+  <persName>Sveti Aleksandar iz Komane</persName>
+</person>
+<person xml:id="croala.drama.319735">
+  <persName>Sveti Aleksij</persName>
+</person>
+<person xml:id="croala.drama.326818">
+  <persName>Sveti Alojzije Gonzaga</persName>
+</person>
+<person xml:id="croala.drama.315013">
+  <persName>Sveti Ambrozije</persName>
+</person>
+<person xml:id="croala.drama.364193">
+  <persName>Sveti Andrija Corsini</persName>
+</person>
+<person xml:id="croala.drama.316292">
+  <persName>Sveti arkanđeo Mihael</persName>
+</person>
+<person xml:id="croala.drama.355220">
+  <persName>Sveti Augustin</persName>
+</person>
+<person xml:id="croala.drama.335967">
+  <persName>Sveti Babila</persName>
+</person>
+<person xml:id="croala.drama.317206">
+  <persName>Sveti Bernardin Sijenski</persName>
+</person>
+<person xml:id="croala.drama.347331">
+  <persName>Sveti Blaž</persName>
+</person>
+<person xml:id="croala.drama.317078">
+  <persName>Sveti Bruno</persName>
+</person>
+<person xml:id="croala.drama.356340">
+  <persName>Sveti Cezarije iz Arla</persName>
+</person>
+<person xml:id="croala.drama.370777">
+  <persName>Sveti Edmund od Abingdona</persName>
+</person>
+<person xml:id="croala.drama.320512">
+  <persName>Sveti Eustahij mučenik</persName>
+</person>
+<person xml:id="croala.drama.356532">
+  <persName>Sveti Fausto</persName>
+</person>
+<person xml:id="croala.drama.321404">
+  <persName>Sveti Franjo Borgija</persName>
+</person>
+<person xml:id="croala.drama.329435">
+  <persName>Sveti Franjo Ksaverski</persName>
+</person>
+<person xml:id="croala.drama.320181">
+  <persName>Sveti Galikan</persName>
+</person>
+<person xml:id="croala.drama.342997">
+  <persName>Sveti Genezije</persName>
+</person>
+<person xml:id="croala.drama.356757">
+  <persName>Sveti Herman Jozef</persName>
+</person>
+<person xml:id="croala.drama.324460">
+  <persName>Sveti Hilarion biskup</persName>
+</person>
+<person xml:id="croala.drama.314518">
+  <persName>Sveti Ignacije</persName>
+</person>
+<person xml:id="croala.drama.314512">
+  <persName>Sveti Ignacije&gt;</persName>
+  <!-- ovo delete u prosopografija-fikcija -->
+</person>
+<person xml:id="croala.drama.314663">
+  <persName>Sveti Ivan Evanđelist</persName>
+</person>
+<person xml:id="croala.drama.336846">
+  <persName>Sveti Ivan Hrvatski</persName>
+</person>
+<person xml:id="croala.drama.326915">
+  <persName>Sveti Ivan Kalibita</persName>
+</person>
+<person xml:id="croala.drama.338926">
+  <persName>Sveti Ivan Krstitelj</persName>
+</person>
+<person xml:id="croala.drama.348950">
+  <persName>Sveti Jozafat</persName>
+</person>
+<person xml:id="croala.drama.345343">
+  <persName>Sveti Juraj</persName>
+</person>
+<person xml:id="croala.drama.328822">
+  <persName>Sveti Just</persName>
+</person>
+<person xml:id="croala.drama.331977">
+  <persName>Sveti Kasijan</persName>
+</person>
+<person xml:id="croala.drama.353217">
+  <persName>Sveti Klodoald</persName>
+</person>
+<person xml:id="croala.drama.322822">
+  <persName>Sveti Kvirin</persName>
+</person>
+<person xml:id="croala.drama.342150">
+  <persName>Sveti Landelin iz Crespina</persName>
+</person>
+<person xml:id="croala.drama.342281">
+  <persName>Sveti Libert</persName>
+</person>
+<person xml:id="croala.drama.346951">
+  <persName>Sveti Majorik</persName>
+</person>
+<person xml:id="croala.drama.314773">
+  <persName>Sveti Malho</persName>
+</person>
+<person xml:id="croala.drama.375117">
+  <persName>Sveti Marijan</persName>
+</person>
+<person xml:id="croala.drama.331096">
+  <persName>Sveti Marko Križevčanin</persName>
+</person>
+<person xml:id="croala.drama.369661">
+  <persName>Sveti Mauricije</persName>
+</person>
+<person xml:id="croala.drama.320986">
+  <persName>Sveti Niketa</persName>
+</person>
+<person xml:id="croala.drama.363468">
+  <persName>Sveti Nikola</persName>
+</person>
+<person xml:id="croala.drama.334499">
+  <persName>Sveti Pankracije</persName>
+</person>
+<person xml:id="croala.drama.317934">
+  <persName>Sveti Paulin Nolski</persName>
+</person>
+<person xml:id="croala.drama.346266">
+  <persName>Sveti Sebastijan</persName>
+</person>
+<person xml:id="croala.drama.317286">
+  <persName>Sveti Servolo mučenik</persName>
+</person>
+<person xml:id="croala.drama.342609">
+  <persName>Sveti Silvestar Gozzolini</persName>
+</person>
+<person xml:id="croala.drama.336269">
+  <persName>Sveti Simeon Opat</persName>
+</person>
+<person xml:id="croala.drama.336263">
+  <persName>Sveti Simeon opat</persName>
+</person>
+<person xml:id="croala.drama.318755">
+  <persName>Sveti Stanislav</persName>
+</person>
+<person xml:id="croala.drama.350826">
+  <persName>Sveti Stanislav Kostka</persName>
+</person>
+<person xml:id="croala.drama.315553">
+  <persName>Sveti Stjepan I.</persName>
+</person>
+<person xml:id="croala.drama.371632">
+  <persName>Sveti Teodor Pustinjak</persName>
+</person>
+<person xml:id="croala.drama.324264">
+  <persName>Sveti Ulrik</persName>
+</person>
+<person xml:id="croala.drama.370683">
+  <persName>Sveti Venancije</persName>
+</person>
+<person xml:id="croala.drama.318119">
+  <persName>Sveti Vid</persName>
+</person>
+<person xml:id="croala.drama.345227">
+  <persName>Sveti Viktor iz Marseillesa</persName>
+</person>
+<person xml:id="croala.drama.320414">
+  <persName>Sveti Viktor mučenik</persName>
+</person>
+<person xml:id="croala.drama.374432">
+  <persName>Sveti Vitalis</persName>
+</person>
+<person xml:id="croala.drama.359759">
+  <persName>Šadrak</persName>
+</person>
+<person xml:id="croala.drama.353298">
+  <persName>Šaul</persName>
+</person>
+<person xml:id="croala.drama.316861">
+  <persName>Škrti bogataš </persName>
+</person>
+<person xml:id="croala.drama.333110">
+  <persName>Tantal</persName>
+</person>
+<person xml:id="croala.drama.356244">
+  <persName>Telamon</persName>
+</person>
+<person xml:id="croala.drama.338490">
+  <persName>Temistoklo</persName>
+</person>
+<person xml:id="croala.drama.339641">
+  <persName>Teofob</persName>
+</person>
+<person xml:id="croala.drama.341246">
+  <persName>Thad. RukavinaNob. Perussich poëta</persName>
+</person>
+<person xml:id="croala.drama.341167">
+  <persName>Thadaeus RukavinaNob. Perussich poeta</persName>
+</person>
+<person xml:id="croala.drama.328126">
+  <persName>Theobaldus</persName>
+</person>
+<person xml:id="croala.drama.341098">
+  <persName>Theophilus</persName>
+</person>
+<person xml:id="croala.drama.331391">
+  <persName>Thoas</persName>
+</person>
+<person xml:id="croala.drama.341264">
+  <persName>Thomas JankovichNob. Seg. Dalm. grammatista</persName>
+</person>
+<person xml:id="croala.drama.341427">
+  <persName>Thomas OriskovichLibert. Brin.</persName>
+</person>
+<person xml:id="croala.drama.336169">
+  <persName>Thomas Pounde</persName>
+</person>
+<person xml:id="croala.drama.341577">
+  <persName>Thomas StinachCivis Segn. principistas</persName>
+</person>
+<person xml:id="croala.drama.357265">
+  <persName>Timon</persName>
+</person>
+<person xml:id="croala.drama.346344">
+  <persName>Toma Nádasdy</persName>
+</person>
+<person xml:id="croala.drama.316052">
+  <persName>Tome Erdödyja</persName>
+</person>
+<person xml:id="croala.drama.372299">
+  <persName>Tomirida</persName>
+</person>
+<person xml:id="croala.drama.369973">
+  <persName>Tomo Nádasdy</persName>
+</person>
+<person xml:id="croala.drama.348221">
+  <persName>Torold</persName>
+</person>
+<person xml:id="croala.drama.317376">
+  <persName>Trebel</persName>
+</person>
+<person xml:id="croala.drama.362148">
+  <persName>Ukundo</persName>
+</person>
+<person xml:id="croala.drama.347487">
+  <persName>Valentinijan</persName>
+</person>
+<person xml:id="croala.drama.348575">
+  <persName>Valentinijan II.</persName>
+</person>
+<person xml:id="croala.drama.364694">
+  <persName>Viktorije</persName>
+</person>
+<person xml:id="croala.drama.356535">
+  <persName>Viktorin</persName>
+</person>
+<person xml:id="croala.drama.321887">
+  <persName>Vilim Normanski</persName>
+</person>
+<person xml:id="croala.drama.341193">
+  <persName>Vincentius HomolichPeriilust. Dalm. Segn. parvista</persName>
+</person>
+<person xml:id="croala.drama.344904">
+  <persName>Vitold</persName>
+</person>
+<person xml:id="croala.drama.338794">
+  <persName>Vladimir</persName>
+</person>
+<person xml:id="croala.drama.352886">
+  <persName>Waronayeve</persName>
+</person>
+<person xml:id="croala.drama.341102">
+  <persName>Wolfgangus HomolichPerillustris Dalm. Segn. parvista</persName>
+</person>
+<person xml:id="croala.drama.331402">
+  <persName>Xamicondus</persName>
+</person>
+<person xml:id="croala.drama.366537">
+  <persName>Zair</persName>
+</person>
+<person xml:id="croala.drama.345733">
+  <persName>Zeferik</persName>
+</person>
+<person xml:id="croala.drama.370937">
+  <persName>Zenobija</persName>
+</person>
+                    
+                </listPerson>
+            </div>
+        </body>
+    </text>
+</TEI>

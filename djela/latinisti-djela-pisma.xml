@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bibliografija hrvatskih latinista - djela, pisma, elektronska verzija</title>
+                <editor>Irena Galić Bešker</editor>
+                <respStmt>
+                    <resp>Editionem electronicam curavit</resp>
+                    <name>Neven Jovanović</name>
+
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>Mense Octobri, 2014.</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Rad nastao u okviru znanstvenog projekta Croatica et Tyrolensia,
+                    (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>Listopad
+                2014</date>
+            </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Dokument nastao stručnim računalnim radom.</p>
+            </sourceDesc>
+
+        </fileDesc>
+        <revisionDesc>
+
+                <change>
+                    <name>Neven Jovanović</name>
+                    <date>2014-10-13</date>
+Prva verzija, s dva početna unosa.
+                </change>
+            
+            
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <front>
+            <docAuthor>Irena Galić Bešker</docAuthor>
+            <docAuthor>Neven Jovanović</docAuthor>
+            <docTitle>
+                <titlePart>Bibliografija hrvatskih latinista - djela: pisma</titlePart>
+            </docTitle>
+            <docDate>Listopad 2011.</docDate>
+        </front>
+        <body>
+            <div type="bibliografija">
+                <head>Katalog djela hrvatskih latinista - pisma</head>
+            <!-- svaki autor ima svoj listBibl element -->
+                <listBibl type="ostali" ana="croala.opera.epist">
+                    <head>Ignjat Alojzije Brlić</head>
+                                        <!-- Brlić, pismo -->
+                    <biblStruct xml:id="brlic-ia-epist-1837-10-22" type="opus">
+                        <monogr>
+                            <author>
+                            <ref target="brlic01">Brlić, Ignjat Alojzije</ref>
+                        </author>
+                        <title>
+                            <ref>Epistula ad Andriam Torquatum filium (Brod, 1837-10-22)</ref>
+                        </title>
+                        <imprint>
+                            <pubPlace ref="3190586">
+                           <ref type="geonames" target="3190586">Brod</ref>
+                        </pubPlace>
+                            <date when="1837-10-22" period="18xx_2_third">1837-10-22</date>
+                     </imprint>
+                        </monogr>
+                        <note ana="recipient">
+                            <persName type="recipient">
+                        <ref type="croala.pers" target="croala.publika.brlic.andrija.torkvat">Brlić, Andrija Torkvat</ref>
+                     </persName>
+                            <placeName type="recipient">
+                        <ref type="geonames" target="3187719">Vinkovci</ref>
+                     </placeName>
+                        </note>
+                        <note type="genus" target="gen.a5">epistolografija</note>
+                        <note type="genus" target="gen.a5.1">poslanica u prozi</note>
+                        <note type="genus" target="gen.a5.3">pismo</note>
+                        <note ana="addedby">
+                            <persName type="bibliographer">
+                        <ref type="viaf" target="6913774">Jovanović,
+                                Neven</ref>
+                     </persName>
+                            <date when="2014-11-09">2014-11-09</date>
+                        </note>
+                        
+                        <note ana="abstract"> 
+                            Odgovara na sinovljevo latinsko pismo. Žali zbog sinovljeve loše latinštine. Ispravlja greške (u izboru riječi). Nije zadovoljan što sin želi na tečaj crtanja. Preporučuje mu tečaj krasopisa, smatra da sin ružno piše. Slaže se da sin pohađa tečaj glazbe. Ipak su najvažniji gramatika i gimnazija. Pozdravlja učitelja, katehetu, obitelj kod koje se sin hrani. Šalje mu udžbenik glazbenoga i neka pisma koja treba dalje predati. Za glazbeni će platiti kateheta, kojeg će I. A. B. namiriti kasnije. Poklanja i kalendare kateheti, profesoru, ravnatelju gimnazije (Adžiću?). Prenosi pozdrave majke, braće i sestara. Obećava mu sat ako bude dobro učio.
+                        </note>
+                        <relatedItem type="croala.typ">
+                            <ref type="croala" target="brlicpismasinu1942">Pisma sinu Andriji Torkvatu 1836-1855, Ignjat Alojzije Brlić. 
+                                Zagreb: Izd. Hrvatskog bibliografskog zavoda, 1942. Sv. 1, s. 21--23.</ref>
+                        </relatedItem>
+                        <relatedItem type="croala.digital">
+                            <ref type="croala" target="#brlic-ia-epist">CroALa: brlic-ia-epist</ref>
+                        </relatedItem>
+                    </biblStruct>
+                </listBibl>
+                <listBibl type="ostali" ana="croala.opera.epist">
+                    <head>Ivan Sobota</head>
+                    <bibl xml:id="sobot01-p01-14xx" type="opus">
+                        <author>
+                            <ref target="sobot01">Sobota, Ivan</ref>
+                        </author>
+                        <date from="1453" to="1455" notAfter="1467" period="14xx_2_third">14--?</date>
+                        <note type="genus01.lat">latinska proza</note>
+                        <note type="genus">pisma</note>
+                        <note type="status" target="classstat-rkp">Sačuvano u rukopisu.</note>
+                        <note type="status">djelomično sačuvano i objavljeno</note>
+                        <note>objavljena pisma zadarskom nadbiskupu Maffeu Vallaressu i prijatelju Pietru Morosiniju</note>
+                    </bibl>
+                    <biblStruct xml:id="sobota-epistula-tragurii-1438-07-15" type="opus">
+                        <monogr>
+                            <author>
+                        <ref target="sobot01">Sobota, Ivan</ref>
+                     </author>
+                            <title>
+                                Epistula ad Mapheum Vallaressum (Tragurii, 15. 7. 1438)
+                            </title>
+                            <textLang>lat</textLang>
+                            <imprint>
+                                <pubPlace ref="3188763">
+                           <ref type="geonames" target="3188763">Trogir</ref>
+                        </pubPlace>
+                                <date when="1438-07-15" period="14xx_2_third">1438-07-15</date>
+                            </imprint>
+                        </monogr>
+                        <note ana="recipient">
+                            <persName type="recipient">
+                        <ref type="croala.pers" target="croala.publika.vallaresso.maffeo">Vallaresso, Maffeo</ref>
+                     </persName>
+                            <placeName type="recipient">
+                        <ref type="geonames" target="3164603">Venecija</ref>
+                     </placeName>
+                        </note>
+                        <note type="genus" target="gen.a5">epistolografija</note>
+                        <note type="genus" target="gen.a5.1">poslanica u prozi</note>
+                        <note type="genus" target="gen.a5.3">pismo</note>
+                        <note ana="addedby">
+                            <persName type="bibliographer">
+                        <ref type="viaf" target="6913774">Jovanović,
+                                Neven</ref>
+                     </persName>
+                            <date when="2014-10-09">2014-10-09</date>
+                        </note>
+                        
+                        <note ana="abstract"> Jučer (14. 7. 1438.) primio je Vallaressovo pismo. Malo je
+                            bolestan, ali pismo ga je okrijepilo. Zahvaljuje na čestitci zbog sretnog
+                            povratka u Trogir. Drago mu je što Vallaresso ne sudjeluje u
+                            <q>turbulentissimis Patavinis rebus</q>. Zabrinut je zbog političkog nereda
+                            koji utječe na <q>res nostra totusque litterarum ordo</q>. Zanima ga koji su to
+                            <q>ex nostra disciplina</q> za koje Vallaresso spominje da su umiješani u te
+                            nerede. Zanima ga kakav je položaj Marca Donata i ostalih patricija. Moli
+                            Vallaressa da prenese pozdrave Andrei Venieru, za kojeg zna da je u Veneciji.
+                        </note>
+                        <relatedItem type="croala.ms">
+                            <ref type="croala" target="it-vat-bibvat-barblat1809">Barb. lat. 1809, p. 675-676</ref>
+                        </relatedItem>
+                        <relatedItem type="croala.typ">
+                            <ref type="croala" target="novakovicepistolarij2012">Novaković, Darko ; Jovanović, Neven (ur.) ; Jozić, Branko (ur.) ; Gálvez, Francisco Javier Juez (ur.) ; Lučin, Bratislav (ur.): Epistolarij nadbiskupa Maffea Vallaressa kao vrelo za povijest hrvatskoga humanizma. U: Colloquia Maruliana XXI: knjige i čitatelji u hrvatskoj renesansi. Split : Književni krug - Marulianum, 2012, s. 5-24.</ref>
+                        </relatedItem>
+                        <relatedItem type="croala.digital">
+                            <ref target="sobota-i-epist-1438-07-15">CroALa: sobota-i-epist-1438-07-15</ref>
+                        </relatedItem>
+                    </biblStruct>
+                    
+                    <biblStruct xml:id="sobota-epistula-venetiis-1451-06-28" type="opus">
+                        <monogr>
+                            <author>
+                        <ref target="sobot01">Sobota, Ivan</ref>
+                     </author>
+                            <title>
+                                Johannes Sobotae Mapheo archiepiscopo Hyadrensi (Venetiis, 1451-06-28)
+                            </title>
+                            <title type="incipit">Novi excellens ingenium tuum, quam cupidissimus sis magnarum rerum</title>
+                            <textLang>lat</textLang>
+                            <imprint>
+                                <pubPlace ref="3164603">
+                           <ref type="geonames" target="3164603">Venecija</ref>
+                        </pubPlace>
+                                <date when="1451-06-28" period="14xx_2_third">1451-06-28</date>
+                            </imprint>
+                        </monogr>
+                        <note ana="recipient">
+                            <persName type="recipient">
+                        <ref type="croala.pers" target="croala.publika.vallaresso.maffeo">Vallaresso, Maffeo</ref>
+                     </persName>
+                            <placeName type="recipient" cert="unknown">
+                        <ref type="geonames" target="3164603">Zadar</ref>
+                     </placeName>
+                        </note>
+                        <note type="genus" target="gen.a5">epistolografija</note>
+                        <note type="genus" target="gen.a5.1">poslanica u prozi</note>
+                        <note type="genus" target="gen.a5.3">pismo</note>
+                        <note ana="addedby">
+                            <persName type="bibliographer">
+                        <ref type="viaf" target="6913774">Jovanović,
+                                Neven</ref>
+                     </persName>
+                            <date when="2014-10-10">2014-10-10</date>
+                        </note>
+                        
+                        <note ana="abstract">
+                            Javlja o napadu mletačkih snaga kod Verone na Bartolomea Colleonija, osumnjičenog za buntovnost. Reflektira o prevrtljivosti sreće: nakon Colleonijevih trijumfa nad Francuzima, sad je i njega snašla zla kob.
+                        </note>
+                        <relatedItem type="croala.ms">
+                            <ref type="croala" target="it-vat-bibvat-barblat1809">Barb. lat. 1809</ref>
+                        </relatedItem>
+                        
+                        <relatedItem type="croala.typ">
+                            <ref type="croala" target="rackiprilozi1867rad">Rački, Prilozi, 1867, 151-155.</ref>
+                        </relatedItem>
+                        <relatedItem type="croala.typ">
+                            <ref type="croala" target="jelic-regestum-starine29-1898">Jelić, Regestum litterarum, 1898, 44--45, 48.</ref>
+                        </relatedItem>
+                        <relatedItem type="croala.typ">
+                            <ref type="croala" target="jelic-regestum-starine29-1898">Jelić, Regestum litterarum, 1898, 44--45, 48.</ref>
+                        </relatedItem>
+                        <relatedItem type="croala.digital">
+                            <ref target="sobota-i-epist-1451-06-28">CroALa: sobota-i-epist-1451-06-28</ref>
+                        </relatedItem>
+                    </biblStruct>
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

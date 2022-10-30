@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>RUKOPISI IZ ZBIRKE MILANA REŠETARA</title>
+            <author><name xml:id="IB">Irena Bratičević</name></author>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <name xml:id="NJ">Neven Jovanović</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               TEI XML verzija digitalnog dokumenta.
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>elektronska verzija: <name>Digitalizacija hrvatskih latinista</name>, znanstveni
+               projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+               Hrvatska.  <date when="2012-12">Prosinca 2012</date></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Podaci prikupljeni tijekom istraživanja u knjižnici (Slovanska knihovna, Prag)</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>2012-12-29T19:37:42</date>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart>RUKOPISI IZ ZBIRKE MILANA REŠETARA</titlePart>
+            <titlePart>SNIMLJENI U SLOVANSKOJ KNIHOVNI U PRAGU</titlePart>
+         </docTitle>
+         <docAuthor>Irena Bratičević</docAuthor>
+         <docDate>2012.</docDate>
+      </front>
+      <body>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 343</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Euzebije Kaboga</author>
+                  <title> De exemplis illustrium virorum Rhagusanae Civitatis vel et Exterorum
+                  </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prema Pantiću, to je rukopis Iva Aletina s kraja 17. st.</p>
+                  <p>- prema Rešetaru, rukopis je s početka 18. st.</p>
+               </handDesc>
+               <bindingDesc>
+                  <p>- stari uvez</p>
+                  <p>- natpis na hrptu: Eus. Cab. / EXEMPLA / ILL. / VIROR.</p>
+               </bindingDesc>
+
+               <accMat><p>- natpis na prvom listu, "Gloria majorum posteris lumen", rukom M.
+                     Marinovića</p>
+                  <p>- dva lista prazna, pa prvotni rukopis</p></accMat>
+
+            </physDesc>
+            <history>
+               <p>- na naslovnici: Exempla / illustrium virorum / Rhacusanae civitatis</p>
+               <p>- ispod Marinovićevom rukom: "Ex Bib. Marci Marinovich"</p>
+            </history>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 347</idno>
+            </msIdentifier>
+
+            <msContents>
+               <msItem>
+                  <author>Cordara</author>
+                  <author>Kunić</author>
+                  <author>Fortis</author>
+                  <author>nepoznati</author>
+                  <title> Sulla Parruca del P. Boscovich (izvornik i prepjev)</title>
+                  <note> Po jedan epigram Fortisa i nepoznatog autora </note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>Prijepis Đura Ferića</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 389</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ruđer Bošković</author>
+                  <title> Selecta quaedam ex mathematicis edita in Collegio R. </title>
+                  <note>- 1741.</note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>- prijepis s crtežima</p>
+               <p>- knjiga ima oznaku Breyerove knjižare i antikvarijata</p>
+            </physDesc>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 393</idno></msIdentifier>
+         <msContents><msItem><author>Flaminio</author>
+            <author>Navagero</author>
+            <author>Bembo</author>
+            <author>Marullo</author>
+            <author>Kunić</author>
+            <author>Bošković</author>
+            <author>Zanotti</author>
+            <author>Taruffi i dr.</author>
+         <title>
+            Zbornik latinskih pjesama
+         </title>
+         <note>- djeluje kao bilježnica u kojoj je netko ex privata i po vlastitom ukusu prepisivao stihove različitih autora</note></msItem></msContents></msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 413</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Marko Faustin Galjuf</author>
+                  <title> Versi estemporanei latini </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>Marinovićev prijepis izdanja iz Alessandrije, 1826.</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 415</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Benedikt Rogačić</author>
+                  <title> De Terraemotu </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prijepis Ivana Marije Matijaševića</p>
+                  <p>- navodi da je autograf sačuvan u kući Stay i da on prepisuje iz njega
+                     1754.</p>
+                  <p>- prepisivač numerira stihove</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 423</idno></msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Đuro Ferić</author>
+                  <title> Fedra, Augustova odsužnika Pričice Ezopove </title>
+               </msItem>
+               <msItem>
+                  <p>- na posljednjoj stranici bilješka cenzure</p>
+               </msItem>
+               <msItem>
+                  <p>- u novije vrijeme bilješka olovkom u gornjem desnom kutu, djelomično izbrisana
+                     i teško čitljiva</p>
+               </msItem>
+            </msContents>
+         <physDesc><handDesc><p>- autograf</p>
+         <p>- autorovom rukom još tu i tamo ispravci</p>
+         <p>- nema naslovnice</p>
+         </handDesc></physDesc>
+         
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4110</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Prepjevi Ovidijevih Heroida</summary>
+               <msItem>
+                  <author>Josip Betondić</author>
+                  <author>Jakov Betondić</author>
+                  <title>
+                     Prepjevi Ovidijevih Heroida
+                  </title>
+               </msItem>
+               <msItem>
+                  <p>- više zapisa cenzure u Zadru iz 1842. i 1843.</p>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prijepis Marka Marinovića</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4112</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Marko Faustin Galjuf: Njegove pjesme i tekstovi o njemu</summary>
+               <msItem>
+                  <author>Marko Faustin Galjuf</author>
+                  <note>
+                     Njegove pjesme i tekstovi o njemu
+                  </note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prikupio i prepisao Marko Marinović</p>
+               </handDesc>
+               <bindingDesc>
+                  <p>- u uvezu je prvi list (nakon naslovnoga, na kojemje moto) označen brojem 2, a
+                     Marinovićeva paginacija počinje s 53</p>
+                  <p>- ekslibris Antuna Fabrisa</p>
+               </bindingDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4119</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ignjat Đurđević</author>
+                  <title> Vitae et carmina </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prijepis Ivana Ksavera Altestija</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4123</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Đuro Ferić</author>
+                  <title> Adagia </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prijepis Rafa Radelje</p>
+                  <p>- nema Radeljina ekslibrisa</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4127</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Marko Bruerević</author>
+                  <title> Poesie illiriche, latine ed italiane </title>
+                  <note>- pjesme koje je Marinović sabrao i zbirku posvetio Jeremiji Gagiću</note>
+               </msItem>
+               <msItem>
+                  <p>- predmetnuo je nekrolog Bruereviću i stihove njemu u spomen</p>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <p>- prijepis Marka Marinovića </p>
+
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4128</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Antun Krša</author>
+                  <author> i dr.</author>
+                  <title> Ad Mariam Pedenam </title>
+                  <note>- vjerojatno cijela zbirka</note>
+                  <note>- Kršina je elegija prva</note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prijepis Rafa Radelje</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4129</idno></msIdentifier>
+         <msContents><msItem><p>Inocent Čulić</p>
+         <p>
+            Pismo, s. d., s. t.
+         </p></msItem></msContents>
+         </msDesc>
+         <msDesc><msIdentifier>
+            <placeName>Prag</placeName>
+            <institution>Slovanska knihovna</institution>
+            <collection>Zbirka Milana Rešetara</collection>
+         <idno>T 4138</idno></msIdentifier>
+         <msContents><msItem><title>
+            U smrt ljekarnika Mata Vokativa
+         </title>
+         <note>- 1825.</note>
+            <note>- književni epitaf potpisan "L. S."</note>
+            <note>- nepotpisana pjesma u šest heksametara</note>
+            <note>- nepotpisana pjesma u hrvatskim osmercima</note>
+         </msItem></msContents>
+         <physDesc><handDesc><p>- prijepis Rafa Radelje</p></handDesc></physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4151</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <title> Libretto delle lodi dei diversi scolari, che si / facevano in tempo delle
+                     spiegazioni / Magistrali </title>
+                  <note>- nema naznake autora; katalog pripisuje Urbanu Lamprediju</note>
+                  <note>- talijanski</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4167</idno></msIdentifier>
+         <msContents><msItem><author>Đuro Ferić</author>
+         <title>
+            Carmina iocosa
+         </title></msItem></msContents>
+         <physDesc><handDesc><p>- prijepis, možda I. A. Kaznačića?</p></handDesc></physDesc></msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4170</idno></msIdentifier>
+         <msContents><msItem><author>Anica Bošković</author>
+         <title>
+            U smrt oca Urbana
+         </title></msItem></msContents>
+         <physDesc><handDesc><p>- autograf</p>
+         <p>- netko tko je nadopisao naslov na dnu je dodao: "Aniza Boscovich gne rukom"</p>
+         <p>- na poleđini zadnjeg lista broj 2168</p></handDesc></physDesc></msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4171</idno></msIdentifier>
+         <msContents><msItem><author>Anica Bošković</author>
+         <title>
+            Prisvetomu Djetešcu Jezusu na kapetana molba
+         </title></msItem></msContents>
+         <physDesc><handDesc><p>- autograf</p></handDesc>
+         <bindingDesc><p>- nema ekslibris Rešetarove biblioteke</p></bindingDesc></physDesc></msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4172</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Jakov Betondić</author>
+                  <title> Allegoria alla Patria </title>
+                  <note>prijevod Džamanjićeve pjesme</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4184</idno></msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Antun Krša</author>
+                  <title> Pismo Antinoriju u Perugiju iz Dubrovnika 10. 4. 1827. </title>
+               </msItem>
+            </msContents>
+         <physDesc><handDesc><p>- autograf</p></handDesc></physDesc></msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4185</idno></msIdentifier>
+         <msContents><msItem><author>Antun Krša</author>
+         <title>
+            Pismo Muzzarelliju u Rim iz Dubrovnika 20. 4. 1829.
+         </title></msItem></msContents>
+         <physDesc><handDesc><p>- autograf</p></handDesc></physDesc></msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4206</idno></msIdentifier>
+         <msContents><msItem><author>Rajmund Kunić</author>
+         <title>
+            Epigrami
+         </title></msItem></msContents>
+         <physDesc><handDesc><p>Prijepis Rafa Radelje s bilješkama A. Krše u tekstu, a I. Čulića i V. Stullija na početku, odnosno na kraju rukopisa.</p>
+         <p>Stranice 589-604 prazne.</p></handDesc></physDesc></msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4208</idno></msIdentifier>
+         <msContents><msItem><author>Inocent Čulić</author>
+         <title>
+            Pismo Mihu Messiju u Split iz Dubrovnika 3. 8. 1838.
+         </title></msItem></msContents>
+         <physDesc><handDesc><p>- autograf</p></handDesc></physDesc></msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4210</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Didak Pir</author>
+                  <title> Didaci Pyrrhi Lusitani Elegiarum libri tres ... Accessit Lyricorum
+                     libellus eodem auctore </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- označen svaki folio (recto) neparnim brojem; prema toj numeraciji izvorni
+                     rkp. ima 112 str.</p>
+                  <p>- prvi dio, 1-46: prep. Đuro Ferić. Teško je razabrati sveščiće, ali čini se da
+                     je tu kraj drugog sveščića. List 15 je prazan; str. 30 prazna, a na 31
+                     ponovljena bilješka s 29. Elegije idu u nizu I-XI; na kraju XI (str. 36): Primi
+                     libri / Finis. Na 37: Liber secundus ad Benessum / Elegia. Na 44: Ad tassum
+                     poetam Tassi f. Elegia IIII. Str. 45 je prazna. Na 46: Michaeli Mensio Senatori
+                     graviss. / et aerarii IIII.</p>
+                  <p>- drugi dio: 47-89, druga ruka, ali Ferić unosi ispravke; In Mauri Vetrani
+                     Poetae Illyrici obitum / Elegia IIII; dalje elegije V-X, s bilješkama. Na str.
+                     68: Lyrica eiusdem auctoris: ode I-XI, a na 89: Tertii Libri Finis, rukom istog
+                     prepisivača</p>
+                  <p>- treći dio: 90-106, treća ruka. Posveta Zlatariću (90, 91); 92: Ad divum
+                     Blasium (posveta), 93: Divus Blasius Rhacusanus / Didaco Pyrrho Lusitano
+                     auctore, do 106. Označene su lakune. Tekst završava na 106; 107-112 su
+                     prazne.</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 4215</idno></msIdentifier>
+         <msContents><msItem><author>Anica Bošković</author>
+         <title>
+            Razgovor pastirski vrhu porođenja Gospodinova; 
+            Madrigale di Domenico Cerasola; 
+            prepjev
+         </title></msItem></msContents>
+         <physDesc><handDesc><p>- nije autograf!</p>
+         <p>- originalna paginacija i numeracija strofa</p></handDesc></physDesc></msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4217</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Marko Faustin Galjuf</author>
+                  <title> Pismo Torrigianima 8. 4. 1822. </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- autograf</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4226</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Marko Faustin Galjuf</author>
+                  <note> Uvez dvanaest Galjufovih pisama i pisama upućenih njemu od 1821. do 1833.
+                  </note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- Galjufova pisma u autografu</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4227</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Stjepan Gradić</author>
+                  <note> Tri pisma iz 1682. i 1683., poslana N. Buniću u Dubrovnik </note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- kasni prijepis</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4229</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Benedikt Rogačić</author>
+                  <author>Kunić</author>
+                  <author>Džamanjić</author>
+                  <author>Rastić</author>
+                  <title> Proseucticon; pjesme i prijevodi</title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- po ruci i strukturi zbornik izgleda dosta "školski"</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4233</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Anica Bošković</author>
+                  <title> Svetomu Vlahu biskupu </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <p>- nema ekslibris Rešetarove biblioteke</p>
+                  <p>- dimenzije iste kao T 4125</p>
+               </objectDesc>
+               <handDesc>
+                  <p>- autograf</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4250</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ivan August Kaznačić</author>
+                  <title> A Luca di Sorgo poeta </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- autograf</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4254</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Benedikt Stay</author>
+                  <title> Pismo pisano u Dubrovnik iz Rima 15. 5. 1766. </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- autograf</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4256</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Marko Faustin Galjuf</author>
+                  <title> Pismo Cresciniju u Parmu 8. 12. 1806. iz Genove </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- autograf</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4263</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ignjat Đurđević</author>
+                  <title> La descrizione del Lago di Meleda </title>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4266</idno>
+            </msIdentifier>
+            <p>Radelja, Rafo i dr.</p>
+            <p> Soneti </p>
+            <p>- Radeljin sonet učiteljima retorike, autograf, potpis i datacija 23. 6. 1819.</p>
+            <p>- drugi sonet: odgovor učitelja Radelji, nepoznata ruka</p>
+            <p>- jedna dvolisnica ispisana iznutra: prva i četvrta stranica prazne, paginacija:
+               32-35</p>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 4307</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <p>Čulić, Inocenc</p>
+                  <p>
+                     Catalogo / delle Parrochie, e degli Ecclesiastici Secolari /
+                        dimoranti in ognuna / Parrochia della Diocesi di Ragusa / scritto in
+                        Novembre dell' Anno 1819.
+                  </p>
+                  <p>- vjerojatno doušnički materijal</p>
+                  <p>- str. 53-64 prazne</p>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- autograf</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 9051</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Sebastijan Slade</author>
+                  <title> De origine Urbis Ragusinae. Diatriba historico-chronologica. </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- autograf ?</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 9053</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <title> Littera Joannis de Ragusio oratoris Sacri Concilii ad Graeciam </title>
+                  <note>- 1436.</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 9054</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Džono Rastić</author>
+                  <title> Vellus aureum </title>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <handDesc>
+                  <p>- prijepis Vlaha Stullija</p>
+               </handDesc>
+            </physDesc>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 9055</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Gučetić</author>
+                  <author>Bunić</author>
+                  <note> Pismo poklisara iz Silistrije 17. 6. 1678. </note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>T 9056</idno></msIdentifier>
+            <p>Anonim</p>
+         <p>Autori Illirici</p>
+         <p>- abecedni popis književnika</p>
+         </msDesc>
+         
+         
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>J 3259</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Ivan Marija Matijašević</author>
+                  <title> Srce Prisveto Jezusovo </title>
+                  <note>Venecija 1783.</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>J 7315</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Benedikt Stay</author>
+                  <title> Oratio in funere Clementis XIII. </title>
+                  <note>Rim 1769.</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>J 7316</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author><add resp="#IB">Luka Stulli</add></author>
+                  <title> Vaccinatio. Carmen elegiacum. </title>
+                  <note>[Pešta 1804]</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>J 7317</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Marko Faustin Galjuf</author>
+                  <title> In Raymundum Cunichium bonis omnibus ereptum </title>
+                  <note>Rim 1795.</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>J 7318</idno></msIdentifier>
+            <msContents><msItem><author>Rocchetti</author>
+         <title>
+            Raymundi Cunichii inter Arcades Perelai ad Elysia descensus
+         </title>
+         <note>s. l., s. a.</note></msItem></msContents></msDesc>
+         <msDesc><msIdentifier>
+                     <placeName>Prag</placeName>
+                        <institution>Slovanska knihovna</institution>
+<collection>Zbirka Milana Rešetara</collection>
+
+                        <idno>J 7319</idno></msIdentifier>
+         <msContents><msItem><author>Francesco Guadagni</author>
+         <title>
+            De Raymundo Cunichio non ita pridem vita functo
+         </title>
+         <note>s. l., s. a.</note></msItem></msContents></msDesc>
+         <msDesc>
+            <msIdentifier>
+               <placeName>Prag</placeName>
+               <institution>Slovanska knihovna</institution>
+               <collection>Zbirka Milana Rešetara</collection>
+
+               <idno>T 352</idno>
+            </msIdentifier>
+            <msContents>
+               <msItem>
+                  <author>Didak Pir</author>
+                  <title> Cato Minor sive Disticha moralia </title>
+                  <note>Venecija 1596.</note>
+               </msItem>
+            </msContents>
+         </msDesc>
+      </body>
+   </text>
+</TEI>
