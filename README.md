@@ -2,6 +2,8 @@
 
 Bibliografske XML datoteke za projekt Croatica et Tyrolensia / [Croatiae auctores Latini](https://croala.ffzg.unizg.hr/). --- Bibliographic data for the Croatica et Tyrolensia / Croatiae auctores Latini project.
 
+[![DOI](https://zenodo.org/badge/559629253.svg)](https://zenodo.org/badge/latestdoi/559629253)
+
 ## What is this repository for? ##
 
 Croalabiblio collects information on Croatian Latin authors, works, and manifestations (according to the FRBR scheme). Information is encoded in TEI XML format.
